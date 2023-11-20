@@ -1,5 +1,4 @@
-##############################env\Scripts\Activate.ps1#######################
-#####import pandas as pd
+import pandas as pd
 import streamlit as st
 import numpy as np
 import torch
@@ -9,7 +8,7 @@ from sentence_transformers import SentenceTransformer, util
 st.set_page_config(layout="centered", page_title="The CSV Boring Machine", page_icon="🐗")
 
 st.title("🐗 The Boring CSV Machine")
-st.caption("Replace unique room names with the most similar boring name.")
+st.caption("Annotate each unique room name with the most similar boring name.")
 
 # Load the model using Streamlit's caching
 @st.cache_data
@@ -48,12 +47,13 @@ if uploaded_classifier_file and uploaded_room_names_file:
         unique_count = row['Unique Count']
         top_match_indices = calculate_similarities(original_name, boring_names_embeddings)
         top_matches = [boring_names[i] for i in top_match_indices[:3]]
-        all_options = sorted(boring_names)  # Sort all boring names alphabetically
+        remaining_boring_names = sorted(set(boring_names) - set(top_matches))
+        all_options = top_matches + remaining_boring_names
 
         annotations_data.append({
             "Original Room Name": original_name,
             "Unique Count": unique_count,
-            "Selected Boring Name": top_matches[0],  # Default to top match
+            "Selected Boring Name": top_matches[0],
             "Top Boring Name Suggestion": top_matches[0],
             "Boring Name Options": all_options
         })

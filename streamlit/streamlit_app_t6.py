@@ -1,5 +1,4 @@
-##############################env\Scripts\Activate.ps1#######################
-#####import pandas as pd
+import pandas as pd
 import streamlit as st
 import numpy as np
 import torch
@@ -8,8 +7,8 @@ from sentence_transformers import SentenceTransformer, util
 # Set the page config
 st.set_page_config(layout="centered", page_title="The CSV Boring Machine", page_icon="🐗")
 
-st.title("🐗 The Boring CSV Machine")
-st.caption("Replace unique room names with the most similar boring name.")
+st.title("🐗 The Boring CSV MAchine")
+st.caption("Annotate each unique room name with the most similar boring name.")
 
 # Load the model using Streamlit's caching
 @st.cache_data
@@ -26,11 +25,9 @@ def calculate_similarities(room_name, boring_names_embeddings):
     top_results = torch.topk(similarities, k=len(boring_names_embeddings), dim=1, largest=True, sorted=True)
     return top_results.indices[0].tolist()
 
-# File uploaders in the sidebar
-with st.sidebar:
-    st.write("## Upload CSV Files")
-    uploaded_classifier_file = st.file_uploader("Upload CSV with classifier/boring list", type=["csv"])
-    uploaded_room_names_file = st.file_uploader("Upload CSV with original room names", type=["csv"])
+# File uploaders for CSV files
+uploaded_classifier_file = st.file_uploader("Upload CSV with classifier/boring list", type=["csv"])
+uploaded_room_names_file = st.file_uploader("Upload CSV with original room names", type=["csv"])
 
 if uploaded_classifier_file and uploaded_room_names_file:
     classifier_df = pd.read_csv(uploaded_classifier_file)
@@ -48,12 +45,13 @@ if uploaded_classifier_file and uploaded_room_names_file:
         unique_count = row['Unique Count']
         top_match_indices = calculate_similarities(original_name, boring_names_embeddings)
         top_matches = [boring_names[i] for i in top_match_indices[:3]]
-        all_options = sorted(boring_names)  # Sort all boring names alphabetically
+        remaining_boring_names = sorted(set(boring_names) - set(top_matches))
+        all_options = top_matches + remaining_boring_names
 
         annotations_data.append({
             "Original Room Name": original_name,
             "Unique Count": unique_count,
-            "Selected Boring Name": top_matches[0],  # Default to top match
+            "Selected Boring Name": top_matches[0],
             "Top Boring Name Suggestion": top_matches[0],
             "Boring Name Options": all_options
         })
@@ -64,19 +62,14 @@ if uploaded_classifier_file and uploaded_room_names_file:
     categories = df['Boring Name Options'][0]
     df['Selected Boring Name'] = pd.Categorical(df['Selected Boring Name'], categories=categories)
 
-    # Sort the DataFrame by 'Unique Count' (descending) and then by 'Original Room Name' (alphabetically)
-    df_sorted = df.sort_values(by=['Unique Count', 'Original Room Name'], ascending=[False, True])
-
-    # Rearrange columns to put 'Unique Count' on the left
-    df_display = df_sorted[['Unique Count', 'Original Room Name', 'Selected Boring Name']].copy()
-
     # Display DataFrame in data editor
-    annotated = st.data_editor(df_display, hide_index=True, use_container_width=True)
+    df_display = df.drop(columns=['Boring Name Options', 'Top Boring Name Suggestion']).copy()
+    annotated = st.data_editor(df_display, hide_index=True, use_container_width=True, disabled=["Original Room Name", "Unique Count"])
 
     # Prepare the final DataFrame for CSV download
     if annotated is not None:
         final_df = room_names_df.merge(
-            annotated[['Original Room Name', 'Selected Boring Name']],
+            annotated,
             on='Original Room Name',
             how='left'
         ).merge(

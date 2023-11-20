@@ -1,5 +1,4 @@
-##############################env\Scripts\Activate.ps1#######################
-#####import pandas as pd
+import pandas as pd
 import streamlit as st
 import numpy as np
 import torch
