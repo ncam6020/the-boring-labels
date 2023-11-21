@@ -4,4 +4,5 @@ numpy==1.21.4
 sentence-transformers==2.1.0
 torch==1.10.0
 huggingface_hub==0.4.0  # Or the version required by sentence_transformers
+streamlit-aggrid
 

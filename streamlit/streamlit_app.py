@@ -3,6 +3,7 @@ import pandas as pd
 import streamlit as st
 import torch
 from sentence_transformers import SentenceTransformer, util
+from st_aggrid import AgGrid, GridOptionsBuilder, JsCode
 
 # Set the page config
 st.set_page_config(layout="centered", page_title="The CSV Boring Machine", page_icon="🐗")
@@ -63,40 +64,44 @@ if uploaded_classifier_file and uploaded_room_names_file:
 
     df = pd.DataFrame(annotations_data)
     df_sorted = df.sort_values(by=['Unique Count', 'Original Room Name'], ascending=[False, True])
-    df_for_editor = df_sorted[['Unique Count', 'Original Room Name', 'Selected Boring Name']]
 
-    # Group the data editor and download button in a container
-    with st.container():
-        # Use st.data_editor with SelectboxColumn
-        edited_df = st.data_editor(
-            df_for_editor,
-            column_config={
-                "Selected Boring Name": st.column_config.SelectboxColumn(
-                    options=df['Boring Name Options'].iloc[0],
-                    default=df['Selected Boring Name'].iloc[0]
-                )
-            },
-            hide_index=True,
-            use_container_width=True  # Make data_editor use container width
-        )
+    # Define the cell style logic using JavaScript
+    cell_style_jscode = JsCode("""
+    function(params) {
+        if (params.value.includes("-")) {
+            var probability = parseInt(params.value.split("-")[1]);
+            if (probability >= 65) {
+                return { backgroundColor: 'green' };
+            } else if (probability >= 30) {
+                return { backgroundColor: 'yellow' };
+            } else {
+                return { backgroundColor: 'orange' };
+            }
+        }
+    };
+    """)
 
-        # Check if there are any changes and update the DataFrame
-        if edited_df is not None:
-            df['Selected Boring Name'] = edited_df['Selected Boring Name']
+    def get_grid_options(df):
+        gb = GridOptionsBuilder.from_dataframe(df)
+        gb.configure_column("Selected Boring Name", cellStyle=cell_style_jscode)
+        return gb.build()
 
-        final_df = room_names_df.merge(
-            df[['Original Room Name', 'Selected Boring Name']],
-            on='Original Room Name',
-            how='left'
-        )
+    grid_options = get_grid_options(df_sorted)
+    AgGrid(df_sorted, gridOptions=grid_options, fit_columns_on_grid_load=True, allow_unsafe_jscode=True)
 
-        final_csv_df = final_df[['Original Room Name', 'Selected Boring Name']]
+    final_df = room_names_df.merge(
+        df_sorted[['Original Room Name', 'Selected Boring Name']],
+        on='Original Room Name',
+        how='left'
+    )
 
-        # Download button for the final CSV, matching container width
-        st.download_button(
-            "⬇️ Download annotations as .csv",
-            final_csv_df.to_csv(index=False),
-            "annotated_room_names.csv",
-            mime='text/csv',
-            use_container_width=True  # Match the width of the container
-        )
+    final_csv_df = final_df[['Original Room Name', 'Selected Boring Name']]
+
+    # Download button for the final CSV
+    st.download_button(
+        "⬇️ Download annotations as .csv",
+        final_csv_df.to_csv(index=False),
+        "annotated_room_names.csv",
+        mime='text/csv',
+        use_container_width=True
+    )
