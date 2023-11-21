@@ -73,7 +73,7 @@ if uploaded_classifier_file and uploaded_room_names_file:
     # Display DataFrame in data editor
     annotated = st.data_editor(df_display, hide_index=True, use_container_width=True)
 
-    # Prepare the final DataFrame for CSV download
+   # Prepare the final DataFrame for CSV download
     if annotated is not None:
         final_df = room_names_df.merge(
             annotated[['Original Room Name', 'Selected Boring Name']],
