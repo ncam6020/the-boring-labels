@@ -5,11 +5,25 @@ import numpy as np
 import torch
 from sentence_transformers import SentenceTransformer, util
 
-# Set the page config
-st.set_page_config(layout="centered", page_title="The CSV Boring Machine", page_icon="🐗")
+# `st.set_page_config` is used to display the default layout width, the title of the app, and the emoticon in the browser tab.
 
-st.title("🐗 The Boring CSV Machine")
-st.caption("Replace unique room names with the most similar boring name.")
+st.set_page_config(
+    layout="centered", page_title="The Boring CSV Machine", page_icon="❄️"
+)
+
+############ CREATE THE LOGO AND HEADING ############
+# We create a set of columns to display the logo and the heading next to each other.
+c1, c2 = st.columns([0.32, 2])
+# The snowflake logo will be displayed in the first column, on the left.
+with c1:
+    st.image(
+        "images/boring logo.svg",
+        width=85,
+    )
+# The heading will be on the right.
+with c2:
+    st.title("The Boring CSV Machine")
+    st.caption("Replace unique room names with the most similar boring name.")
 
 # Load the model using Streamlit's caching
 @st.cache_data
