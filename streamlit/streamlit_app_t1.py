@@ -1,29 +1,14 @@
 ##############################env\Scripts\Activate.ps1#######################
 import pandas as pd
 import streamlit as st
-import numpy as np
 import torch
 from sentence_transformers import SentenceTransformer, util
 
-# `st.set_page_config` is used to display the default layout width, the title of the app, and the emoticon in the browser tab.
+# Set the page config
+st.set_page_config(layout="centered", page_title="The CSV Boring Machine", page_icon="🐗")
 
-st.set_page_config(
-    layout="centered", page_title="The Boring CSV Machine", page_icon="❄️"
-)
-
-############ CREATE THE LOGO AND HEADING ############
-# We create a set of columns to display the logo and the heading next to each other.
-c1, c2 = st.columns([0.32, 2])
-# The snowflake logo will be displayed in the first column, on the left.
-with c1:
-    st.image(
-        "images/boring logo.svg",
-        width=85,
-    )
-# The heading will be on the right.
-with c2:
-    st.title("The Boring CSV Machine")
-    st.caption("Replace unique room names with the most similar boring name.")
+st.title("🐗 The Boring CSV Machine")
+st.caption("Replace unique room names with the most similar boring name.")
 
 # Load the model using Streamlit's caching
 @st.cache_data
@@ -32,13 +17,15 @@ def load_model():
 
 model = load_model()
 
-# Function to calculate similarities
+# Function to calculate similarities and return indices and scores
 def calculate_similarities(room_name, boring_names_embeddings):
     input_embedding = model.encode(room_name, convert_to_tensor=True)
     input_embedding = input_embedding.unsqueeze(0)
     similarities = util.pytorch_cos_sim(input_embedding, boring_names_embeddings)
     top_results = torch.topk(similarities, k=len(boring_names_embeddings), dim=1, largest=True, sorted=True)
-    return top_results.indices[0].tolist()
+    indices = top_results.indices[0].tolist()
+    scores = top_results.values[0].tolist()
+    return indices, scores  # Return both indices and similarity scores
 
 # File uploaders in the sidebar
 with st.sidebar:
@@ -55,58 +42,62 @@ if uploaded_classifier_file and uploaded_room_names_file:
     boring_names = classifier_df['Boring Name'].tolist()
     boring_names_embeddings = torch.stack([model.encode(name, convert_to_tensor=True) for name in boring_names])
 
-    # Prepare data for annotation
     annotations_data = []
     for _, row in aggregated_df.iterrows():
         original_name = row['Original Room Name']
         unique_count = row['Unique Count']
-        top_match_indices = calculate_similarities(original_name, boring_names_embeddings)
-        top_matches = [boring_names[i] for i in top_match_indices[:3]]
-        all_options = sorted(boring_names)  # Sort all boring names alphabetically
+        top_match_indices, top_match_scores = calculate_similarities(original_name, boring_names_embeddings)
+        
+        # Format the top match with its probability (no decimals)
+        top_match_with_prob = f"{boring_names[top_match_indices[0]]} -{top_match_scores[0]*100:.0f}%"
+        
+        # All boring names in alphabetical order for the dropdown
+        alphabetical_boring_names = sorted(boring_names)
 
         annotations_data.append({
             "Original Room Name": original_name,
             "Unique Count": unique_count,
-            "Selected Boring Name": top_matches[0],  # Default to top match
-            "Top Boring Name Suggestion": top_matches[0],
-            "Boring Name Options": all_options
+            "Selected Boring Name": top_match_with_prob,
+            "Boring Name Options": alphabetical_boring_names
         })
 
     df = pd.DataFrame(annotations_data)
-
-    # Set categories for the 'Selected Boring Name' column
-    categories = df['Boring Name Options'][0]
-    df['Selected Boring Name'] = pd.Categorical(df['Selected Boring Name'], categories=categories)
-
-    # Sort the DataFrame by 'Unique Count' (descending) and then by 'Original Room Name' (alphabetically)
     df_sorted = df.sort_values(by=['Unique Count', 'Original Room Name'], ascending=[False, True])
+    df_for_editor = df_sorted[['Unique Count', 'Original Room Name', 'Selected Boring Name']]
 
-    # Rearrange columns to put 'Unique Count' on the left
-    df_display = df_sorted[['Unique Count', 'Original Room Name', 'Selected Boring Name']].copy()
+    # Group the data editor and download button in a container
+    with st.container():
+        # Use st.data_editor with SelectboxColumn
+        edited_df = st.data_editor(
+            df_for_editor,
+            column_config={
+                "Selected Boring Name": st.column_config.SelectboxColumn(
+                    options=df['Boring Name Options'].iloc[0],
+                    default=df['Selected Boring Name'].iloc[0]
+                )
+            },
+            hide_index=True,
+            use_container_width=True  # Make data_editor use container width
+        )
 
-    # Display DataFrame in data editor
-    annotated = st.data_editor(df_display, hide_index=True, use_container_width=True)
+        # Check if there are any changes and update the DataFrame
+        if edited_df is not None:
+            df['Selected Boring Name'] = edited_df['Selected Boring Name']
 
-    # Prepare the final DataFrame for CSV download
-    if annotated is not None:
         final_df = room_names_df.merge(
-            annotated[['Original Room Name', 'Selected Boring Name']],
-            on='Original Room Name',
-            how='left'
-        ).merge(
-            df[['Original Room Name', 'Top Boring Name Suggestion']],
+            df[['Original Room Name', 'Selected Boring Name']],
             on='Original Room Name',
             how='left'
         )
 
-        # Exclude 'Unique Count' from the final CSV
-        final_csv_df = final_df[['Original Room Name', 'Selected Boring Name', 'Top Boring Name Suggestion']]
+        final_csv_df = final_df[['Original Room Name', 'Selected Boring Name']]
 
-        # Download button for the final CSV
+        # Download button for the final CSV, matching container width
         st.download_button(
             "⬇️ Download annotations as .csv",
             final_csv_df.to_csv(index=False),
             "annotated_room_names.csv",
             mime='text/csv',
-            use_container_width=True
+            use_container_width=True  # Match the width of the container
         )
+

@@ -50,11 +50,10 @@ if uploaded_classifier_file and uploaded_room_names_file:
         unique_count = row['Unique Count']
         top_match_indices, top_match_scores = calculate_similarities(original_name, boring_names_embeddings)
         
-        # Append data with the top match score for web app display
+        # Append data with the top match score
         annotations_data.append({
             "Original Room Name": original_name,
             "Unique Count": unique_count,
-            "Selected Boring Name": f"{boring_names[top_match_indices[0]]} -{top_match_scores[0]*100:.0f}%",
             "Top Boring Name Suggestion": boring_names[top_match_indices[0]],
             "Top Match Score": top_match_scores[0],  # Decimal format score
             "Boring Name Options": sorted(boring_names)
@@ -63,16 +62,16 @@ if uploaded_classifier_file and uploaded_room_names_file:
     # Create DataFrame from annotations
     df = pd.DataFrame(annotations_data)
     df_sorted = df.sort_values(by=['Unique Count', 'Original Room Name'], ascending=[False, True])
-    df_for_editor = df_sorted[['Unique Count', 'Original Room Name', 'Selected Boring Name']]
+    df_for_editor = df_sorted[['Unique Count', 'Original Room Name', 'Top Boring Name Suggestion', 'Top Match Score']]
 
     # Streamlit container for data editor
     with st.container():
         edited_df = st.data_editor(
             df_for_editor,
             column_config={
-                "Selected Boring Name": st.column_config.SelectboxColumn(
+                "Top Boring Name Suggestion": st.column_config.SelectboxColumn(
                     options=df['Boring Name Options'].iloc[0],
-                    default=df['Selected Boring Name'].iloc[0]
+                    default=df['Top Boring Name Suggestion'].iloc[0]
                 )
             },
             hide_index=True,
@@ -81,19 +80,20 @@ if uploaded_classifier_file and uploaded_room_names_file:
 
         # Update DataFrame based on edited data
         if edited_df is not None:
-            df['Selected Boring Name'] = edited_df['Selected Boring Name']
+            df['Top Boring Name Suggestion'] = edited_df['Top Boring Name Suggestion']
+            df['Top Match Score'] = edited_df['Top Match Score']
 
-        # Adjust final DataFrame for CSV download
+        # Merge and create final DataFrame
         final_df = room_names_df.merge(
-            df[['Original Room Name', 'Selected Boring Name', 'Top Boring Name Suggestion', 'Top Match Score']],
+            df[['Original Room Name', 'Top Boring Name Suggestion', 'Top Match Score']],
             on='Original Room Name',
             how='left'
         )
-        # Removing probability score from 'Selected Boring Name' in final CSV
-        final_df['Selected Boring Name'] = final_df['Selected Boring Name'].str.split(' -').str[0]
 
         # Prepare final CSV for download
-        final_csv_df = final_df[['Original Room Name', 'Selected Boring Name', 'Top Boring Name Suggestion', 'Top Match Score']]
+        final_csv_df = final_df[['Original Room Name', 'Top Boring Name Suggestion', 'Top Match Score']]
+
+        final_csv_df = final_df[['Original Room Name', 'Selected Boring Name', 'Top Boring Name Suggestion']]
 
         st.download_button(
             "⬇️ Download annotations as .csv",
@@ -102,4 +102,6 @@ if uploaded_classifier_file and uploaded_room_names_file:
             mime='text/csv',
             use_container_width=True
         )
+
+
 
