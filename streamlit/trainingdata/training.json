@@ -2,5077 +2,1317 @@
     {
         "Original Room Name": "SERVERY",
         "Selected Boring Name": "Other",
-        "Top Boring Name Suggestion": "Other",
+        "2nd Boring Name Suggestion": "Support",
+        "3rd Boring Name Suggestion": "Observatory",
         "Top Match Score": 0.3639150858
     },
     {
         "Original Room Name": "STUDENT DINING",
         "Selected Boring Name": "Main Dining",
-        "Top Boring Name Suggestion": "Main Dining",
+        "2nd Boring Name Suggestion": "Food Service",
+        "3rd Boring Name Suggestion": "Spectator Seating",
         "Top Match Score": 0.7164112926
     },
     {
         "Original Room Name": "STAIRS",
         "Selected Boring Name": "Mechanical",
-        "Top Boring Name Suggestion": "Mechanical",
+        "2nd Boring Name Suggestion": "Gymnasium",
+        "3rd Boring Name Suggestion": "Staff Areas",
         "Top Match Score": 0.3583727777
     },
     {
         "Original Room Name": "SECURITY",
         "Selected Boring Name": "Electrical",
-        "Top Boring Name Suggestion": "Electrical - IT",
+        "2nd Boring Name Suggestion": "Electrical",
+        "3rd Boring Name Suggestion": "Locker commons ",
         "Top Match Score": 0.3853564858
     },
     {
         "Original Room Name": "SECURITY",
         "Selected Boring Name": "Electrical",
-        "Top Boring Name Suggestion": "Electrical - IT",
+        "2nd Boring Name Suggestion": "Electrical",
+        "3rd Boring Name Suggestion": "Locker commons ",
         "Top Match Score": 0.3853564858
     },
     {
         "Original Room Name": "MEP",
         "Selected Boring Name": "Other",
-        "Top Boring Name Suggestion": "Other",
+        "2nd Boring Name Suggestion": "Support",
+        "3rd Boring Name Suggestion": "Electrical",
         "Top Match Score": 0.3733812273
     },
     {
         "Original Room Name": "IT",
         "Selected Boring Name": "Electrical",
-        "Top Boring Name Suggestion": "Electrical - IT",
+        "2nd Boring Name Suggestion": "Support",
+        "3rd Boring Name Suggestion": "Other",
         "Top Match Score": 0.3670812845
     },
     {
         "Original Room Name": "TOILET",
         "Selected Boring Name": "Locker commons ",
-        "Top Boring Name Suggestion": "Locker commons ",
+        "2nd Boring Name Suggestion": "Mechanical",
+        "3rd Boring Name Suggestion": "Electrical",
         "Top Match Score": 0.3439919949
     },
     {
         "Original Room Name": "ELEV",
         "Selected Boring Name": "Electrical",
-        "Top Boring Name Suggestion": "Electrical",
+        "2nd Boring Name Suggestion": "Electrical",
+        "3rd Boring Name Suggestion": "Other",
         "Top Match Score": 0.3670065403
     },
     {
         "Original Room Name": "DINING",
         "Selected Boring Name": "Main Dining",
-        "Top Boring Name Suggestion": "Main Dining",
+        "2nd Boring Name Suggestion": "Food Service",
+        "3rd Boring Name Suggestion": "Spectator Seating",
         "Top Match Score": 0.8629145026
     },
     {
         "Original Room Name": "CIRCULATION",
         "Selected Boring Name": "Vertical Circulation",
-        "Top Boring Name Suggestion": "Vertical Circulation",
+        "2nd Boring Name Suggestion": "Electrical",
+        "3rd Boring Name Suggestion": "Electrical",
         "Top Match Score": 0.8210353255
     },
     {
         "Original Room Name": "BLC CIRCULATION",
         "Selected Boring Name": "Vertical Circulation",
-        "Top Boring Name Suggestion": "Vertical Circulation",
+        "2nd Boring Name Suggestion": "Observatory",
+        "3rd Boring Name Suggestion": "Other",
         "Top Match Score": 0.5505830646
     },
     {
         "Original Room Name": "CIRCULATION",
         "Selected Boring Name": "Vertical Circulation",
-        "Top Boring Name Suggestion": "Vertical Circulation",
+        "2nd Boring Name Suggestion": "Electrical",
+        "3rd Boring Name Suggestion": "Electrical",
         "Top Match Score": 0.8210353255
     },
     {
         "Original Room Name": "CIRCULATION",
         "Selected Boring Name": "Vertical Circulation",
-        "Top Boring Name Suggestion": "Vertical Circulation",
+        "2nd Boring Name Suggestion": "Electrical",
+        "3rd Boring Name Suggestion": "Electrical",
         "Top Match Score": 0.8210353255
     },
     {
         "Original Room Name": "TAKE OUT",
         "Selected Boring Name": "Locker commons ",
-        "Top Boring Name Suggestion": "Locker commons ",
+        "2nd Boring Name Suggestion": "Not in Scope",
+        "3rd Boring Name Suggestion": "Support",
         "Top Match Score": 0.2125486881
     },
     {
         "Original Room Name": "HANG OUT",
         "Selected Boring Name": "Support",
-        "Top Boring Name Suggestion": "Support",
+        "2nd Boring Name Suggestion": "Main Dining",
+        "3rd Boring Name Suggestion": "Gymnasium",
         "Top Match Score": 0.2710611224
     },
     {
         "Original Room Name": "TOILET",
         "Selected Boring Name": "Locker commons ",
-        "Top Boring Name Suggestion": "Locker commons ",
+        "2nd Boring Name Suggestion": "Mechanical",
+        "3rd Boring Name Suggestion": "Electrical",
         "Top Match Score": 0.3439919949
     },
     {
         "Original Room Name": "STAIRS",
         "Selected Boring Name": "Mechanical",
-        "Top Boring Name Suggestion": "Mechanical",
+        "2nd Boring Name Suggestion": "Gymnasium",
+        "3rd Boring Name Suggestion": "Staff Areas",
         "Top Match Score": 0.3583727777
     },
     {
         "Original Room Name": "CIRCULATION",
         "Selected Boring Name": "Vertical Circulation",
-        "Top Boring Name Suggestion": "Vertical Circulation",
+        "2nd Boring Name Suggestion": "Electrical",
+        "3rd Boring Name Suggestion": "Electrical",
         "Top Match Score": 0.8210353255
     },
     {
         "Original Room Name": "STAIRS",
         "Selected Boring Name": "Mechanical",
-        "Top Boring Name Suggestion": "Mechanical",
+        "2nd Boring Name Suggestion": "Gymnasium",
+        "3rd Boring Name Suggestion": "Staff Areas",
         "Top Match Score": 0.3583727777
     },
     {
         "Original Room Name": "ELEV",
         "Selected Boring Name": "Electrical",
-        "Top Boring Name Suggestion": "Electrical",
+        "2nd Boring Name Suggestion": "Electrical",
+        "3rd Boring Name Suggestion": "Other",
         "Top Match Score": 0.3670065403
     },
     {
         "Original Room Name": "ELEV",
         "Selected Boring Name": "Electrical",
-        "Top Boring Name Suggestion": "Electrical",
+        "2nd Boring Name Suggestion": "Electrical",
+        "3rd Boring Name Suggestion": "Other",
         "Top Match Score": 0.3670065403
     },
     {
         "Original Room Name": "STORAGE",
         "Selected Boring Name": "Locker commons ",
-        "Top Boring Name Suggestion": "Locker commons ",
+        "2nd Boring Name Suggestion": "Support Space",
+        "3rd Boring Name Suggestion": "Janitorial Space",
         "Top Match Score": 0.3638240695
     },
     {
         "Original Room Name": "CIRCULATION",
         "Selected Boring Name": "Vertical Circulation",
-        "Top Boring Name Suggestion": "Vertical Circulation",
+        "2nd Boring Name Suggestion": "Electrical",
+        "3rd Boring Name Suggestion": "Electrical",
         "Top Match Score": 0.8210353255
     },
     {
         "Original Room Name": "BREAKOUT",
         "Selected Boring Name": "Other",
-        "Top Boring Name Suggestion": "Other",
+        "2nd Boring Name Suggestion": "Support",
+        "3rd Boring Name Suggestion": "Electrical",
         "Top Match Score": 0.3343579769
     },
     {
         "Original Room Name": "MEP",
         "Selected Boring Name": "Other",
-        "Top Boring Name Suggestion": "Other",
+        "2nd Boring Name Suggestion": "Support",
+        "3rd Boring Name Suggestion": "Electrical",
         "Top Match Score": 0.3733812273
     },
     {
         "Original Room Name": "RESTROOMS",
         "Selected Boring Name": "Staff Areas",
-        "Top Boring Name Suggestion": "Staff Areas",
+        "2nd Boring Name Suggestion": "Locker commons ",
+        "3rd Boring Name Suggestion": "Janitorial Space",
         "Top Match Score": 0.4318459034
     },
     {
         "Original Room Name": "MATERIALS",
         "Selected Boring Name": "Mechanical",
-        "Top Boring Name Suggestion": "Mechanical",
+        "2nd Boring Name Suggestion": "Electrical",
+        "3rd Boring Name Suggestion": "Electrical",
         "Top Match Score": 0.5604474545
     },
     {
         "Original Room Name": "BREAKOUT",
         "Selected Boring Name": "Other",
-        "Top Boring Name Suggestion": "Other",
+        "2nd Boring Name Suggestion": "Support",
+        "3rd Boring Name Suggestion": "Electrical",
         "Top Match Score": 0.3343579769
     },
     {
         "Original Room Name": "BREAKOUT",
         "Selected Boring Name": "Other",
-        "Top Boring Name Suggestion": "Other",
+        "2nd Boring Name Suggestion": "Support",
+        "3rd Boring Name Suggestion": "Electrical",
         "Top Match Score": 0.3343579769
     },
     {
         "Original Room Name": "BREAKOUT",
         "Selected Boring Name": "Other",
-        "Top Boring Name Suggestion": "Other",
+        "2nd Boring Name Suggestion": "Support",
+        "3rd Boring Name Suggestion": "Electrical",
         "Top Match Score": 0.3343579769
     },
     {
         "Original Room Name": "CONVENING",
         "Selected Boring Name": "Staff & Support",
-        "Top Boring Name Suggestion": "Staff & Support",
+        "2nd Boring Name Suggestion": "Support",
+        "3rd Boring Name Suggestion": "Not in Scope",
         "Top Match Score": 0.3004845977
     },
     {
         "Original Room Name": "BREAKOUT",
         "Selected Boring Name": "Other",
-        "Top Boring Name Suggestion": "Other",
+        "2nd Boring Name Suggestion": "Support",
+        "3rd Boring Name Suggestion": "Electrical",
         "Top Match Score": 0.3343579769
     },
     {
         "Original Room Name": "STAIRS",
         "Selected Boring Name": "Mechanical",
-        "Top Boring Name Suggestion": "Mechanical",
+        "2nd Boring Name Suggestion": "Gymnasium",
+        "3rd Boring Name Suggestion": "Staff Areas",
         "Top Match Score": 0.3583727777
     },
     {
         "Original Room Name": "ELEC",
         "Selected Boring Name": "Electrical",
-        "Top Boring Name Suggestion": "Electrical",
+        "2nd Boring Name Suggestion": "Electrical",
+        "3rd Boring Name Suggestion": "Staff Areas",
         "Top Match Score": 0.3554433584
     },
     {
         "Original Room Name": "STAGING/STORAGE",
         "Selected Boring Name": "Staff Areas",
-        "Top Boring Name Suggestion": "Staff Areas",
+        "2nd Boring Name Suggestion": "Janitorial Space",
+        "3rd Boring Name Suggestion": "Gymnasium",
         "Top Match Score": 0.323105514
     },
     {
         "Original Room Name": "BREAKOUT",
         "Selected Boring Name": "Other",
-        "Top Boring Name Suggestion": "Other",
+        "2nd Boring Name Suggestion": "Support",
+        "3rd Boring Name Suggestion": "Electrical",
         "Top Match Score": 0.3343579769
     },
     {
         "Original Room Name": "ELEV",
         "Selected Boring Name": "Electrical",
-        "Top Boring Name Suggestion": "Electrical",
+        "2nd Boring Name Suggestion": "Electrical",
+        "3rd Boring Name Suggestion": "Other",
         "Top Match Score": 0.3670065403
     },
     {
         "Original Room Name": "STUDIO",
         "Selected Boring Name": "Gymnasium",
-        "Top Boring Name Suggestion": "Gymnasium",
+        "2nd Boring Name Suggestion": "Art \u2013 (General)",
+        "3rd Boring Name Suggestion": "Janitorial Space",
         "Top Match Score": 0.3806049526
     },
     {
         "Original Room Name": "HANG OUT",
         "Selected Boring Name": "Support",
-        "Top Boring Name Suggestion": "Support",
+        "2nd Boring Name Suggestion": "Main Dining",
+        "3rd Boring Name Suggestion": "Gymnasium",
         "Top Match Score": 0.2710611224
     },
     {
         "Original Room Name": "QUIET",
         "Selected Boring Name": "Support",
-        "Top Boring Name Suggestion": "Support",
+        "2nd Boring Name Suggestion": "Mechanical",
+        "3rd Boring Name Suggestion": "Electrical",
         "Top Match Score": 0.3868248761
     },
     {
         "Original Room Name": "HANG OUT",
         "Selected Boring Name": "Support",
-        "Top Boring Name Suggestion": "Support",
+        "2nd Boring Name Suggestion": "Main Dining",
+        "3rd Boring Name Suggestion": "Gymnasium",
         "Top Match Score": 0.2710611224
     },
     {
         "Original Room Name": "ELECTRICAL",
         "Selected Boring Name": "Electrical",
-        "Top Boring Name Suggestion": "Electrical",
+        "2nd Boring Name Suggestion": "Electrical",
+        "3rd Boring Name Suggestion": "Mechanical",
         "Top Match Score": 1.0000001192
     },
     {
         "Original Room Name": "SUPPORT",
         "Selected Boring Name": "Support",
-        "Top Boring Name Suggestion": "Support",
+        "2nd Boring Name Suggestion": "Support Space",
+        "3rd Boring Name Suggestion": "Staff & Support",
         "Top Match Score": 1.0
     },
     {
         "Original Room Name": "ELEV",
         "Selected Boring Name": "Electrical",
-        "Top Boring Name Suggestion": "Electrical",
+        "2nd Boring Name Suggestion": "Electrical",
+        "3rd Boring Name Suggestion": "Other",
         "Top Match Score": 0.3670065403
     },
     {
         "Original Room Name": "STAIRS",
         "Selected Boring Name": "Mechanical",
-        "Top Boring Name Suggestion": "Mechanical",
+        "2nd Boring Name Suggestion": "Gymnasium",
+        "3rd Boring Name Suggestion": "Staff Areas",
         "Top Match Score": 0.3583727777
     },
     {
         "Original Room Name": "HANG OUT",
         "Selected Boring Name": "Support",
-        "Top Boring Name Suggestion": "Support",
+        "2nd Boring Name Suggestion": "Main Dining",
+        "3rd Boring Name Suggestion": "Gymnasium",
         "Top Match Score": 0.2710611224
     },
     {
         "Original Room Name": "STAIRS",
         "Selected Boring Name": "Mechanical",
-        "Top Boring Name Suggestion": "Mechanical",
+        "2nd Boring Name Suggestion": "Gymnasium",
+        "3rd Boring Name Suggestion": "Staff Areas",
         "Top Match Score": 0.3583727777
     },
     {
         "Original Room Name": "ELEV",
         "Selected Boring Name": "Electrical",
-        "Top Boring Name Suggestion": "Electrical",
+        "2nd Boring Name Suggestion": "Electrical",
+        "3rd Boring Name Suggestion": "Other",
         "Top Match Score": 0.3670065403
     },
     {
         "Original Room Name": "COATS",
         "Selected Boring Name": "Locker commons ",
-        "Top Boring Name Suggestion": "Locker commons ",
+        "2nd Boring Name Suggestion": "Art \u2013 (General)",
+        "3rd Boring Name Suggestion": "Staff & Support",
         "Top Match Score": 0.3052344322
     },
     {
         "Original Room Name": "HANG OUT",
         "Selected Boring Name": "Support",
-        "Top Boring Name Suggestion": "Support",
+        "2nd Boring Name Suggestion": "Main Dining",
+        "3rd Boring Name Suggestion": "Gymnasium",
         "Top Match Score": 0.2710611224
     },
     {
         "Original Room Name": "MEETING",
         "Selected Boring Name": "Spectator Seating",
-        "Top Boring Name Suggestion": "Spectator Seating",
+        "2nd Boring Name Suggestion": "Main Dining",
+        "3rd Boring Name Suggestion": "Observatory",
         "Top Match Score": 0.3498291969
     },
     {
         "Original Room Name": "OUTDOOR SPECIAL EVENTS",
         "Selected Boring Name": "Astronomy Park",
-        "Top Boring Name Suggestion": "Astronomy Park",
+        "2nd Boring Name Suggestion": "Spectator Seating",
+        "3rd Boring Name Suggestion": "Observatory",
         "Top Match Score": 0.3933414817
     },
     {
         "Original Room Name": "SUPPORT",
         "Selected Boring Name": "Support",
-        "Top Boring Name Suggestion": "Support",
+        "2nd Boring Name Suggestion": "Support Space",
+        "3rd Boring Name Suggestion": "Staff & Support",
         "Top Match Score": 1.0
     },
     {
         "Original Room Name": "KITCHEN/LOUNGE",
         "Selected Boring Name": "Main Dining",
-        "Top Boring Name Suggestion": "Main Dining",
+        "2nd Boring Name Suggestion": "Food Service",
+        "3rd Boring Name Suggestion": "Gymnasium",
         "Top Match Score": 0.5595895052
     },
     {
         "Original Room Name": "JAN",
         "Selected Boring Name": "Observatory",
-        "Top Boring Name Suggestion": "Observatory",
+        "2nd Boring Name Suggestion": "Janitorial Space",
+        "3rd Boring Name Suggestion": "Mechanical",
         "Top Match Score": 0.2449919134
     },
     {
         "Original Room Name": "SUPPORT",
         "Selected Boring Name": "Support",
-        "Top Boring Name Suggestion": "Support",
+        "2nd Boring Name Suggestion": "Support Space",
+        "3rd Boring Name Suggestion": "Staff & Support",
         "Top Match Score": 1.0
     },
     {
         "Original Room Name": "STAFF",
         "Selected Boring Name": "Staff & Support",
-        "Top Boring Name Suggestion": "Staff & Support",
+        "2nd Boring Name Suggestion": "Staff Areas",
+        "3rd Boring Name Suggestion": "Food Service",
         "Top Match Score": 0.8296047449
     },
     {
         "Original Room Name": "SHARED",
         "Selected Boring Name": "Support",
-        "Top Boring Name Suggestion": "Support",
+        "2nd Boring Name Suggestion": "Locker commons ",
+        "3rd Boring Name Suggestion": "Other",
         "Top Match Score": 0.343824327
     },
     {
         "Original Room Name": "ELECTRICAL",
         "Selected Boring Name": "Electrical",
-        "Top Boring Name Suggestion": "Electrical",
+        "2nd Boring Name Suggestion": "Electrical",
+        "3rd Boring Name Suggestion": "Mechanical",
         "Top Match Score": 1.0000001192
     },
     {
         "Original Room Name": "RESTROOMS",
         "Selected Boring Name": "Staff Areas",
-        "Top Boring Name Suggestion": "Staff Areas",
+        "2nd Boring Name Suggestion": "Locker commons ",
+        "3rd Boring Name Suggestion": "Janitorial Space",
         "Top Match Score": 0.4318459034
     },
     {
         "Original Room Name": "DIREC.",
         "Selected Boring Name": "Staff Areas",
-        "Top Boring Name Suggestion": "Staff Areas",
+        "2nd Boring Name Suggestion": "Athletic Directors office",
+        "3rd Boring Name Suggestion": "Food Service",
         "Top Match Score": 0.2487123609
     },
     {
         "Original Room Name": "STAFF",
         "Selected Boring Name": "Staff & Support",
-        "Top Boring Name Suggestion": "Staff & Support",
+        "2nd Boring Name Suggestion": "Staff Areas",
+        "3rd Boring Name Suggestion": "Food Service",
         "Top Match Score": 0.8296047449
     },
     {
         "Original Room Name": "SHARED",
         "Selected Boring Name": "Support",
-        "Top Boring Name Suggestion": "Support",
+        "2nd Boring Name Suggestion": "Locker commons ",
+        "3rd Boring Name Suggestion": "Other",
         "Top Match Score": 0.343824327
     },
     {
         "Original Room Name": "HANG OUT",
         "Selected Boring Name": "Support",
-        "Top Boring Name Suggestion": "Support",
+        "2nd Boring Name Suggestion": "Main Dining",
+        "3rd Boring Name Suggestion": "Gymnasium",
         "Top Match Score": 0.2710611224
     },
     {
         "Original Room Name": "MEP",
         "Selected Boring Name": "Other",
-        "Top Boring Name Suggestion": "Other",
+        "2nd Boring Name Suggestion": "Support",
+        "3rd Boring Name Suggestion": "Electrical",
         "Top Match Score": 0.3733812273
     },
     {
         "Original Room Name": "MEP",
         "Selected Boring Name": "Other",
-        "Top Boring Name Suggestion": "Other",
+        "2nd Boring Name Suggestion": "Support",
+        "3rd Boring Name Suggestion": "Electrical",
         "Top Match Score": 0.3733812273
     },
     {
         "Original Room Name": "SHARED",
         "Selected Boring Name": "Support",
-        "Top Boring Name Suggestion": "Support",
+        "2nd Boring Name Suggestion": "Locker commons ",
+        "3rd Boring Name Suggestion": "Other",
         "Top Match Score": 0.343824327
     },
     {
         "Original Room Name": "STAIRS",
         "Selected Boring Name": "Mechanical",
-        "Top Boring Name Suggestion": "Mechanical",
+        "2nd Boring Name Suggestion": "Gymnasium",
+        "3rd Boring Name Suggestion": "Staff Areas",
         "Top Match Score": 0.3583727777
     },
     {
         "Original Room Name": "STAFF",
         "Selected Boring Name": "Staff & Support",
-        "Top Boring Name Suggestion": "Staff & Support",
+        "2nd Boring Name Suggestion": "Staff Areas",
+        "3rd Boring Name Suggestion": "Food Service",
         "Top Match Score": 0.8296047449
     },
     {
         "Original Room Name": "FOCUS",
         "Selected Boring Name": "Support Space",
-        "Top Boring Name Suggestion": "Support Space",
+        "2nd Boring Name Suggestion": "Support",
+        "3rd Boring Name Suggestion": "Spectator Seating",
         "Top Match Score": 0.3093649745
     },
     {
         "Original Room Name": "FOCUS",
         "Selected Boring Name": "Support Space",
-        "Top Boring Name Suggestion": "Support Space",
+        "2nd Boring Name Suggestion": "Support",
+        "3rd Boring Name Suggestion": "Spectator Seating",
         "Top Match Score": 0.3093649745
     },
     {
         "Original Room Name": "STORAGE",
         "Selected Boring Name": "Locker commons ",
-        "Top Boring Name Suggestion": "Locker commons ",
+        "2nd Boring Name Suggestion": "Support Space",
+        "3rd Boring Name Suggestion": "Janitorial Space",
         "Top Match Score": 0.3638240695
     },
     {
         "Original Room Name": "CIRCULATION",
         "Selected Boring Name": "Vertical Circulation",
-        "Top Boring Name Suggestion": "Vertical Circulation",
+        "2nd Boring Name Suggestion": "Electrical",
+        "3rd Boring Name Suggestion": "Electrical",
         "Top Match Score": 0.8210353255
     },
     {
         "Original Room Name": "STAIRS",
         "Selected Boring Name": "Mechanical",
-        "Top Boring Name Suggestion": "Mechanical",
+        "2nd Boring Name Suggestion": "Gymnasium",
+        "3rd Boring Name Suggestion": "Staff Areas",
         "Top Match Score": 0.3583727777
     },
     {
         "Original Room Name": "STAIRS",
         "Selected Boring Name": "Mechanical",
-        "Top Boring Name Suggestion": "Mechanical",
+        "2nd Boring Name Suggestion": "Gymnasium",
+        "3rd Boring Name Suggestion": "Staff Areas",
         "Top Match Score": 0.3583727777
     },
     {
         "Original Room Name": "HANG OUT",
         "Selected Boring Name": "Support",
-        "Top Boring Name Suggestion": "Support",
+        "2nd Boring Name Suggestion": "Main Dining",
+        "3rd Boring Name Suggestion": "Gymnasium",
         "Top Match Score": 0.2710611224
     },
     {
         "Original Room Name": "ELEV",
         "Selected Boring Name": "Electrical",
-        "Top Boring Name Suggestion": "Electrical",
+        "2nd Boring Name Suggestion": "Electrical",
+        "3rd Boring Name Suggestion": "Other",
         "Top Match Score": 0.3670065403
     },
     {
         "Original Room Name": "HANG OUT",
         "Selected Boring Name": "Support",
-        "Top Boring Name Suggestion": "Support",
+        "2nd Boring Name Suggestion": "Main Dining",
+        "3rd Boring Name Suggestion": "Gymnasium",
         "Top Match Score": 0.2710611224
     },
     {
         "Original Room Name": "HANG OUT",
         "Selected Boring Name": "Support",
-        "Top Boring Name Suggestion": "Support",
+        "2nd Boring Name Suggestion": "Main Dining",
+        "3rd Boring Name Suggestion": "Gymnasium",
         "Top Match Score": 0.2710611224
     },
     {
         "Original Room Name": "HANG OUT",
         "Selected Boring Name": "Support",
-        "Top Boring Name Suggestion": "Support",
+        "2nd Boring Name Suggestion": "Main Dining",
+        "3rd Boring Name Suggestion": "Gymnasium",
         "Top Match Score": 0.2710611224
     },
     {
         "Original Room Name": "ELEV",
         "Selected Boring Name": "Electrical",
-        "Top Boring Name Suggestion": "Electrical",
+        "2nd Boring Name Suggestion": "Electrical",
+        "3rd Boring Name Suggestion": "Other",
         "Top Match Score": 0.3670065403
     },
     {
         "Original Room Name": "ELEV",
         "Selected Boring Name": "Electrical",
-        "Top Boring Name Suggestion": "Electrical",
+        "2nd Boring Name Suggestion": "Electrical",
+        "3rd Boring Name Suggestion": "Other",
         "Top Match Score": 0.3670065403
     },
     {
         "Original Room Name": "MEP",
         "Selected Boring Name": "Other",
-        "Top Boring Name Suggestion": "Other",
+        "2nd Boring Name Suggestion": "Support",
+        "3rd Boring Name Suggestion": "Electrical",
         "Top Match Score": 0.3733812273
     },
     {
         "Original Room Name": "RESTAURANT SUPPORT",
         "Selected Boring Name": "Food Service",
-        "Top Boring Name Suggestion": "Food Service",
+        "2nd Boring Name Suggestion": "Support",
+        "3rd Boring Name Suggestion": "Staff & Support",
         "Top Match Score": 0.6580818892
     },
     {
         "Original Room Name": "CIRCULATION",
         "Selected Boring Name": "Vertical Circulation",
-        "Top Boring Name Suggestion": "Vertical Circulation",
+        "2nd Boring Name Suggestion": "Electrical",
+        "3rd Boring Name Suggestion": "Electrical",
         "Top Match Score": 0.8210353255
     },
     {
         "Original Room Name": "STAIRS",
         "Selected Boring Name": "Mechanical",
-        "Top Boring Name Suggestion": "Mechanical",
+        "2nd Boring Name Suggestion": "Gymnasium",
+        "3rd Boring Name Suggestion": "Staff Areas",
         "Top Match Score": 0.3583727777
     },
     {
         "Original Room Name": "ELEVATOR",
         "Selected Boring Name": "Mechanical",
-        "Top Boring Name Suggestion": "Mechanical",
+        "2nd Boring Name Suggestion": "Electrical",
+        "3rd Boring Name Suggestion": "Gymnasium",
         "Top Match Score": 0.4097509086
     },
     {
         "Original Room Name": "T",
         "Selected Boring Name": "Support",
-        "Top Boring Name Suggestion": "Support",
+        "2nd Boring Name Suggestion": "Other",
+        "3rd Boring Name Suggestion": "Mechanical",
         "Top Match Score": 0.3519544303
     },
     {
         "Original Room Name": "CIRCULATION",
         "Selected Boring Name": "Vertical Circulation",
-        "Top Boring Name Suggestion": "Vertical Circulation",
+        "2nd Boring Name Suggestion": "Electrical",
+        "3rd Boring Name Suggestion": "Electrical",
         "Top Match Score": 0.8210353255
     },
     {
         "Original Room Name": "SERVICE ELEV",
         "Selected Boring Name": "Food Service",
-        "Top Boring Name Suggestion": "Food Service",
+        "2nd Boring Name Suggestion": "Electrical",
+        "3rd Boring Name Suggestion": "Electrical",
         "Top Match Score": 0.3859655559
     },
     {
         "Original Room Name": "T",
         "Selected Boring Name": "Support",
-        "Top Boring Name Suggestion": "Support",
+        "2nd Boring Name Suggestion": "Other",
+        "3rd Boring Name Suggestion": "Mechanical",
         "Top Match Score": 0.3519544303
     },
     {
         "Original Room Name": "IT",
         "Selected Boring Name": "Electrical",
-        "Top Boring Name Suggestion": "Electrical - IT",
+        "2nd Boring Name Suggestion": "Support",
+        "3rd Boring Name Suggestion": "Other",
         "Top Match Score": 0.3670812845
     },
     {
         "Original Room Name": "SERVICE ELEV",
         "Selected Boring Name": "Food Service",
-        "Top Boring Name Suggestion": "Food Service",
+        "2nd Boring Name Suggestion": "Electrical",
+        "3rd Boring Name Suggestion": "Electrical",
         "Top Match Score": 0.3859655559
     },
     {
         "Original Room Name": "SERVERY",
         "Selected Boring Name": "Other",
-        "Top Boring Name Suggestion": "Other",
+        "2nd Boring Name Suggestion": "Support",
+        "3rd Boring Name Suggestion": "Observatory",
         "Top Match Score": 0.3639150858
     },
     {
         "Original Room Name": "STUDENT DINING",
         "Selected Boring Name": "Main Dining",
-        "Top Boring Name Suggestion": "Main Dining",
+        "2nd Boring Name Suggestion": "Food Service",
+        "3rd Boring Name Suggestion": "Spectator Seating",
         "Top Match Score": 0.7164112926
     },
     {
         "Original Room Name": "STAIRS",
         "Selected Boring Name": "Mechanical",
-        "Top Boring Name Suggestion": "Mechanical",
+        "2nd Boring Name Suggestion": "Gymnasium",
+        "3rd Boring Name Suggestion": "Staff Areas",
         "Top Match Score": 0.3583727777
     },
     {
         "Original Room Name": "SECURITY",
         "Selected Boring Name": "Electrical",
-        "Top Boring Name Suggestion": "Electrical - IT",
+        "2nd Boring Name Suggestion": "Electrical",
+        "3rd Boring Name Suggestion": "Locker commons ",
         "Top Match Score": 0.3853564858
     },
     {
         "Original Room Name": "SECURITY",
         "Selected Boring Name": "Electrical",
-        "Top Boring Name Suggestion": "Electrical - IT",
+        "2nd Boring Name Suggestion": "Electrical",
+        "3rd Boring Name Suggestion": "Locker commons ",
         "Top Match Score": 0.3853564858
     },
     {
         "Original Room Name": "MEP",
         "Selected Boring Name": "Other",
-        "Top Boring Name Suggestion": "Other",
+        "2nd Boring Name Suggestion": "Support",
+        "3rd Boring Name Suggestion": "Electrical",
         "Top Match Score": 0.3733812273
     },
     {
         "Original Room Name": "IT",
         "Selected Boring Name": "Electrical",
-        "Top Boring Name Suggestion": "Electrical - IT",
+        "2nd Boring Name Suggestion": "Support",
+        "3rd Boring Name Suggestion": "Other",
         "Top Match Score": 0.3670812845
     },
     {
         "Original Room Name": "TOILET",
         "Selected Boring Name": "Locker commons ",
-        "Top Boring Name Suggestion": "Locker commons ",
+        "2nd Boring Name Suggestion": "Mechanical",
+        "3rd Boring Name Suggestion": "Electrical",
         "Top Match Score": 0.3439919949
     },
     {
         "Original Room Name": "ELEV",
         "Selected Boring Name": "Electrical",
-        "Top Boring Name Suggestion": "Electrical",
+        "2nd Boring Name Suggestion": "Electrical",
+        "3rd Boring Name Suggestion": "Other",
         "Top Match Score": 0.3670065403
     },
     {
         "Original Room Name": "DINING",
         "Selected Boring Name": "Main Dining",
-        "Top Boring Name Suggestion": "Main Dining",
+        "2nd Boring Name Suggestion": "Food Service",
+        "3rd Boring Name Suggestion": "Spectator Seating",
         "Top Match Score": 0.8629145026
     },
     {
         "Original Room Name": "CIRCULATION",
         "Selected Boring Name": "Vertical Circulation",
-        "Top Boring Name Suggestion": "Vertical Circulation",
+        "2nd Boring Name Suggestion": "Electrical",
+        "3rd Boring Name Suggestion": "Electrical",
         "Top Match Score": 0.8210353255
     },
     {
         "Original Room Name": "BLC CIRCULATION",
         "Selected Boring Name": "Vertical Circulation",
-        "Top Boring Name Suggestion": "Vertical Circulation",
+        "2nd Boring Name Suggestion": "Observatory",
+        "3rd Boring Name Suggestion": "Other",
         "Top Match Score": 0.5505830646
     },
     {
         "Original Room Name": "CIRCULATION",
         "Selected Boring Name": "Vertical Circulation",
-        "Top Boring Name Suggestion": "Vertical Circulation",
+        "2nd Boring Name Suggestion": "Electrical",
+        "3rd Boring Name Suggestion": "Electrical",
         "Top Match Score": 0.8210353255
     },
     {
         "Original Room Name": "CIRCULATION",
         "Selected Boring Name": "Vertical Circulation",
-        "Top Boring Name Suggestion": "Vertical Circulation",
+        "2nd Boring Name Suggestion": "Electrical",
+        "3rd Boring Name Suggestion": "Electrical",
         "Top Match Score": 0.8210353255
     },
     {
         "Original Room Name": "TAKE OUT",
         "Selected Boring Name": "Locker commons ",
-        "Top Boring Name Suggestion": "Locker commons ",
+        "2nd Boring Name Suggestion": "Not in Scope",
+        "3rd Boring Name Suggestion": "Support",
         "Top Match Score": 0.2125486881
     },
     {
         "Original Room Name": "HANG OUT",
         "Selected Boring Name": "Support",
-        "Top Boring Name Suggestion": "Support",
+        "2nd Boring Name Suggestion": "Main Dining",
+        "3rd Boring Name Suggestion": "Gymnasium",
         "Top Match Score": 0.2710611224
     },
     {
         "Original Room Name": "TOILET",
         "Selected Boring Name": "Locker commons ",
-        "Top Boring Name Suggestion": "Locker commons ",
+        "2nd Boring Name Suggestion": "Mechanical",
+        "3rd Boring Name Suggestion": "Electrical",
         "Top Match Score": 0.3439919949
     },
     {
         "Original Room Name": "STAIRS",
         "Selected Boring Name": "Mechanical",
-        "Top Boring Name Suggestion": "Mechanical",
+        "2nd Boring Name Suggestion": "Gymnasium",
+        "3rd Boring Name Suggestion": "Staff Areas",
         "Top Match Score": 0.3583727777
     },
     {
         "Original Room Name": "CIRCULATION",
         "Selected Boring Name": "Vertical Circulation",
-        "Top Boring Name Suggestion": "Vertical Circulation",
+        "2nd Boring Name Suggestion": "Electrical",
+        "3rd Boring Name Suggestion": "Electrical",
         "Top Match Score": 0.8210353255
     },
     {
         "Original Room Name": "STAIRS",
         "Selected Boring Name": "Mechanical",
-        "Top Boring Name Suggestion": "Mechanical",
+        "2nd Boring Name Suggestion": "Gymnasium",
+        "3rd Boring Name Suggestion": "Staff Areas",
         "Top Match Score": 0.3583727777
     },
     {
         "Original Room Name": "ELEV",
         "Selected Boring Name": "Electrical",
-        "Top Boring Name Suggestion": "Electrical",
+        "2nd Boring Name Suggestion": "Electrical",
+        "3rd Boring Name Suggestion": "Other",
         "Top Match Score": 0.3670065403
     },
     {
         "Original Room Name": "ELEV",
         "Selected Boring Name": "Electrical",
-        "Top Boring Name Suggestion": "Electrical",
+        "2nd Boring Name Suggestion": "Electrical",
+        "3rd Boring Name Suggestion": "Other",
         "Top Match Score": 0.3670065403
     },
     {
         "Original Room Name": "STORAGE",
         "Selected Boring Name": "Locker commons ",
-        "Top Boring Name Suggestion": "Locker commons ",
+        "2nd Boring Name Suggestion": "Support Space",
+        "3rd Boring Name Suggestion": "Janitorial Space",
         "Top Match Score": 0.3638240695
     },
     {
         "Original Room Name": "CIRCULATION",
         "Selected Boring Name": "Vertical Circulation",
-        "Top Boring Name Suggestion": "Vertical Circulation",
+        "2nd Boring Name Suggestion": "Electrical",
+        "3rd Boring Name Suggestion": "Electrical",
         "Top Match Score": 0.8210353255
     },
     {
         "Original Room Name": "BREAKOUT",
         "Selected Boring Name": "Other",
-        "Top Boring Name Suggestion": "Other",
+        "2nd Boring Name Suggestion": "Support",
+        "3rd Boring Name Suggestion": "Electrical",
         "Top Match Score": 0.3343579769
     },
     {
         "Original Room Name": "MEP",
         "Selected Boring Name": "Other",
-        "Top Boring Name Suggestion": "Other",
+        "2nd Boring Name Suggestion": "Support",
+        "3rd Boring Name Suggestion": "Electrical",
         "Top Match Score": 0.3733812273
     },
     {
         "Original Room Name": "RESTROOMS",
         "Selected Boring Name": "Staff Areas",
-        "Top Boring Name Suggestion": "Staff Areas",
+        "2nd Boring Name Suggestion": "Locker commons ",
+        "3rd Boring Name Suggestion": "Janitorial Space",
         "Top Match Score": 0.4318459034
     },
     {
         "Original Room Name": "MATERIALS",
         "Selected Boring Name": "Mechanical",
-        "Top Boring Name Suggestion": "Mechanical",
+        "2nd Boring Name Suggestion": "Electrical",
+        "3rd Boring Name Suggestion": "Electrical",
         "Top Match Score": 0.5604474545
     },
     {
         "Original Room Name": "BREAKOUT",
         "Selected Boring Name": "Other",
-        "Top Boring Name Suggestion": "Other",
+        "2nd Boring Name Suggestion": "Support",
+        "3rd Boring Name Suggestion": "Electrical",
         "Top Match Score": 0.3343579769
     },
     {
         "Original Room Name": "BREAKOUT",
         "Selected Boring Name": "Other",
-        "Top Boring Name Suggestion": "Other",
+        "2nd Boring Name Suggestion": "Support",
+        "3rd Boring Name Suggestion": "Electrical",
         "Top Match Score": 0.3343579769
     },
     {
         "Original Room Name": "BREAKOUT",
         "Selected Boring Name": "Other",
-        "Top Boring Name Suggestion": "Other",
+        "2nd Boring Name Suggestion": "Support",
+        "3rd Boring Name Suggestion": "Electrical",
         "Top Match Score": 0.3343579769
     },
     {
         "Original Room Name": "CONVENING",
         "Selected Boring Name": "Staff & Support",
-        "Top Boring Name Suggestion": "Staff & Support",
+        "2nd Boring Name Suggestion": "Support",
+        "3rd Boring Name Suggestion": "Not in Scope",
         "Top Match Score": 0.3004845977
     },
     {
         "Original Room Name": "BREAKOUT",
         "Selected Boring Name": "Other",
-        "Top Boring Name Suggestion": "Other",
+        "2nd Boring Name Suggestion": "Support",
+        "3rd Boring Name Suggestion": "Electrical",
         "Top Match Score": 0.3343579769
     },
     {
         "Original Room Name": "STAIRS",
         "Selected Boring Name": "Mechanical",
-        "Top Boring Name Suggestion": "Mechanical",
+        "2nd Boring Name Suggestion": "Gymnasium",
+        "3rd Boring Name Suggestion": "Staff Areas",
         "Top Match Score": 0.3583727777
     },
     {
         "Original Room Name": "ELEC",
         "Selected Boring Name": "Electrical",
-        "Top Boring Name Suggestion": "Electrical",
+        "2nd Boring Name Suggestion": "Electrical",
+        "3rd Boring Name Suggestion": "Staff Areas",
         "Top Match Score": 0.3554433584
     },
     {
         "Original Room Name": "STAGING/STORAGE",
         "Selected Boring Name": "Staff Areas",
-        "Top Boring Name Suggestion": "Staff Areas",
+        "2nd Boring Name Suggestion": "Janitorial Space",
+        "3rd Boring Name Suggestion": "Gymnasium",
         "Top Match Score": 0.323105514
     },
     {
         "Original Room Name": "BREAKOUT",
         "Selected Boring Name": "Other",
-        "Top Boring Name Suggestion": "Other",
+        "2nd Boring Name Suggestion": "Support",
+        "3rd Boring Name Suggestion": "Electrical",
         "Top Match Score": 0.3343579769
     },
     {
         "Original Room Name": "ELEV",
         "Selected Boring Name": "Electrical",
-        "Top Boring Name Suggestion": "Electrical",
+        "2nd Boring Name Suggestion": "Electrical",
+        "3rd Boring Name Suggestion": "Other",
         "Top Match Score": 0.3670065403
     },
     {
         "Original Room Name": "STUDIO",
         "Selected Boring Name": "Gymnasium",
-        "Top Boring Name Suggestion": "Gymnasium",
+        "2nd Boring Name Suggestion": "Art \u2013 (General)",
+        "3rd Boring Name Suggestion": "Janitorial Space",
         "Top Match Score": 0.3806049526
     },
     {
         "Original Room Name": "HANG OUT",
         "Selected Boring Name": "Support",
-        "Top Boring Name Suggestion": "Support",
+        "2nd Boring Name Suggestion": "Main Dining",
+        "3rd Boring Name Suggestion": "Gymnasium",
         "Top Match Score": 0.2710611224
     },
     {
         "Original Room Name": "QUIET",
         "Selected Boring Name": "Support",
-        "Top Boring Name Suggestion": "Support",
+        "2nd Boring Name Suggestion": "Mechanical",
+        "3rd Boring Name Suggestion": "Electrical",
         "Top Match Score": 0.3868248761
     },
     {
         "Original Room Name": "HANG OUT",
         "Selected Boring Name": "Support",
-        "Top Boring Name Suggestion": "Support",
+        "2nd Boring Name Suggestion": "Main Dining",
+        "3rd Boring Name Suggestion": "Gymnasium",
         "Top Match Score": 0.2710611224
     },
     {
         "Original Room Name": "ELECTRICAL",
         "Selected Boring Name": "Electrical",
-        "Top Boring Name Suggestion": "Electrical",
+        "2nd Boring Name Suggestion": "Electrical",
+        "3rd Boring Name Suggestion": "Mechanical",
         "Top Match Score": 1.0000001192
     },
     {
         "Original Room Name": "SUPPORT",
         "Selected Boring Name": "Support",
-        "Top Boring Name Suggestion": "Support",
+        "2nd Boring Name Suggestion": "Support Space",
+        "3rd Boring Name Suggestion": "Staff & Support",
         "Top Match Score": 1.0
     },
     {
         "Original Room Name": "ELEV",
         "Selected Boring Name": "Electrical",
-        "Top Boring Name Suggestion": "Electrical",
+        "2nd Boring Name Suggestion": "Electrical",
+        "3rd Boring Name Suggestion": "Other",
         "Top Match Score": 0.3670065403
     },
     {
         "Original Room Name": "STAIRS",
         "Selected Boring Name": "Mechanical",
-        "Top Boring Name Suggestion": "Mechanical",
+        "2nd Boring Name Suggestion": "Gymnasium",
+        "3rd Boring Name Suggestion": "Staff Areas",
         "Top Match Score": 0.3583727777
     },
     {
         "Original Room Name": "HANG OUT",
         "Selected Boring Name": "Support",
-        "Top Boring Name Suggestion": "Support",
+        "2nd Boring Name Suggestion": "Main Dining",
+        "3rd Boring Name Suggestion": "Gymnasium",
         "Top Match Score": 0.2710611224
     },
     {
         "Original Room Name": "STAIRS",
         "Selected Boring Name": "Mechanical",
-        "Top Boring Name Suggestion": "Mechanical",
+        "2nd Boring Name Suggestion": "Gymnasium",
+        "3rd Boring Name Suggestion": "Staff Areas",
         "Top Match Score": 0.3583727777
     },
     {
         "Original Room Name": "ELEV",
         "Selected Boring Name": "Electrical",
-        "Top Boring Name Suggestion": "Electrical",
+        "2nd Boring Name Suggestion": "Electrical",
+        "3rd Boring Name Suggestion": "Other",
         "Top Match Score": 0.3670065403
     },
     {
         "Original Room Name": "COATS",
         "Selected Boring Name": "Locker commons ",
-        "Top Boring Name Suggestion": "Locker commons ",
+        "2nd Boring Name Suggestion": "Art \u2013 (General)",
+        "3rd Boring Name Suggestion": "Staff & Support",
         "Top Match Score": 0.3052344322
     },
     {
         "Original Room Name": "HANG OUT",
         "Selected Boring Name": "Support",
-        "Top Boring Name Suggestion": "Support",
+        "2nd Boring Name Suggestion": "Main Dining",
+        "3rd Boring Name Suggestion": "Gymnasium",
         "Top Match Score": 0.2710611224
     },
     {
         "Original Room Name": "MEETING",
         "Selected Boring Name": "Spectator Seating",
-        "Top Boring Name Suggestion": "Spectator Seating",
+        "2nd Boring Name Suggestion": "Main Dining",
+        "3rd Boring Name Suggestion": "Observatory",
         "Top Match Score": 0.3498291969
     },
     {
         "Original Room Name": "OUTDOOR SPECIAL EVENTS",
         "Selected Boring Name": "Astronomy Park",
-        "Top Boring Name Suggestion": "Astronomy Park",
+        "2nd Boring Name Suggestion": "Spectator Seating",
+        "3rd Boring Name Suggestion": "Observatory",
         "Top Match Score": 0.3933414817
     },
     {
         "Original Room Name": "SUPPORT",
         "Selected Boring Name": "Support",
-        "Top Boring Name Suggestion": "Support",
+        "2nd Boring Name Suggestion": "Support Space",
+        "3rd Boring Name Suggestion": "Staff & Support",
         "Top Match Score": 1.0
     },
     {
         "Original Room Name": "KITCHEN/LOUNGE",
         "Selected Boring Name": "Main Dining",
-        "Top Boring Name Suggestion": "Main Dining",
+        "2nd Boring Name Suggestion": "Food Service",
+        "3rd Boring Name Suggestion": "Gymnasium",
         "Top Match Score": 0.5595895052
     },
     {
         "Original Room Name": "JAN",
         "Selected Boring Name": "Observatory",
-        "Top Boring Name Suggestion": "Observatory",
+        "2nd Boring Name Suggestion": "Janitorial Space",
+        "3rd Boring Name Suggestion": "Mechanical",
         "Top Match Score": 0.2449919134
     },
     {
         "Original Room Name": "SUPPORT",
         "Selected Boring Name": "Support",
-        "Top Boring Name Suggestion": "Support",
+        "2nd Boring Name Suggestion": "Support Space",
+        "3rd Boring Name Suggestion": "Staff & Support",
         "Top Match Score": 1.0
     },
     {
         "Original Room Name": "STAFF",
         "Selected Boring Name": "Staff & Support",
-        "Top Boring Name Suggestion": "Staff & Support",
+        "2nd Boring Name Suggestion": "Staff Areas",
+        "3rd Boring Name Suggestion": "Food Service",
         "Top Match Score": 0.8296047449
     },
     {
         "Original Room Name": "SHARED",
         "Selected Boring Name": "Support",
-        "Top Boring Name Suggestion": "Support",
+        "2nd Boring Name Suggestion": "Locker commons ",
+        "3rd Boring Name Suggestion": "Other",
         "Top Match Score": 0.343824327
     },
     {
         "Original Room Name": "ELECTRICAL",
         "Selected Boring Name": "Electrical",
-        "Top Boring Name Suggestion": "Electrical",
+        "2nd Boring Name Suggestion": "Electrical",
+        "3rd Boring Name Suggestion": "Mechanical",
         "Top Match Score": 1.0000001192
     },
     {
         "Original Room Name": "RESTROOMS",
         "Selected Boring Name": "Staff Areas",
-        "Top Boring Name Suggestion": "Staff Areas",
+        "2nd Boring Name Suggestion": "Locker commons ",
+        "3rd Boring Name Suggestion": "Janitorial Space",
         "Top Match Score": 0.4318459034
     },
     {
         "Original Room Name": "DIREC.",
         "Selected Boring Name": "Staff Areas",
-        "Top Boring Name Suggestion": "Staff Areas",
+        "2nd Boring Name Suggestion": "Athletic Directors office",
+        "3rd Boring Name Suggestion": "Food Service",
         "Top Match Score": 0.2487123609
     },
     {
         "Original Room Name": "STAFF",
         "Selected Boring Name": "Staff & Support",
-        "Top Boring Name Suggestion": "Staff & Support",
+        "2nd Boring Name Suggestion": "Staff Areas",
+        "3rd Boring Name Suggestion": "Food Service",
         "Top Match Score": 0.8296047449
     },
     {
         "Original Room Name": "SHARED",
         "Selected Boring Name": "Support",
-        "Top Boring Name Suggestion": "Support",
+        "2nd Boring Name Suggestion": "Locker commons ",
+        "3rd Boring Name Suggestion": "Other",
         "Top Match Score": 0.343824327
     },
     {
         "Original Room Name": "HANG OUT",
         "Selected Boring Name": "Support",
-        "Top Boring Name Suggestion": "Support",
+        "2nd Boring Name Suggestion": "Main Dining",
+        "3rd Boring Name Suggestion": "Gymnasium",
         "Top Match Score": 0.2710611224
     },
     {
         "Original Room Name": "MEP",
         "Selected Boring Name": "Other",
-        "Top Boring Name Suggestion": "Other",
+        "2nd Boring Name Suggestion": "Support",
+        "3rd Boring Name Suggestion": "Electrical",
         "Top Match Score": 0.3733812273
     },
     {
         "Original Room Name": "MEP",
         "Selected Boring Name": "Other",
-        "Top Boring Name Suggestion": "Other",
+        "2nd Boring Name Suggestion": "Support",
+        "3rd Boring Name Suggestion": "Electrical",
         "Top Match Score": 0.3733812273
     },
     {
         "Original Room Name": "SHARED",
         "Selected Boring Name": "Support",
-        "Top Boring Name Suggestion": "Support",
+        "2nd Boring Name Suggestion": "Locker commons ",
+        "3rd Boring Name Suggestion": "Other",
         "Top Match Score": 0.343824327
     },
     {
         "Original Room Name": "STAIRS",
         "Selected Boring Name": "Mechanical",
-        "Top Boring Name Suggestion": "Mechanical",
+        "2nd Boring Name Suggestion": "Gymnasium",
+        "3rd Boring Name Suggestion": "Staff Areas",
         "Top Match Score": 0.3583727777
     },
     {
         "Original Room Name": "STAFF",
         "Selected Boring Name": "Staff & Support",
-        "Top Boring Name Suggestion": "Staff & Support",
+        "2nd Boring Name Suggestion": "Staff Areas",
+        "3rd Boring Name Suggestion": "Food Service",
         "Top Match Score": 0.8296047449
     },
     {
         "Original Room Name": "FOCUS",
         "Selected Boring Name": "Support Space",
-        "Top Boring Name Suggestion": "Support Space",
+        "2nd Boring Name Suggestion": "Support",
+        "3rd Boring Name Suggestion": "Spectator Seating",
         "Top Match Score": 0.3093649745
     },
     {
         "Original Room Name": "FOCUS",
         "Selected Boring Name": "Support Space",
-        "Top Boring Name Suggestion": "Support Space",
+        "2nd Boring Name Suggestion": "Support",
+        "3rd Boring Name Suggestion": "Spectator Seating",
         "Top Match Score": 0.3093649745
     },
     {
         "Original Room Name": "STORAGE",
         "Selected Boring Name": "Locker commons ",
-        "Top Boring Name Suggestion": "Locker commons ",
+        "2nd Boring Name Suggestion": "Support Space",
+        "3rd Boring Name Suggestion": "Janitorial Space",
         "Top Match Score": 0.3638240695
     },
     {
         "Original Room Name": "CIRCULATION",
         "Selected Boring Name": "Vertical Circulation",
-        "Top Boring Name Suggestion": "Vertical Circulation",
+        "2nd Boring Name Suggestion": "Electrical",
+        "3rd Boring Name Suggestion": "Electrical",
         "Top Match Score": 0.8210353255
     },
     {
         "Original Room Name": "STAIRS",
         "Selected Boring Name": "Mechanical",
-        "Top Boring Name Suggestion": "Mechanical",
+        "2nd Boring Name Suggestion": "Gymnasium",
+        "3rd Boring Name Suggestion": "Staff Areas",
         "Top Match Score": 0.3583727777
     },
     {
         "Original Room Name": "STAIRS",
         "Selected Boring Name": "Mechanical",
-        "Top Boring Name Suggestion": "Mechanical",
+        "2nd Boring Name Suggestion": "Gymnasium",
+        "3rd Boring Name Suggestion": "Staff Areas",
         "Top Match Score": 0.3583727777
     },
     {
         "Original Room Name": "HANG OUT",
         "Selected Boring Name": "Support",
-        "Top Boring Name Suggestion": "Support",
+        "2nd Boring Name Suggestion": "Main Dining",
+        "3rd Boring Name Suggestion": "Gymnasium",
         "Top Match Score": 0.2710611224
     },
     {
         "Original Room Name": "ELEV",
         "Selected Boring Name": "Electrical",
-        "Top Boring Name Suggestion": "Electrical",
+        "2nd Boring Name Suggestion": "Electrical",
+        "3rd Boring Name Suggestion": "Other",
         "Top Match Score": 0.3670065403
     },
     {
         "Original Room Name": "HANG OUT",
         "Selected Boring Name": "Support",
-        "Top Boring Name Suggestion": "Support",
+        "2nd Boring Name Suggestion": "Main Dining",
+        "3rd Boring Name Suggestion": "Gymnasium",
         "Top Match Score": 0.2710611224
     },
     {
         "Original Room Name": "HANG OUT",
         "Selected Boring Name": "Support",
-        "Top Boring Name Suggestion": "Support",
+        "2nd Boring Name Suggestion": "Main Dining",
+        "3rd Boring Name Suggestion": "Gymnasium",
         "Top Match Score": 0.2710611224
     },
     {
         "Original Room Name": "HANG OUT",
         "Selected Boring Name": "Support",
-        "Top Boring Name Suggestion": "Support",
+        "2nd Boring Name Suggestion": "Main Dining",
+        "3rd Boring Name Suggestion": "Gymnasium",
         "Top Match Score": 0.2710611224
     },
     {
         "Original Room Name": "ELEV",
         "Selected Boring Name": "Electrical",
-        "Top Boring Name Suggestion": "Electrical",
+        "2nd Boring Name Suggestion": "Electrical",
+        "3rd Boring Name Suggestion": "Other",
         "Top Match Score": 0.3670065403
     },
     {
         "Original Room Name": "ELEV",
         "Selected Boring Name": "Electrical",
-        "Top Boring Name Suggestion": "Electrical",
+        "2nd Boring Name Suggestion": "Electrical",
+        "3rd Boring Name Suggestion": "Other",
         "Top Match Score": 0.3670065403
     },
     {
         "Original Room Name": "MEP",
         "Selected Boring Name": "Other",
-        "Top Boring Name Suggestion": "Other",
+        "2nd Boring Name Suggestion": "Support",
+        "3rd Boring Name Suggestion": "Electrical",
         "Top Match Score": 0.3733812273
     },
     {
         "Original Room Name": "RESTAURANT SUPPORT",
         "Selected Boring Name": "Food Service",
-        "Top Boring Name Suggestion": "Food Service",
+        "2nd Boring Name Suggestion": "Support",
+        "3rd Boring Name Suggestion": "Staff & Support",
         "Top Match Score": 0.6580818892
     },
     {
         "Original Room Name": "CIRCULATION",
         "Selected Boring Name": "Vertical Circulation",
-        "Top Boring Name Suggestion": "Vertical Circulation",
+        "2nd Boring Name Suggestion": "Electrical",
+        "3rd Boring Name Suggestion": "Electrical",
         "Top Match Score": 0.8210353255
     },
     {
         "Original Room Name": "STAIRS",
         "Selected Boring Name": "Mechanical",
-        "Top Boring Name Suggestion": "Mechanical",
+        "2nd Boring Name Suggestion": "Gymnasium",
+        "3rd Boring Name Suggestion": "Staff Areas",
         "Top Match Score": 0.3583727777
     },
     {
         "Original Room Name": "ELEVATOR",
         "Selected Boring Name": "Mechanical",
-        "Top Boring Name Suggestion": "Mechanical",
+        "2nd Boring Name Suggestion": "Electrical",
+        "3rd Boring Name Suggestion": "Gymnasium",
         "Top Match Score": 0.4097509086
     },
     {
         "Original Room Name": "T",
         "Selected Boring Name": "Support",
-        "Top Boring Name Suggestion": "Support",
+        "2nd Boring Name Suggestion": "Other",
+        "3rd Boring Name Suggestion": "Mechanical",
         "Top Match Score": 0.3519544303
     },
     {
         "Original Room Name": "CIRCULATION",
         "Selected Boring Name": "Vertical Circulation",
-        "Top Boring Name Suggestion": "Vertical Circulation",
+        "2nd Boring Name Suggestion": "Electrical",
+        "3rd Boring Name Suggestion": "Electrical",
         "Top Match Score": 0.8210353255
     },
     {
         "Original Room Name": "SERVICE ELEV",
         "Selected Boring Name": "Food Service",
-        "Top Boring Name Suggestion": "Food Service",
+        "2nd Boring Name Suggestion": "Electrical",
+        "3rd Boring Name Suggestion": "Electrical",
         "Top Match Score": 0.3859655559
     },
     {
         "Original Room Name": "T",
         "Selected Boring Name": "Support",
-        "Top Boring Name Suggestion": "Support",
+        "2nd Boring Name Suggestion": "Other",
+        "3rd Boring Name Suggestion": "Mechanical",
         "Top Match Score": 0.3519544303
     },
     {
         "Original Room Name": "IT",
         "Selected Boring Name": "Electrical",
-        "Top Boring Name Suggestion": "Electrical - IT",
+        "2nd Boring Name Suggestion": "Support",
+        "3rd Boring Name Suggestion": "Other",
         "Top Match Score": 0.3670812845
     },
     {
         "Original Room Name": "SERVICE ELEV",
         "Selected Boring Name": "Food Service",
-        "Top Boring Name Suggestion": "Food Service",
-        "Top Match Score": 0.3859655559
-    },
-    {
-        "Original Room Name": "SERVERY",
-        "Selected Boring Name": "Other",
-        "Top Boring Name Suggestion": "Other",
-        "Top Match Score": 0.3639150858
-    },
-    {
-        "Original Room Name": "STUDENT DINING",
-        "Selected Boring Name": "Main Dining",
-        "Top Boring Name Suggestion": "Main Dining",
-        "Top Match Score": 0.7164112926
-    },
-    {
-        "Original Room Name": "STAIRS",
-        "Selected Boring Name": "Mechanical",
-        "Top Boring Name Suggestion": "Mechanical",
-        "Top Match Score": 0.3583727777
-    },
-    {
-        "Original Room Name": "SECURITY",
-        "Selected Boring Name": "Electrical",
-        "Top Boring Name Suggestion": "Electrical - IT",
-        "Top Match Score": 0.3853564858
-    },
-    {
-        "Original Room Name": "SECURITY",
-        "Selected Boring Name": "Electrical",
-        "Top Boring Name Suggestion": "Electrical - IT",
-        "Top Match Score": 0.3853564858
-    },
-    {
-        "Original Room Name": "MEP",
-        "Selected Boring Name": "Other",
-        "Top Boring Name Suggestion": "Other",
-        "Top Match Score": 0.3733812273
-    },
-    {
-        "Original Room Name": "IT",
-        "Selected Boring Name": "Electrical",
-        "Top Boring Name Suggestion": "Electrical - IT",
-        "Top Match Score": 0.3670812845
-    },
-    {
-        "Original Room Name": "TOILET",
-        "Selected Boring Name": "Locker commons ",
-        "Top Boring Name Suggestion": "Locker commons ",
-        "Top Match Score": 0.3439919949
-    },
-    {
-        "Original Room Name": "ELEV",
-        "Selected Boring Name": "Electrical",
-        "Top Boring Name Suggestion": "Electrical",
-        "Top Match Score": 0.3670065403
-    },
-    {
-        "Original Room Name": "DINING",
-        "Selected Boring Name": "Main Dining",
-        "Top Boring Name Suggestion": "Main Dining",
-        "Top Match Score": 0.8629145026
-    },
-    {
-        "Original Room Name": "CIRCULATION",
-        "Selected Boring Name": "Vertical Circulation",
-        "Top Boring Name Suggestion": "Vertical Circulation",
-        "Top Match Score": 0.8210353255
-    },
-    {
-        "Original Room Name": "BLC CIRCULATION",
-        "Selected Boring Name": "Vertical Circulation",
-        "Top Boring Name Suggestion": "Vertical Circulation",
-        "Top Match Score": 0.5505830646
-    },
-    {
-        "Original Room Name": "CIRCULATION",
-        "Selected Boring Name": "Vertical Circulation",
-        "Top Boring Name Suggestion": "Vertical Circulation",
-        "Top Match Score": 0.8210353255
-    },
-    {
-        "Original Room Name": "CIRCULATION",
-        "Selected Boring Name": "Vertical Circulation",
-        "Top Boring Name Suggestion": "Vertical Circulation",
-        "Top Match Score": 0.8210353255
-    },
-    {
-        "Original Room Name": "TAKE OUT",
-        "Selected Boring Name": "Locker commons ",
-        "Top Boring Name Suggestion": "Locker commons ",
-        "Top Match Score": 0.2125486881
-    },
-    {
-        "Original Room Name": "HANG OUT",
-        "Selected Boring Name": "Support",
-        "Top Boring Name Suggestion": "Support",
-        "Top Match Score": 0.2710611224
-    },
-    {
-        "Original Room Name": "TOILET",
-        "Selected Boring Name": "Locker commons ",
-        "Top Boring Name Suggestion": "Locker commons ",
-        "Top Match Score": 0.3439919949
-    },
-    {
-        "Original Room Name": "STAIRS",
-        "Selected Boring Name": "Mechanical",
-        "Top Boring Name Suggestion": "Mechanical",
-        "Top Match Score": 0.3583727777
-    },
-    {
-        "Original Room Name": "CIRCULATION",
-        "Selected Boring Name": "Vertical Circulation",
-        "Top Boring Name Suggestion": "Vertical Circulation",
-        "Top Match Score": 0.8210353255
-    },
-    {
-        "Original Room Name": "STAIRS",
-        "Selected Boring Name": "Mechanical",
-        "Top Boring Name Suggestion": "Mechanical",
-        "Top Match Score": 0.3583727777
-    },
-    {
-        "Original Room Name": "ELEV",
-        "Selected Boring Name": "Electrical",
-        "Top Boring Name Suggestion": "Electrical",
-        "Top Match Score": 0.3670065403
-    },
-    {
-        "Original Room Name": "ELEV",
-        "Selected Boring Name": "Electrical",
-        "Top Boring Name Suggestion": "Electrical",
-        "Top Match Score": 0.3670065403
-    },
-    {
-        "Original Room Name": "STORAGE",
-        "Selected Boring Name": "Locker commons ",
-        "Top Boring Name Suggestion": "Locker commons ",
-        "Top Match Score": 0.3638240695
-    },
-    {
-        "Original Room Name": "CIRCULATION",
-        "Selected Boring Name": "Vertical Circulation",
-        "Top Boring Name Suggestion": "Vertical Circulation",
-        "Top Match Score": 0.8210353255
-    },
-    {
-        "Original Room Name": "BREAKOUT",
-        "Selected Boring Name": "Other",
-        "Top Boring Name Suggestion": "Other",
-        "Top Match Score": 0.3343579769
-    },
-    {
-        "Original Room Name": "MEP",
-        "Selected Boring Name": "Other",
-        "Top Boring Name Suggestion": "Other",
-        "Top Match Score": 0.3733812273
-    },
-    {
-        "Original Room Name": "RESTROOMS",
-        "Selected Boring Name": "Staff Areas",
-        "Top Boring Name Suggestion": "Staff Areas",
-        "Top Match Score": 0.4318459034
-    },
-    {
-        "Original Room Name": "MATERIALS",
-        "Selected Boring Name": "Mechanical",
-        "Top Boring Name Suggestion": "Mechanical",
-        "Top Match Score": 0.5604474545
-    },
-    {
-        "Original Room Name": "BREAKOUT",
-        "Selected Boring Name": "Other",
-        "Top Boring Name Suggestion": "Other",
-        "Top Match Score": 0.3343579769
-    },
-    {
-        "Original Room Name": "BREAKOUT",
-        "Selected Boring Name": "Other",
-        "Top Boring Name Suggestion": "Other",
-        "Top Match Score": 0.3343579769
-    },
-    {
-        "Original Room Name": "BREAKOUT",
-        "Selected Boring Name": "Other",
-        "Top Boring Name Suggestion": "Other",
-        "Top Match Score": 0.3343579769
-    },
-    {
-        "Original Room Name": "CONVENING",
-        "Selected Boring Name": "Staff & Support",
-        "Top Boring Name Suggestion": "Staff & Support",
-        "Top Match Score": 0.3004845977
-    },
-    {
-        "Original Room Name": "BREAKOUT",
-        "Selected Boring Name": "Other",
-        "Top Boring Name Suggestion": "Other",
-        "Top Match Score": 0.3343579769
-    },
-    {
-        "Original Room Name": "STAIRS",
-        "Selected Boring Name": "Mechanical",
-        "Top Boring Name Suggestion": "Mechanical",
-        "Top Match Score": 0.3583727777
-    },
-    {
-        "Original Room Name": "ELEC",
-        "Selected Boring Name": "Electrical",
-        "Top Boring Name Suggestion": "Electrical",
-        "Top Match Score": 0.3554433584
-    },
-    {
-        "Original Room Name": "STAGING/STORAGE",
-        "Selected Boring Name": "Staff Areas",
-        "Top Boring Name Suggestion": "Staff Areas",
-        "Top Match Score": 0.323105514
-    },
-    {
-        "Original Room Name": "BREAKOUT",
-        "Selected Boring Name": "Other",
-        "Top Boring Name Suggestion": "Other",
-        "Top Match Score": 0.3343579769
-    },
-    {
-        "Original Room Name": "ELEV",
-        "Selected Boring Name": "Electrical",
-        "Top Boring Name Suggestion": "Electrical",
-        "Top Match Score": 0.3670065403
-    },
-    {
-        "Original Room Name": "STUDIO",
-        "Selected Boring Name": "Gymnasium",
-        "Top Boring Name Suggestion": "Gymnasium",
-        "Top Match Score": 0.3806049526
-    },
-    {
-        "Original Room Name": "HANG OUT",
-        "Selected Boring Name": "Support",
-        "Top Boring Name Suggestion": "Support",
-        "Top Match Score": 0.2710611224
-    },
-    {
-        "Original Room Name": "QUIET",
-        "Selected Boring Name": "Support",
-        "Top Boring Name Suggestion": "Support",
-        "Top Match Score": 0.3868248761
-    },
-    {
-        "Original Room Name": "HANG OUT",
-        "Selected Boring Name": "Support",
-        "Top Boring Name Suggestion": "Support",
-        "Top Match Score": 0.2710611224
-    },
-    {
-        "Original Room Name": "ELECTRICAL",
-        "Selected Boring Name": "Electrical",
-        "Top Boring Name Suggestion": "Electrical",
-        "Top Match Score": 1.0000001192
-    },
-    {
-        "Original Room Name": "SUPPORT",
-        "Selected Boring Name": "Support",
-        "Top Boring Name Suggestion": "Support",
-        "Top Match Score": 1.0
-    },
-    {
-        "Original Room Name": "ELEV",
-        "Selected Boring Name": "Electrical",
-        "Top Boring Name Suggestion": "Electrical",
-        "Top Match Score": 0.3670065403
-    },
-    {
-        "Original Room Name": "STAIRS",
-        "Selected Boring Name": "Mechanical",
-        "Top Boring Name Suggestion": "Mechanical",
-        "Top Match Score": 0.3583727777
-    },
-    {
-        "Original Room Name": "HANG OUT",
-        "Selected Boring Name": "Support",
-        "Top Boring Name Suggestion": "Support",
-        "Top Match Score": 0.2710611224
-    },
-    {
-        "Original Room Name": "STAIRS",
-        "Selected Boring Name": "Mechanical",
-        "Top Boring Name Suggestion": "Mechanical",
-        "Top Match Score": 0.3583727777
-    },
-    {
-        "Original Room Name": "ELEV",
-        "Selected Boring Name": "Electrical",
-        "Top Boring Name Suggestion": "Electrical",
-        "Top Match Score": 0.3670065403
-    },
-    {
-        "Original Room Name": "COATS",
-        "Selected Boring Name": "Locker commons ",
-        "Top Boring Name Suggestion": "Locker commons ",
-        "Top Match Score": 0.3052344322
-    },
-    {
-        "Original Room Name": "HANG OUT",
-        "Selected Boring Name": "Support",
-        "Top Boring Name Suggestion": "Support",
-        "Top Match Score": 0.2710611224
-    },
-    {
-        "Original Room Name": "MEETING",
-        "Selected Boring Name": "Spectator Seating",
-        "Top Boring Name Suggestion": "Spectator Seating",
-        "Top Match Score": 0.3498291969
-    },
-    {
-        "Original Room Name": "OUTDOOR SPECIAL EVENTS",
-        "Selected Boring Name": "Astronomy Park",
-        "Top Boring Name Suggestion": "Astronomy Park",
-        "Top Match Score": 0.3933414817
-    },
-    {
-        "Original Room Name": "SUPPORT",
-        "Selected Boring Name": "Support",
-        "Top Boring Name Suggestion": "Support",
-        "Top Match Score": 1.0
-    },
-    {
-        "Original Room Name": "KITCHEN/LOUNGE",
-        "Selected Boring Name": "Main Dining",
-        "Top Boring Name Suggestion": "Main Dining",
-        "Top Match Score": 0.5595895052
-    },
-    {
-        "Original Room Name": "JAN",
-        "Selected Boring Name": "Observatory",
-        "Top Boring Name Suggestion": "Observatory",
-        "Top Match Score": 0.2449919134
-    },
-    {
-        "Original Room Name": "SUPPORT",
-        "Selected Boring Name": "Support",
-        "Top Boring Name Suggestion": "Support",
-        "Top Match Score": 1.0
-    },
-    {
-        "Original Room Name": "STAFF",
-        "Selected Boring Name": "Staff & Support",
-        "Top Boring Name Suggestion": "Staff & Support",
-        "Top Match Score": 0.8296047449
-    },
-    {
-        "Original Room Name": "SHARED",
-        "Selected Boring Name": "Support",
-        "Top Boring Name Suggestion": "Support",
-        "Top Match Score": 0.343824327
-    },
-    {
-        "Original Room Name": "ELECTRICAL",
-        "Selected Boring Name": "Electrical",
-        "Top Boring Name Suggestion": "Electrical",
-        "Top Match Score": 1.0000001192
-    },
-    {
-        "Original Room Name": "RESTROOMS",
-        "Selected Boring Name": "Staff Areas",
-        "Top Boring Name Suggestion": "Staff Areas",
-        "Top Match Score": 0.4318459034
-    },
-    {
-        "Original Room Name": "DIREC.",
-        "Selected Boring Name": "Staff Areas",
-        "Top Boring Name Suggestion": "Staff Areas",
-        "Top Match Score": 0.2487123609
-    },
-    {
-        "Original Room Name": "STAFF",
-        "Selected Boring Name": "Staff & Support",
-        "Top Boring Name Suggestion": "Staff & Support",
-        "Top Match Score": 0.8296047449
-    },
-    {
-        "Original Room Name": "SHARED",
-        "Selected Boring Name": "Support",
-        "Top Boring Name Suggestion": "Support",
-        "Top Match Score": 0.343824327
-    },
-    {
-        "Original Room Name": "HANG OUT",
-        "Selected Boring Name": "Support",
-        "Top Boring Name Suggestion": "Support",
-        "Top Match Score": 0.2710611224
-    },
-    {
-        "Original Room Name": "MEP",
-        "Selected Boring Name": "Other",
-        "Top Boring Name Suggestion": "Other",
-        "Top Match Score": 0.3733812273
-    },
-    {
-        "Original Room Name": "MEP",
-        "Selected Boring Name": "Other",
-        "Top Boring Name Suggestion": "Other",
-        "Top Match Score": 0.3733812273
-    },
-    {
-        "Original Room Name": "SHARED",
-        "Selected Boring Name": "Support",
-        "Top Boring Name Suggestion": "Support",
-        "Top Match Score": 0.343824327
-    },
-    {
-        "Original Room Name": "STAIRS",
-        "Selected Boring Name": "Mechanical",
-        "Top Boring Name Suggestion": "Mechanical",
-        "Top Match Score": 0.3583727777
-    },
-    {
-        "Original Room Name": "STAFF",
-        "Selected Boring Name": "Staff & Support",
-        "Top Boring Name Suggestion": "Staff & Support",
-        "Top Match Score": 0.8296047449
-    },
-    {
-        "Original Room Name": "FOCUS",
-        "Selected Boring Name": "Support Space",
-        "Top Boring Name Suggestion": "Support Space",
-        "Top Match Score": 0.3093649745
-    },
-    {
-        "Original Room Name": "FOCUS",
-        "Selected Boring Name": "Support Space",
-        "Top Boring Name Suggestion": "Support Space",
-        "Top Match Score": 0.3093649745
-    },
-    {
-        "Original Room Name": "STORAGE",
-        "Selected Boring Name": "Locker commons ",
-        "Top Boring Name Suggestion": "Locker commons ",
-        "Top Match Score": 0.3638240695
-    },
-    {
-        "Original Room Name": "CIRCULATION",
-        "Selected Boring Name": "Vertical Circulation",
-        "Top Boring Name Suggestion": "Vertical Circulation",
-        "Top Match Score": 0.8210353255
-    },
-    {
-        "Original Room Name": "STAIRS",
-        "Selected Boring Name": "Mechanical",
-        "Top Boring Name Suggestion": "Mechanical",
-        "Top Match Score": 0.3583727777
-    },
-    {
-        "Original Room Name": "STAIRS",
-        "Selected Boring Name": "Mechanical",
-        "Top Boring Name Suggestion": "Mechanical",
-        "Top Match Score": 0.3583727777
-    },
-    {
-        "Original Room Name": "HANG OUT",
-        "Selected Boring Name": "Support",
-        "Top Boring Name Suggestion": "Support",
-        "Top Match Score": 0.2710611224
-    },
-    {
-        "Original Room Name": "ELEV",
-        "Selected Boring Name": "Electrical",
-        "Top Boring Name Suggestion": "Electrical",
-        "Top Match Score": 0.3670065403
-    },
-    {
-        "Original Room Name": "HANG OUT",
-        "Selected Boring Name": "Support",
-        "Top Boring Name Suggestion": "Support",
-        "Top Match Score": 0.2710611224
-    },
-    {
-        "Original Room Name": "HANG OUT",
-        "Selected Boring Name": "Support",
-        "Top Boring Name Suggestion": "Support",
-        "Top Match Score": 0.2710611224
-    },
-    {
-        "Original Room Name": "HANG OUT",
-        "Selected Boring Name": "Support",
-        "Top Boring Name Suggestion": "Support",
-        "Top Match Score": 0.2710611224
-    },
-    {
-        "Original Room Name": "ELEV",
-        "Selected Boring Name": "Electrical",
-        "Top Boring Name Suggestion": "Electrical",
-        "Top Match Score": 0.3670065403
-    },
-    {
-        "Original Room Name": "ELEV",
-        "Selected Boring Name": "Electrical",
-        "Top Boring Name Suggestion": "Electrical",
-        "Top Match Score": 0.3670065403
-    },
-    {
-        "Original Room Name": "MEP",
-        "Selected Boring Name": "Other",
-        "Top Boring Name Suggestion": "Other",
-        "Top Match Score": 0.3733812273
-    },
-    {
-        "Original Room Name": "RESTAURANT SUPPORT",
-        "Selected Boring Name": "Food Service",
-        "Top Boring Name Suggestion": "Food Service",
-        "Top Match Score": 0.6580818892
-    },
-    {
-        "Original Room Name": "CIRCULATION",
-        "Selected Boring Name": "Vertical Circulation",
-        "Top Boring Name Suggestion": "Vertical Circulation",
-        "Top Match Score": 0.8210353255
-    },
-    {
-        "Original Room Name": "STAIRS",
-        "Selected Boring Name": "Mechanical",
-        "Top Boring Name Suggestion": "Mechanical",
-        "Top Match Score": 0.3583727777
-    },
-    {
-        "Original Room Name": "ELEVATOR",
-        "Selected Boring Name": "Mechanical",
-        "Top Boring Name Suggestion": "Mechanical",
-        "Top Match Score": 0.4097509086
-    },
-    {
-        "Original Room Name": "T",
-        "Selected Boring Name": "Support",
-        "Top Boring Name Suggestion": "Support",
-        "Top Match Score": 0.3519544303
-    },
-    {
-        "Original Room Name": "CIRCULATION",
-        "Selected Boring Name": "Vertical Circulation",
-        "Top Boring Name Suggestion": "Vertical Circulation",
-        "Top Match Score": 0.8210353255
-    },
-    {
-        "Original Room Name": "SERVICE ELEV",
-        "Selected Boring Name": "Food Service",
-        "Top Boring Name Suggestion": "Food Service",
-        "Top Match Score": 0.3859655559
-    },
-    {
-        "Original Room Name": "T",
-        "Selected Boring Name": "Support",
-        "Top Boring Name Suggestion": "Support",
-        "Top Match Score": 0.3519544303
-    },
-    {
-        "Original Room Name": "IT",
-        "Selected Boring Name": "Electrical",
-        "Top Boring Name Suggestion": "Electrical - IT",
-        "Top Match Score": 0.3670812845
-    },
-    {
-        "Original Room Name": "SERVICE ELEV",
-        "Selected Boring Name": "Food Service",
-        "Top Boring Name Suggestion": "Food Service",
-        "Top Match Score": 0.3859655559
-    },
-    {
-        "Original Room Name": "SERVERY",
-        "Selected Boring Name": "Other",
-        "Top Boring Name Suggestion": "Other",
-        "Top Match Score": 0.3639150858
-    },
-    {
-        "Original Room Name": "STUDENT DINING",
-        "Selected Boring Name": "Main Dining",
-        "Top Boring Name Suggestion": "Main Dining",
-        "Top Match Score": 0.7164112926
-    },
-    {
-        "Original Room Name": "STAIRS",
-        "Selected Boring Name": "Mechanical",
-        "Top Boring Name Suggestion": "Mechanical",
-        "Top Match Score": 0.3583727777
-    },
-    {
-        "Original Room Name": "SECURITY",
-        "Selected Boring Name": "Electrical",
-        "Top Boring Name Suggestion": "Electrical - IT",
-        "Top Match Score": 0.3853564858
-    },
-    {
-        "Original Room Name": "SECURITY",
-        "Selected Boring Name": "Electrical",
-        "Top Boring Name Suggestion": "Electrical - IT",
-        "Top Match Score": 0.3853564858
-    },
-    {
-        "Original Room Name": "MEP",
-        "Selected Boring Name": "Other",
-        "Top Boring Name Suggestion": "Other",
-        "Top Match Score": 0.3733812273
-    },
-    {
-        "Original Room Name": "IT",
-        "Selected Boring Name": "Electrical",
-        "Top Boring Name Suggestion": "Electrical - IT",
-        "Top Match Score": 0.3670812845
-    },
-    {
-        "Original Room Name": "TOILET",
-        "Selected Boring Name": "Locker commons ",
-        "Top Boring Name Suggestion": "Locker commons ",
-        "Top Match Score": 0.3439919949
-    },
-    {
-        "Original Room Name": "ELEV",
-        "Selected Boring Name": "Electrical",
-        "Top Boring Name Suggestion": "Electrical",
-        "Top Match Score": 0.3670065403
-    },
-    {
-        "Original Room Name": "DINING",
-        "Selected Boring Name": "Main Dining",
-        "Top Boring Name Suggestion": "Main Dining",
-        "Top Match Score": 0.8629145026
-    },
-    {
-        "Original Room Name": "CIRCULATION",
-        "Selected Boring Name": "Vertical Circulation",
-        "Top Boring Name Suggestion": "Vertical Circulation",
-        "Top Match Score": 0.8210353255
-    },
-    {
-        "Original Room Name": "BLC CIRCULATION",
-        "Selected Boring Name": "Vertical Circulation",
-        "Top Boring Name Suggestion": "Vertical Circulation",
-        "Top Match Score": 0.5505830646
-    },
-    {
-        "Original Room Name": "CIRCULATION",
-        "Selected Boring Name": "Vertical Circulation",
-        "Top Boring Name Suggestion": "Vertical Circulation",
-        "Top Match Score": 0.8210353255
-    },
-    {
-        "Original Room Name": "CIRCULATION",
-        "Selected Boring Name": "Vertical Circulation",
-        "Top Boring Name Suggestion": "Vertical Circulation",
-        "Top Match Score": 0.8210353255
-    },
-    {
-        "Original Room Name": "TAKE OUT",
-        "Selected Boring Name": "Locker commons ",
-        "Top Boring Name Suggestion": "Locker commons ",
-        "Top Match Score": 0.2125486881
-    },
-    {
-        "Original Room Name": "HANG OUT",
-        "Selected Boring Name": "Support",
-        "Top Boring Name Suggestion": "Support",
-        "Top Match Score": 0.2710611224
-    },
-    {
-        "Original Room Name": "TOILET",
-        "Selected Boring Name": "Locker commons ",
-        "Top Boring Name Suggestion": "Locker commons ",
-        "Top Match Score": 0.3439919949
-    },
-    {
-        "Original Room Name": "STAIRS",
-        "Selected Boring Name": "Mechanical",
-        "Top Boring Name Suggestion": "Mechanical",
-        "Top Match Score": 0.3583727777
-    },
-    {
-        "Original Room Name": "CIRCULATION",
-        "Selected Boring Name": "Vertical Circulation",
-        "Top Boring Name Suggestion": "Vertical Circulation",
-        "Top Match Score": 0.8210353255
-    },
-    {
-        "Original Room Name": "STAIRS",
-        "Selected Boring Name": "Mechanical",
-        "Top Boring Name Suggestion": "Mechanical",
-        "Top Match Score": 0.3583727777
-    },
-    {
-        "Original Room Name": "ELEV",
-        "Selected Boring Name": "Electrical",
-        "Top Boring Name Suggestion": "Electrical",
-        "Top Match Score": 0.3670065403
-    },
-    {
-        "Original Room Name": "ELEV",
-        "Selected Boring Name": "Electrical",
-        "Top Boring Name Suggestion": "Electrical",
-        "Top Match Score": 0.3670065403
-    },
-    {
-        "Original Room Name": "STORAGE",
-        "Selected Boring Name": "Locker commons ",
-        "Top Boring Name Suggestion": "Locker commons ",
-        "Top Match Score": 0.3638240695
-    },
-    {
-        "Original Room Name": "CIRCULATION",
-        "Selected Boring Name": "Vertical Circulation",
-        "Top Boring Name Suggestion": "Vertical Circulation",
-        "Top Match Score": 0.8210353255
-    },
-    {
-        "Original Room Name": "BREAKOUT",
-        "Selected Boring Name": "Other",
-        "Top Boring Name Suggestion": "Other",
-        "Top Match Score": 0.3343579769
-    },
-    {
-        "Original Room Name": "MEP",
-        "Selected Boring Name": "Other",
-        "Top Boring Name Suggestion": "Other",
-        "Top Match Score": 0.3733812273
-    },
-    {
-        "Original Room Name": "RESTROOMS",
-        "Selected Boring Name": "Staff Areas",
-        "Top Boring Name Suggestion": "Staff Areas",
-        "Top Match Score": 0.4318459034
-    },
-    {
-        "Original Room Name": "MATERIALS",
-        "Selected Boring Name": "Mechanical",
-        "Top Boring Name Suggestion": "Mechanical",
-        "Top Match Score": 0.5604474545
-    },
-    {
-        "Original Room Name": "BREAKOUT",
-        "Selected Boring Name": "Other",
-        "Top Boring Name Suggestion": "Other",
-        "Top Match Score": 0.3343579769
-    },
-    {
-        "Original Room Name": "BREAKOUT",
-        "Selected Boring Name": "Other",
-        "Top Boring Name Suggestion": "Other",
-        "Top Match Score": 0.3343579769
-    },
-    {
-        "Original Room Name": "BREAKOUT",
-        "Selected Boring Name": "Other",
-        "Top Boring Name Suggestion": "Other",
-        "Top Match Score": 0.3343579769
-    },
-    {
-        "Original Room Name": "CONVENING",
-        "Selected Boring Name": "Staff & Support",
-        "Top Boring Name Suggestion": "Staff & Support",
-        "Top Match Score": 0.3004845977
-    },
-    {
-        "Original Room Name": "BREAKOUT",
-        "Selected Boring Name": "Other",
-        "Top Boring Name Suggestion": "Other",
-        "Top Match Score": 0.3343579769
-    },
-    {
-        "Original Room Name": "STAIRS",
-        "Selected Boring Name": "Mechanical",
-        "Top Boring Name Suggestion": "Mechanical",
-        "Top Match Score": 0.3583727777
-    },
-    {
-        "Original Room Name": "ELEC",
-        "Selected Boring Name": "Electrical",
-        "Top Boring Name Suggestion": "Electrical",
-        "Top Match Score": 0.3554433584
-    },
-    {
-        "Original Room Name": "STAGING/STORAGE",
-        "Selected Boring Name": "Staff Areas",
-        "Top Boring Name Suggestion": "Staff Areas",
-        "Top Match Score": 0.323105514
-    },
-    {
-        "Original Room Name": "BREAKOUT",
-        "Selected Boring Name": "Other",
-        "Top Boring Name Suggestion": "Other",
-        "Top Match Score": 0.3343579769
-    },
-    {
-        "Original Room Name": "ELEV",
-        "Selected Boring Name": "Electrical",
-        "Top Boring Name Suggestion": "Electrical",
-        "Top Match Score": 0.3670065403
-    },
-    {
-        "Original Room Name": "STUDIO",
-        "Selected Boring Name": "Gymnasium",
-        "Top Boring Name Suggestion": "Gymnasium",
-        "Top Match Score": 0.3806049526
-    },
-    {
-        "Original Room Name": "HANG OUT",
-        "Selected Boring Name": "Support",
-        "Top Boring Name Suggestion": "Support",
-        "Top Match Score": 0.2710611224
-    },
-    {
-        "Original Room Name": "QUIET",
-        "Selected Boring Name": "Support",
-        "Top Boring Name Suggestion": "Support",
-        "Top Match Score": 0.3868248761
-    },
-    {
-        "Original Room Name": "HANG OUT",
-        "Selected Boring Name": "Support",
-        "Top Boring Name Suggestion": "Support",
-        "Top Match Score": 0.2710611224
-    },
-    {
-        "Original Room Name": "ELECTRICAL",
-        "Selected Boring Name": "Electrical",
-        "Top Boring Name Suggestion": "Electrical",
-        "Top Match Score": 1.0000001192
-    },
-    {
-        "Original Room Name": "SUPPORT",
-        "Selected Boring Name": "Support",
-        "Top Boring Name Suggestion": "Support",
-        "Top Match Score": 1.0
-    },
-    {
-        "Original Room Name": "ELEV",
-        "Selected Boring Name": "Electrical",
-        "Top Boring Name Suggestion": "Electrical",
-        "Top Match Score": 0.3670065403
-    },
-    {
-        "Original Room Name": "STAIRS",
-        "Selected Boring Name": "Mechanical",
-        "Top Boring Name Suggestion": "Mechanical",
-        "Top Match Score": 0.3583727777
-    },
-    {
-        "Original Room Name": "HANG OUT",
-        "Selected Boring Name": "Support",
-        "Top Boring Name Suggestion": "Support",
-        "Top Match Score": 0.2710611224
-    },
-    {
-        "Original Room Name": "STAIRS",
-        "Selected Boring Name": "Mechanical",
-        "Top Boring Name Suggestion": "Mechanical",
-        "Top Match Score": 0.3583727777
-    },
-    {
-        "Original Room Name": "ELEV",
-        "Selected Boring Name": "Electrical",
-        "Top Boring Name Suggestion": "Electrical",
-        "Top Match Score": 0.3670065403
-    },
-    {
-        "Original Room Name": "COATS",
-        "Selected Boring Name": "Locker commons ",
-        "Top Boring Name Suggestion": "Locker commons ",
-        "Top Match Score": 0.3052344322
-    },
-    {
-        "Original Room Name": "HANG OUT",
-        "Selected Boring Name": "Support",
-        "Top Boring Name Suggestion": "Support",
-        "Top Match Score": 0.2710611224
-    },
-    {
-        "Original Room Name": "MEETING",
-        "Selected Boring Name": "Spectator Seating",
-        "Top Boring Name Suggestion": "Spectator Seating",
-        "Top Match Score": 0.3498291969
-    },
-    {
-        "Original Room Name": "OUTDOOR SPECIAL EVENTS",
-        "Selected Boring Name": "Astronomy Park",
-        "Top Boring Name Suggestion": "Astronomy Park",
-        "Top Match Score": 0.3933414817
-    },
-    {
-        "Original Room Name": "SUPPORT",
-        "Selected Boring Name": "Support",
-        "Top Boring Name Suggestion": "Support",
-        "Top Match Score": 1.0
-    },
-    {
-        "Original Room Name": "KITCHEN/LOUNGE",
-        "Selected Boring Name": "Main Dining",
-        "Top Boring Name Suggestion": "Main Dining",
-        "Top Match Score": 0.5595895052
-    },
-    {
-        "Original Room Name": "JAN",
-        "Selected Boring Name": "Observatory",
-        "Top Boring Name Suggestion": "Observatory",
-        "Top Match Score": 0.2449919134
-    },
-    {
-        "Original Room Name": "SUPPORT",
-        "Selected Boring Name": "Support",
-        "Top Boring Name Suggestion": "Support",
-        "Top Match Score": 1.0
-    },
-    {
-        "Original Room Name": "STAFF",
-        "Selected Boring Name": "Staff & Support",
-        "Top Boring Name Suggestion": "Staff & Support",
-        "Top Match Score": 0.8296047449
-    },
-    {
-        "Original Room Name": "SHARED",
-        "Selected Boring Name": "Support",
-        "Top Boring Name Suggestion": "Support",
-        "Top Match Score": 0.343824327
-    },
-    {
-        "Original Room Name": "ELECTRICAL",
-        "Selected Boring Name": "Electrical",
-        "Top Boring Name Suggestion": "Electrical",
-        "Top Match Score": 1.0000001192
-    },
-    {
-        "Original Room Name": "RESTROOMS",
-        "Selected Boring Name": "Staff Areas",
-        "Top Boring Name Suggestion": "Staff Areas",
-        "Top Match Score": 0.4318459034
-    },
-    {
-        "Original Room Name": "DIREC.",
-        "Selected Boring Name": "Staff Areas",
-        "Top Boring Name Suggestion": "Staff Areas",
-        "Top Match Score": 0.2487123609
-    },
-    {
-        "Original Room Name": "STAFF",
-        "Selected Boring Name": "Staff & Support",
-        "Top Boring Name Suggestion": "Staff & Support",
-        "Top Match Score": 0.8296047449
-    },
-    {
-        "Original Room Name": "SHARED",
-        "Selected Boring Name": "Support",
-        "Top Boring Name Suggestion": "Support",
-        "Top Match Score": 0.343824327
-    },
-    {
-        "Original Room Name": "HANG OUT",
-        "Selected Boring Name": "Support",
-        "Top Boring Name Suggestion": "Support",
-        "Top Match Score": 0.2710611224
-    },
-    {
-        "Original Room Name": "MEP",
-        "Selected Boring Name": "Other",
-        "Top Boring Name Suggestion": "Other",
-        "Top Match Score": 0.3733812273
-    },
-    {
-        "Original Room Name": "MEP",
-        "Selected Boring Name": "Other",
-        "Top Boring Name Suggestion": "Other",
-        "Top Match Score": 0.3733812273
-    },
-    {
-        "Original Room Name": "SHARED",
-        "Selected Boring Name": "Support",
-        "Top Boring Name Suggestion": "Support",
-        "Top Match Score": 0.343824327
-    },
-    {
-        "Original Room Name": "STAIRS",
-        "Selected Boring Name": "Mechanical",
-        "Top Boring Name Suggestion": "Mechanical",
-        "Top Match Score": 0.3583727777
-    },
-    {
-        "Original Room Name": "STAFF",
-        "Selected Boring Name": "Staff & Support",
-        "Top Boring Name Suggestion": "Staff & Support",
-        "Top Match Score": 0.8296047449
-    },
-    {
-        "Original Room Name": "FOCUS",
-        "Selected Boring Name": "Support Space",
-        "Top Boring Name Suggestion": "Support Space",
-        "Top Match Score": 0.3093649745
-    },
-    {
-        "Original Room Name": "FOCUS",
-        "Selected Boring Name": "Support Space",
-        "Top Boring Name Suggestion": "Support Space",
-        "Top Match Score": 0.3093649745
-    },
-    {
-        "Original Room Name": "STORAGE",
-        "Selected Boring Name": "Locker commons ",
-        "Top Boring Name Suggestion": "Locker commons ",
-        "Top Match Score": 0.3638240695
-    },
-    {
-        "Original Room Name": "CIRCULATION",
-        "Selected Boring Name": "Vertical Circulation",
-        "Top Boring Name Suggestion": "Vertical Circulation",
-        "Top Match Score": 0.8210353255
-    },
-    {
-        "Original Room Name": "STAIRS",
-        "Selected Boring Name": "Mechanical",
-        "Top Boring Name Suggestion": "Mechanical",
-        "Top Match Score": 0.3583727777
-    },
-    {
-        "Original Room Name": "STAIRS",
-        "Selected Boring Name": "Mechanical",
-        "Top Boring Name Suggestion": "Mechanical",
-        "Top Match Score": 0.3583727777
-    },
-    {
-        "Original Room Name": "HANG OUT",
-        "Selected Boring Name": "Support",
-        "Top Boring Name Suggestion": "Support",
-        "Top Match Score": 0.2710611224
-    },
-    {
-        "Original Room Name": "ELEV",
-        "Selected Boring Name": "Electrical",
-        "Top Boring Name Suggestion": "Electrical",
-        "Top Match Score": 0.3670065403
-    },
-    {
-        "Original Room Name": "HANG OUT",
-        "Selected Boring Name": "Support",
-        "Top Boring Name Suggestion": "Support",
-        "Top Match Score": 0.2710611224
-    },
-    {
-        "Original Room Name": "HANG OUT",
-        "Selected Boring Name": "Support",
-        "Top Boring Name Suggestion": "Support",
-        "Top Match Score": 0.2710611224
-    },
-    {
-        "Original Room Name": "HANG OUT",
-        "Selected Boring Name": "Support",
-        "Top Boring Name Suggestion": "Support",
-        "Top Match Score": 0.2710611224
-    },
-    {
-        "Original Room Name": "ELEV",
-        "Selected Boring Name": "Electrical",
-        "Top Boring Name Suggestion": "Electrical",
-        "Top Match Score": 0.3670065403
-    },
-    {
-        "Original Room Name": "ELEV",
-        "Selected Boring Name": "Electrical",
-        "Top Boring Name Suggestion": "Electrical",
-        "Top Match Score": 0.3670065403
-    },
-    {
-        "Original Room Name": "MEP",
-        "Selected Boring Name": "Other",
-        "Top Boring Name Suggestion": "Other",
-        "Top Match Score": 0.3733812273
-    },
-    {
-        "Original Room Name": "RESTAURANT SUPPORT",
-        "Selected Boring Name": "Food Service",
-        "Top Boring Name Suggestion": "Food Service",
-        "Top Match Score": 0.6580818892
-    },
-    {
-        "Original Room Name": "CIRCULATION",
-        "Selected Boring Name": "Vertical Circulation",
-        "Top Boring Name Suggestion": "Vertical Circulation",
-        "Top Match Score": 0.8210353255
-    },
-    {
-        "Original Room Name": "STAIRS",
-        "Selected Boring Name": "Mechanical",
-        "Top Boring Name Suggestion": "Mechanical",
-        "Top Match Score": 0.3583727777
-    },
-    {
-        "Original Room Name": "ELEVATOR",
-        "Selected Boring Name": "Mechanical",
-        "Top Boring Name Suggestion": "Mechanical",
-        "Top Match Score": 0.4097509086
-    },
-    {
-        "Original Room Name": "T",
-        "Selected Boring Name": "Support",
-        "Top Boring Name Suggestion": "Support",
-        "Top Match Score": 0.3519544303
-    },
-    {
-        "Original Room Name": "CIRCULATION",
-        "Selected Boring Name": "Vertical Circulation",
-        "Top Boring Name Suggestion": "Vertical Circulation",
-        "Top Match Score": 0.8210353255
-    },
-    {
-        "Original Room Name": "SERVICE ELEV",
-        "Selected Boring Name": "Food Service",
-        "Top Boring Name Suggestion": "Food Service",
-        "Top Match Score": 0.3859655559
-    },
-    {
-        "Original Room Name": "T",
-        "Selected Boring Name": "Support",
-        "Top Boring Name Suggestion": "Support",
-        "Top Match Score": 0.3519544303
-    },
-    {
-        "Original Room Name": "IT",
-        "Selected Boring Name": "Electrical",
-        "Top Boring Name Suggestion": "Electrical - IT",
-        "Top Match Score": 0.3670812845
-    },
-    {
-        "Original Room Name": "SERVICE ELEV",
-        "Selected Boring Name": "Food Service",
-        "Top Boring Name Suggestion": "Food Service",
-        "Top Match Score": 0.3859655559
-    },
-    {
-        "Original Room Name": "SERVERY",
-        "Selected Boring Name": "Other",
-        "Top Boring Name Suggestion": "Other",
-        "Top Match Score": 0.3639150858
-    },
-    {
-        "Original Room Name": "STUDENT DINING",
-        "Selected Boring Name": "Main Dining",
-        "Top Boring Name Suggestion": "Main Dining",
-        "Top Match Score": 0.7164112926
-    },
-    {
-        "Original Room Name": "STAIRS",
-        "Selected Boring Name": "Mechanical",
-        "Top Boring Name Suggestion": "Mechanical",
-        "Top Match Score": 0.3583727777
-    },
-    {
-        "Original Room Name": "SECURITY",
-        "Selected Boring Name": "Electrical",
-        "Top Boring Name Suggestion": "Electrical - IT",
-        "Top Match Score": 0.3853564858
-    },
-    {
-        "Original Room Name": "SECURITY",
-        "Selected Boring Name": "Electrical",
-        "Top Boring Name Suggestion": "Electrical - IT",
-        "Top Match Score": 0.3853564858
-    },
-    {
-        "Original Room Name": "MEP",
-        "Selected Boring Name": "Other",
-        "Top Boring Name Suggestion": "Other",
-        "Top Match Score": 0.3733812273
-    },
-    {
-        "Original Room Name": "IT",
-        "Selected Boring Name": "Electrical",
-        "Top Boring Name Suggestion": "Electrical - IT",
-        "Top Match Score": 0.3670812845
-    },
-    {
-        "Original Room Name": "TOILET",
-        "Selected Boring Name": "Locker commons ",
-        "Top Boring Name Suggestion": "Locker commons ",
-        "Top Match Score": 0.3439919949
-    },
-    {
-        "Original Room Name": "ELEV",
-        "Selected Boring Name": "Electrical",
-        "Top Boring Name Suggestion": "Electrical",
-        "Top Match Score": 0.3670065403
-    },
-    {
-        "Original Room Name": "DINING",
-        "Selected Boring Name": "Main Dining",
-        "Top Boring Name Suggestion": "Main Dining",
-        "Top Match Score": 0.8629145026
-    },
-    {
-        "Original Room Name": "CIRCULATION",
-        "Selected Boring Name": "Vertical Circulation",
-        "Top Boring Name Suggestion": "Vertical Circulation",
-        "Top Match Score": 0.8210353255
-    },
-    {
-        "Original Room Name": "BLC CIRCULATION",
-        "Selected Boring Name": "Vertical Circulation",
-        "Top Boring Name Suggestion": "Vertical Circulation",
-        "Top Match Score": 0.5505830646
-    },
-    {
-        "Original Room Name": "CIRCULATION",
-        "Selected Boring Name": "Vertical Circulation",
-        "Top Boring Name Suggestion": "Vertical Circulation",
-        "Top Match Score": 0.8210353255
-    },
-    {
-        "Original Room Name": "CIRCULATION",
-        "Selected Boring Name": "Vertical Circulation",
-        "Top Boring Name Suggestion": "Vertical Circulation",
-        "Top Match Score": 0.8210353255
-    },
-    {
-        "Original Room Name": "TAKE OUT",
-        "Selected Boring Name": "Locker commons ",
-        "Top Boring Name Suggestion": "Locker commons ",
-        "Top Match Score": 0.2125486881
-    },
-    {
-        "Original Room Name": "HANG OUT",
-        "Selected Boring Name": "Support",
-        "Top Boring Name Suggestion": "Support",
-        "Top Match Score": 0.2710611224
-    },
-    {
-        "Original Room Name": "TOILET",
-        "Selected Boring Name": "Locker commons ",
-        "Top Boring Name Suggestion": "Locker commons ",
-        "Top Match Score": 0.3439919949
-    },
-    {
-        "Original Room Name": "STAIRS",
-        "Selected Boring Name": "Mechanical",
-        "Top Boring Name Suggestion": "Mechanical",
-        "Top Match Score": 0.3583727777
-    },
-    {
-        "Original Room Name": "CIRCULATION",
-        "Selected Boring Name": "Vertical Circulation",
-        "Top Boring Name Suggestion": "Vertical Circulation",
-        "Top Match Score": 0.8210353255
-    },
-    {
-        "Original Room Name": "STAIRS",
-        "Selected Boring Name": "Mechanical",
-        "Top Boring Name Suggestion": "Mechanical",
-        "Top Match Score": 0.3583727777
-    },
-    {
-        "Original Room Name": "ELEV",
-        "Selected Boring Name": "Electrical",
-        "Top Boring Name Suggestion": "Electrical",
-        "Top Match Score": 0.3670065403
-    },
-    {
-        "Original Room Name": "ELEV",
-        "Selected Boring Name": "Electrical",
-        "Top Boring Name Suggestion": "Electrical",
-        "Top Match Score": 0.3670065403
-    },
-    {
-        "Original Room Name": "STORAGE",
-        "Selected Boring Name": "Locker commons ",
-        "Top Boring Name Suggestion": "Locker commons ",
-        "Top Match Score": 0.3638240695
-    },
-    {
-        "Original Room Name": "CIRCULATION",
-        "Selected Boring Name": "Vertical Circulation",
-        "Top Boring Name Suggestion": "Vertical Circulation",
-        "Top Match Score": 0.8210353255
-    },
-    {
-        "Original Room Name": "BREAKOUT",
-        "Selected Boring Name": "Other",
-        "Top Boring Name Suggestion": "Other",
-        "Top Match Score": 0.3343579769
-    },
-    {
-        "Original Room Name": "MEP",
-        "Selected Boring Name": "Other",
-        "Top Boring Name Suggestion": "Other",
-        "Top Match Score": 0.3733812273
-    },
-    {
-        "Original Room Name": "RESTROOMS",
-        "Selected Boring Name": "Staff Areas",
-        "Top Boring Name Suggestion": "Staff Areas",
-        "Top Match Score": 0.4318459034
-    },
-    {
-        "Original Room Name": "MATERIALS",
-        "Selected Boring Name": "Mechanical",
-        "Top Boring Name Suggestion": "Mechanical",
-        "Top Match Score": 0.5604474545
-    },
-    {
-        "Original Room Name": "BREAKOUT",
-        "Selected Boring Name": "Other",
-        "Top Boring Name Suggestion": "Other",
-        "Top Match Score": 0.3343579769
-    },
-    {
-        "Original Room Name": "BREAKOUT",
-        "Selected Boring Name": "Other",
-        "Top Boring Name Suggestion": "Other",
-        "Top Match Score": 0.3343579769
-    },
-    {
-        "Original Room Name": "BREAKOUT",
-        "Selected Boring Name": "Other",
-        "Top Boring Name Suggestion": "Other",
-        "Top Match Score": 0.3343579769
-    },
-    {
-        "Original Room Name": "CONVENING",
-        "Selected Boring Name": "Staff & Support",
-        "Top Boring Name Suggestion": "Staff & Support",
-        "Top Match Score": 0.3004845977
-    },
-    {
-        "Original Room Name": "BREAKOUT",
-        "Selected Boring Name": "Other",
-        "Top Boring Name Suggestion": "Other",
-        "Top Match Score": 0.3343579769
-    },
-    {
-        "Original Room Name": "STAIRS",
-        "Selected Boring Name": "Mechanical",
-        "Top Boring Name Suggestion": "Mechanical",
-        "Top Match Score": 0.3583727777
-    },
-    {
-        "Original Room Name": "ELEC",
-        "Selected Boring Name": "Electrical",
-        "Top Boring Name Suggestion": "Electrical",
-        "Top Match Score": 0.3554433584
-    },
-    {
-        "Original Room Name": "STAGING/STORAGE",
-        "Selected Boring Name": "Staff Areas",
-        "Top Boring Name Suggestion": "Staff Areas",
-        "Top Match Score": 0.323105514
-    },
-    {
-        "Original Room Name": "BREAKOUT",
-        "Selected Boring Name": "Other",
-        "Top Boring Name Suggestion": "Other",
-        "Top Match Score": 0.3343579769
-    },
-    {
-        "Original Room Name": "ELEV",
-        "Selected Boring Name": "Electrical",
-        "Top Boring Name Suggestion": "Electrical",
-        "Top Match Score": 0.3670065403
-    },
-    {
-        "Original Room Name": "STUDIO",
-        "Selected Boring Name": "Gymnasium",
-        "Top Boring Name Suggestion": "Gymnasium",
-        "Top Match Score": 0.3806049526
-    },
-    {
-        "Original Room Name": "HANG OUT",
-        "Selected Boring Name": "Support",
-        "Top Boring Name Suggestion": "Support",
-        "Top Match Score": 0.2710611224
-    },
-    {
-        "Original Room Name": "QUIET",
-        "Selected Boring Name": "Support",
-        "Top Boring Name Suggestion": "Support",
-        "Top Match Score": 0.3868248761
-    },
-    {
-        "Original Room Name": "HANG OUT",
-        "Selected Boring Name": "Support",
-        "Top Boring Name Suggestion": "Support",
-        "Top Match Score": 0.2710611224
-    },
-    {
-        "Original Room Name": "ELECTRICAL",
-        "Selected Boring Name": "Electrical",
-        "Top Boring Name Suggestion": "Electrical",
-        "Top Match Score": 1.0000001192
-    },
-    {
-        "Original Room Name": "SUPPORT",
-        "Selected Boring Name": "Support",
-        "Top Boring Name Suggestion": "Support",
-        "Top Match Score": 1.0
-    },
-    {
-        "Original Room Name": "ELEV",
-        "Selected Boring Name": "Electrical",
-        "Top Boring Name Suggestion": "Electrical",
-        "Top Match Score": 0.3670065403
-    },
-    {
-        "Original Room Name": "STAIRS",
-        "Selected Boring Name": "Mechanical",
-        "Top Boring Name Suggestion": "Mechanical",
-        "Top Match Score": 0.3583727777
-    },
-    {
-        "Original Room Name": "HANG OUT",
-        "Selected Boring Name": "Support",
-        "Top Boring Name Suggestion": "Support",
-        "Top Match Score": 0.2710611224
-    },
-    {
-        "Original Room Name": "STAIRS",
-        "Selected Boring Name": "Mechanical",
-        "Top Boring Name Suggestion": "Mechanical",
-        "Top Match Score": 0.3583727777
-    },
-    {
-        "Original Room Name": "ELEV",
-        "Selected Boring Name": "Electrical",
-        "Top Boring Name Suggestion": "Electrical",
-        "Top Match Score": 0.3670065403
-    },
-    {
-        "Original Room Name": "COATS",
-        "Selected Boring Name": "Locker commons ",
-        "Top Boring Name Suggestion": "Locker commons ",
-        "Top Match Score": 0.3052344322
-    },
-    {
-        "Original Room Name": "HANG OUT",
-        "Selected Boring Name": "Support",
-        "Top Boring Name Suggestion": "Support",
-        "Top Match Score": 0.2710611224
-    },
-    {
-        "Original Room Name": "MEETING",
-        "Selected Boring Name": "Spectator Seating",
-        "Top Boring Name Suggestion": "Spectator Seating",
-        "Top Match Score": 0.3498291969
-    },
-    {
-        "Original Room Name": "OUTDOOR SPECIAL EVENTS",
-        "Selected Boring Name": "Astronomy Park",
-        "Top Boring Name Suggestion": "Astronomy Park",
-        "Top Match Score": 0.3933414817
-    },
-    {
-        "Original Room Name": "SUPPORT",
-        "Selected Boring Name": "Support",
-        "Top Boring Name Suggestion": "Support",
-        "Top Match Score": 1.0
-    },
-    {
-        "Original Room Name": "KITCHEN/LOUNGE",
-        "Selected Boring Name": "Main Dining",
-        "Top Boring Name Suggestion": "Main Dining",
-        "Top Match Score": 0.5595895052
-    },
-    {
-        "Original Room Name": "JAN",
-        "Selected Boring Name": "Observatory",
-        "Top Boring Name Suggestion": "Observatory",
-        "Top Match Score": 0.2449919134
-    },
-    {
-        "Original Room Name": "SUPPORT",
-        "Selected Boring Name": "Support",
-        "Top Boring Name Suggestion": "Support",
-        "Top Match Score": 1.0
-    },
-    {
-        "Original Room Name": "STAFF",
-        "Selected Boring Name": "Staff & Support",
-        "Top Boring Name Suggestion": "Staff & Support",
-        "Top Match Score": 0.8296047449
-    },
-    {
-        "Original Room Name": "SHARED",
-        "Selected Boring Name": "Support",
-        "Top Boring Name Suggestion": "Support",
-        "Top Match Score": 0.343824327
-    },
-    {
-        "Original Room Name": "ELECTRICAL",
-        "Selected Boring Name": "Electrical",
-        "Top Boring Name Suggestion": "Electrical",
-        "Top Match Score": 1.0000001192
-    },
-    {
-        "Original Room Name": "RESTROOMS",
-        "Selected Boring Name": "Staff Areas",
-        "Top Boring Name Suggestion": "Staff Areas",
-        "Top Match Score": 0.4318459034
-    },
-    {
-        "Original Room Name": "DIREC.",
-        "Selected Boring Name": "Staff Areas",
-        "Top Boring Name Suggestion": "Staff Areas",
-        "Top Match Score": 0.2487123609
-    },
-    {
-        "Original Room Name": "STAFF",
-        "Selected Boring Name": "Staff & Support",
-        "Top Boring Name Suggestion": "Staff & Support",
-        "Top Match Score": 0.8296047449
-    },
-    {
-        "Original Room Name": "SHARED",
-        "Selected Boring Name": "Support",
-        "Top Boring Name Suggestion": "Support",
-        "Top Match Score": 0.343824327
-    },
-    {
-        "Original Room Name": "HANG OUT",
-        "Selected Boring Name": "Support",
-        "Top Boring Name Suggestion": "Support",
-        "Top Match Score": 0.2710611224
-    },
-    {
-        "Original Room Name": "MEP",
-        "Selected Boring Name": "Other",
-        "Top Boring Name Suggestion": "Other",
-        "Top Match Score": 0.3733812273
-    },
-    {
-        "Original Room Name": "MEP",
-        "Selected Boring Name": "Other",
-        "Top Boring Name Suggestion": "Other",
-        "Top Match Score": 0.3733812273
-    },
-    {
-        "Original Room Name": "SHARED",
-        "Selected Boring Name": "Support",
-        "Top Boring Name Suggestion": "Support",
-        "Top Match Score": 0.343824327
-    },
-    {
-        "Original Room Name": "STAIRS",
-        "Selected Boring Name": "Mechanical",
-        "Top Boring Name Suggestion": "Mechanical",
-        "Top Match Score": 0.3583727777
-    },
-    {
-        "Original Room Name": "STAFF",
-        "Selected Boring Name": "Staff & Support",
-        "Top Boring Name Suggestion": "Staff & Support",
-        "Top Match Score": 0.8296047449
-    },
-    {
-        "Original Room Name": "FOCUS",
-        "Selected Boring Name": "Support Space",
-        "Top Boring Name Suggestion": "Support Space",
-        "Top Match Score": 0.3093649745
-    },
-    {
-        "Original Room Name": "FOCUS",
-        "Selected Boring Name": "Support Space",
-        "Top Boring Name Suggestion": "Support Space",
-        "Top Match Score": 0.3093649745
-    },
-    {
-        "Original Room Name": "STORAGE",
-        "Selected Boring Name": "Locker commons ",
-        "Top Boring Name Suggestion": "Locker commons ",
-        "Top Match Score": 0.3638240695
-    },
-    {
-        "Original Room Name": "CIRCULATION",
-        "Selected Boring Name": "Vertical Circulation",
-        "Top Boring Name Suggestion": "Vertical Circulation",
-        "Top Match Score": 0.8210353255
-    },
-    {
-        "Original Room Name": "STAIRS",
-        "Selected Boring Name": "Mechanical",
-        "Top Boring Name Suggestion": "Mechanical",
-        "Top Match Score": 0.3583727777
-    },
-    {
-        "Original Room Name": "STAIRS",
-        "Selected Boring Name": "Mechanical",
-        "Top Boring Name Suggestion": "Mechanical",
-        "Top Match Score": 0.3583727777
-    },
-    {
-        "Original Room Name": "HANG OUT",
-        "Selected Boring Name": "Support",
-        "Top Boring Name Suggestion": "Support",
-        "Top Match Score": 0.2710611224
-    },
-    {
-        "Original Room Name": "ELEV",
-        "Selected Boring Name": "Electrical",
-        "Top Boring Name Suggestion": "Electrical",
-        "Top Match Score": 0.3670065403
-    },
-    {
-        "Original Room Name": "HANG OUT",
-        "Selected Boring Name": "Support",
-        "Top Boring Name Suggestion": "Support",
-        "Top Match Score": 0.2710611224
-    },
-    {
-        "Original Room Name": "HANG OUT",
-        "Selected Boring Name": "Support",
-        "Top Boring Name Suggestion": "Support",
-        "Top Match Score": 0.2710611224
-    },
-    {
-        "Original Room Name": "HANG OUT",
-        "Selected Boring Name": "Support",
-        "Top Boring Name Suggestion": "Support",
-        "Top Match Score": 0.2710611224
-    },
-    {
-        "Original Room Name": "ELEV",
-        "Selected Boring Name": "Electrical",
-        "Top Boring Name Suggestion": "Electrical",
-        "Top Match Score": 0.3670065403
-    },
-    {
-        "Original Room Name": "ELEV",
-        "Selected Boring Name": "Electrical",
-        "Top Boring Name Suggestion": "Electrical",
-        "Top Match Score": 0.3670065403
-    },
-    {
-        "Original Room Name": "MEP",
-        "Selected Boring Name": "Other",
-        "Top Boring Name Suggestion": "Other",
-        "Top Match Score": 0.3733812273
-    },
-    {
-        "Original Room Name": "RESTAURANT SUPPORT",
-        "Selected Boring Name": "Food Service",
-        "Top Boring Name Suggestion": "Food Service",
-        "Top Match Score": 0.6580818892
-    },
-    {
-        "Original Room Name": "CIRCULATION",
-        "Selected Boring Name": "Vertical Circulation",
-        "Top Boring Name Suggestion": "Vertical Circulation",
-        "Top Match Score": 0.8210353255
-    },
-    {
-        "Original Room Name": "STAIRS",
-        "Selected Boring Name": "Mechanical",
-        "Top Boring Name Suggestion": "Mechanical",
-        "Top Match Score": 0.3583727777
-    },
-    {
-        "Original Room Name": "ELEVATOR",
-        "Selected Boring Name": "Mechanical",
-        "Top Boring Name Suggestion": "Mechanical",
-        "Top Match Score": 0.4097509086
-    },
-    {
-        "Original Room Name": "T",
-        "Selected Boring Name": "Support",
-        "Top Boring Name Suggestion": "Support",
-        "Top Match Score": 0.3519544303
-    },
-    {
-        "Original Room Name": "CIRCULATION",
-        "Selected Boring Name": "Vertical Circulation",
-        "Top Boring Name Suggestion": "Vertical Circulation",
-        "Top Match Score": 0.8210353255
-    },
-    {
-        "Original Room Name": "SERVICE ELEV",
-        "Selected Boring Name": "Food Service",
-        "Top Boring Name Suggestion": "Food Service",
-        "Top Match Score": 0.3859655559
-    },
-    {
-        "Original Room Name": "T",
-        "Selected Boring Name": "Support",
-        "Top Boring Name Suggestion": "Support",
-        "Top Match Score": 0.3519544303
-    },
-    {
-        "Original Room Name": "IT",
-        "Selected Boring Name": "Electrical",
-        "Top Boring Name Suggestion": "Electrical - IT",
-        "Top Match Score": 0.3670812845
-    },
-    {
-        "Original Room Name": "SERVICE ELEV",
-        "Selected Boring Name": "Food Service",
-        "Top Boring Name Suggestion": "Food Service",
-        "Top Match Score": 0.3859655559
-    },
-    {
-        "Original Room Name": "SERVERY",
-        "Selected Boring Name": "Other",
-        "Top Boring Name Suggestion": "Other",
-        "Top Match Score": 0.3639150858
-    },
-    {
-        "Original Room Name": "STUDENT DINING",
-        "Selected Boring Name": "Main Dining",
-        "Top Boring Name Suggestion": "Main Dining",
-        "Top Match Score": 0.7164112926
-    },
-    {
-        "Original Room Name": "STAIRS",
-        "Selected Boring Name": "Mechanical",
-        "Top Boring Name Suggestion": "Mechanical",
-        "Top Match Score": 0.3583727777
-    },
-    {
-        "Original Room Name": "SECURITY",
-        "Selected Boring Name": "Electrical",
-        "Top Boring Name Suggestion": "Electrical - IT",
-        "Top Match Score": 0.3853564858
-    },
-    {
-        "Original Room Name": "SECURITY",
-        "Selected Boring Name": "Electrical",
-        "Top Boring Name Suggestion": "Electrical - IT",
-        "Top Match Score": 0.3853564858
-    },
-    {
-        "Original Room Name": "MEP",
-        "Selected Boring Name": "Other",
-        "Top Boring Name Suggestion": "Other",
-        "Top Match Score": 0.3733812273
-    },
-    {
-        "Original Room Name": "IT",
-        "Selected Boring Name": "Electrical",
-        "Top Boring Name Suggestion": "Electrical - IT",
-        "Top Match Score": 0.3670812845
-    },
-    {
-        "Original Room Name": "TOILET",
-        "Selected Boring Name": "Locker commons ",
-        "Top Boring Name Suggestion": "Locker commons ",
-        "Top Match Score": 0.3439919949
-    },
-    {
-        "Original Room Name": "ELEV",
-        "Selected Boring Name": "Electrical",
-        "Top Boring Name Suggestion": "Electrical",
-        "Top Match Score": 0.3670065403
-    },
-    {
-        "Original Room Name": "DINING",
-        "Selected Boring Name": "Main Dining",
-        "Top Boring Name Suggestion": "Main Dining",
-        "Top Match Score": 0.8629145026
-    },
-    {
-        "Original Room Name": "CIRCULATION",
-        "Selected Boring Name": "Vertical Circulation",
-        "Top Boring Name Suggestion": "Vertical Circulation",
-        "Top Match Score": 0.8210353255
-    },
-    {
-        "Original Room Name": "BLC CIRCULATION",
-        "Selected Boring Name": "Vertical Circulation",
-        "Top Boring Name Suggestion": "Vertical Circulation",
-        "Top Match Score": 0.5505830646
-    },
-    {
-        "Original Room Name": "CIRCULATION",
-        "Selected Boring Name": "Vertical Circulation",
-        "Top Boring Name Suggestion": "Vertical Circulation",
-        "Top Match Score": 0.8210353255
-    },
-    {
-        "Original Room Name": "CIRCULATION",
-        "Selected Boring Name": "Vertical Circulation",
-        "Top Boring Name Suggestion": "Vertical Circulation",
-        "Top Match Score": 0.8210353255
-    },
-    {
-        "Original Room Name": "TAKE OUT",
-        "Selected Boring Name": "Locker commons ",
-        "Top Boring Name Suggestion": "Locker commons ",
-        "Top Match Score": 0.2125486881
-    },
-    {
-        "Original Room Name": "HANG OUT",
-        "Selected Boring Name": "Support",
-        "Top Boring Name Suggestion": "Support",
-        "Top Match Score": 0.2710611224
-    },
-    {
-        "Original Room Name": "TOILET",
-        "Selected Boring Name": "Locker commons ",
-        "Top Boring Name Suggestion": "Locker commons ",
-        "Top Match Score": 0.3439919949
-    },
-    {
-        "Original Room Name": "STAIRS",
-        "Selected Boring Name": "Mechanical",
-        "Top Boring Name Suggestion": "Mechanical",
-        "Top Match Score": 0.3583727777
-    },
-    {
-        "Original Room Name": "CIRCULATION",
-        "Selected Boring Name": "Vertical Circulation",
-        "Top Boring Name Suggestion": "Vertical Circulation",
-        "Top Match Score": 0.8210353255
-    },
-    {
-        "Original Room Name": "STAIRS",
-        "Selected Boring Name": "Mechanical",
-        "Top Boring Name Suggestion": "Mechanical",
-        "Top Match Score": 0.3583727777
-    },
-    {
-        "Original Room Name": "ELEV",
-        "Selected Boring Name": "Electrical",
-        "Top Boring Name Suggestion": "Electrical",
-        "Top Match Score": 0.3670065403
-    },
-    {
-        "Original Room Name": "ELEV",
-        "Selected Boring Name": "Electrical",
-        "Top Boring Name Suggestion": "Electrical",
-        "Top Match Score": 0.3670065403
-    },
-    {
-        "Original Room Name": "STORAGE",
-        "Selected Boring Name": "Locker commons ",
-        "Top Boring Name Suggestion": "Locker commons ",
-        "Top Match Score": 0.3638240695
-    },
-    {
-        "Original Room Name": "CIRCULATION",
-        "Selected Boring Name": "Vertical Circulation",
-        "Top Boring Name Suggestion": "Vertical Circulation",
-        "Top Match Score": 0.8210353255
-    },
-    {
-        "Original Room Name": "BREAKOUT",
-        "Selected Boring Name": "Other",
-        "Top Boring Name Suggestion": "Other",
-        "Top Match Score": 0.3343579769
-    },
-    {
-        "Original Room Name": "MEP",
-        "Selected Boring Name": "Other",
-        "Top Boring Name Suggestion": "Other",
-        "Top Match Score": 0.3733812273
-    },
-    {
-        "Original Room Name": "RESTROOMS",
-        "Selected Boring Name": "Staff Areas",
-        "Top Boring Name Suggestion": "Staff Areas",
-        "Top Match Score": 0.4318459034
-    },
-    {
-        "Original Room Name": "MATERIALS",
-        "Selected Boring Name": "Mechanical",
-        "Top Boring Name Suggestion": "Mechanical",
-        "Top Match Score": 0.5604474545
-    },
-    {
-        "Original Room Name": "BREAKOUT",
-        "Selected Boring Name": "Other",
-        "Top Boring Name Suggestion": "Other",
-        "Top Match Score": 0.3343579769
-    },
-    {
-        "Original Room Name": "BREAKOUT",
-        "Selected Boring Name": "Other",
-        "Top Boring Name Suggestion": "Other",
-        "Top Match Score": 0.3343579769
-    },
-    {
-        "Original Room Name": "BREAKOUT",
-        "Selected Boring Name": "Other",
-        "Top Boring Name Suggestion": "Other",
-        "Top Match Score": 0.3343579769
-    },
-    {
-        "Original Room Name": "CONVENING",
-        "Selected Boring Name": "Staff & Support",
-        "Top Boring Name Suggestion": "Staff & Support",
-        "Top Match Score": 0.3004845977
-    },
-    {
-        "Original Room Name": "BREAKOUT",
-        "Selected Boring Name": "Other",
-        "Top Boring Name Suggestion": "Other",
-        "Top Match Score": 0.3343579769
-    },
-    {
-        "Original Room Name": "STAIRS",
-        "Selected Boring Name": "Mechanical",
-        "Top Boring Name Suggestion": "Mechanical",
-        "Top Match Score": 0.3583727777
-    },
-    {
-        "Original Room Name": "ELEC",
-        "Selected Boring Name": "Electrical",
-        "Top Boring Name Suggestion": "Electrical",
-        "Top Match Score": 0.3554433584
-    },
-    {
-        "Original Room Name": "STAGING/STORAGE",
-        "Selected Boring Name": "Staff Areas",
-        "Top Boring Name Suggestion": "Staff Areas",
-        "Top Match Score": 0.323105514
-    },
-    {
-        "Original Room Name": "BREAKOUT",
-        "Selected Boring Name": "Other",
-        "Top Boring Name Suggestion": "Other",
-        "Top Match Score": 0.3343579769
-    },
-    {
-        "Original Room Name": "ELEV",
-        "Selected Boring Name": "Electrical",
-        "Top Boring Name Suggestion": "Electrical",
-        "Top Match Score": 0.3670065403
-    },
-    {
-        "Original Room Name": "STUDIO",
-        "Selected Boring Name": "Gymnasium",
-        "Top Boring Name Suggestion": "Gymnasium",
-        "Top Match Score": 0.3806049526
-    },
-    {
-        "Original Room Name": "HANG OUT",
-        "Selected Boring Name": "Support",
-        "Top Boring Name Suggestion": "Support",
-        "Top Match Score": 0.2710611224
-    },
-    {
-        "Original Room Name": "QUIET",
-        "Selected Boring Name": "Support",
-        "Top Boring Name Suggestion": "Support",
-        "Top Match Score": 0.3868248761
-    },
-    {
-        "Original Room Name": "HANG OUT",
-        "Selected Boring Name": "Support",
-        "Top Boring Name Suggestion": "Support",
-        "Top Match Score": 0.2710611224
-    },
-    {
-        "Original Room Name": "ELECTRICAL",
-        "Selected Boring Name": "Electrical",
-        "Top Boring Name Suggestion": "Electrical",
-        "Top Match Score": 1.0000001192
-    },
-    {
-        "Original Room Name": "SUPPORT",
-        "Selected Boring Name": "Support",
-        "Top Boring Name Suggestion": "Support",
-        "Top Match Score": 1.0
-    },
-    {
-        "Original Room Name": "ELEV",
-        "Selected Boring Name": "Electrical",
-        "Top Boring Name Suggestion": "Electrical",
-        "Top Match Score": 0.3670065403
-    },
-    {
-        "Original Room Name": "STAIRS",
-        "Selected Boring Name": "Mechanical",
-        "Top Boring Name Suggestion": "Mechanical",
-        "Top Match Score": 0.3583727777
-    },
-    {
-        "Original Room Name": "HANG OUT",
-        "Selected Boring Name": "Support",
-        "Top Boring Name Suggestion": "Support",
-        "Top Match Score": 0.2710611224
-    },
-    {
-        "Original Room Name": "STAIRS",
-        "Selected Boring Name": "Mechanical",
-        "Top Boring Name Suggestion": "Mechanical",
-        "Top Match Score": 0.3583727777
-    },
-    {
-        "Original Room Name": "ELEV",
-        "Selected Boring Name": "Electrical",
-        "Top Boring Name Suggestion": "Electrical",
-        "Top Match Score": 0.3670065403
-    },
-    {
-        "Original Room Name": "COATS",
-        "Selected Boring Name": "Locker commons ",
-        "Top Boring Name Suggestion": "Locker commons ",
-        "Top Match Score": 0.3052344322
-    },
-    {
-        "Original Room Name": "HANG OUT",
-        "Selected Boring Name": "Support",
-        "Top Boring Name Suggestion": "Support",
-        "Top Match Score": 0.2710611224
-    },
-    {
-        "Original Room Name": "MEETING",
-        "Selected Boring Name": "Spectator Seating",
-        "Top Boring Name Suggestion": "Spectator Seating",
-        "Top Match Score": 0.3498291969
-    },
-    {
-        "Original Room Name": "OUTDOOR SPECIAL EVENTS",
-        "Selected Boring Name": "Astronomy Park",
-        "Top Boring Name Suggestion": "Astronomy Park",
-        "Top Match Score": 0.3933414817
-    },
-    {
-        "Original Room Name": "SUPPORT",
-        "Selected Boring Name": "Support",
-        "Top Boring Name Suggestion": "Support",
-        "Top Match Score": 1.0
-    },
-    {
-        "Original Room Name": "KITCHEN/LOUNGE",
-        "Selected Boring Name": "Main Dining",
-        "Top Boring Name Suggestion": "Main Dining",
-        "Top Match Score": 0.5595895052
-    },
-    {
-        "Original Room Name": "JAN",
-        "Selected Boring Name": "Observatory",
-        "Top Boring Name Suggestion": "Observatory",
-        "Top Match Score": 0.2449919134
-    },
-    {
-        "Original Room Name": "SUPPORT",
-        "Selected Boring Name": "Support",
-        "Top Boring Name Suggestion": "Support",
-        "Top Match Score": 1.0
-    },
-    {
-        "Original Room Name": "STAFF",
-        "Selected Boring Name": "Staff & Support",
-        "Top Boring Name Suggestion": "Staff & Support",
-        "Top Match Score": 0.8296047449
-    },
-    {
-        "Original Room Name": "SHARED",
-        "Selected Boring Name": "Support",
-        "Top Boring Name Suggestion": "Support",
-        "Top Match Score": 0.343824327
-    },
-    {
-        "Original Room Name": "ELECTRICAL",
-        "Selected Boring Name": "Electrical",
-        "Top Boring Name Suggestion": "Electrical",
-        "Top Match Score": 1.0000001192
-    },
-    {
-        "Original Room Name": "RESTROOMS",
-        "Selected Boring Name": "Staff Areas",
-        "Top Boring Name Suggestion": "Staff Areas",
-        "Top Match Score": 0.4318459034
-    },
-    {
-        "Original Room Name": "DIREC.",
-        "Selected Boring Name": "Staff Areas",
-        "Top Boring Name Suggestion": "Staff Areas",
-        "Top Match Score": 0.2487123609
-    },
-    {
-        "Original Room Name": "STAFF",
-        "Selected Boring Name": "Staff & Support",
-        "Top Boring Name Suggestion": "Staff & Support",
-        "Top Match Score": 0.8296047449
-    },
-    {
-        "Original Room Name": "SHARED",
-        "Selected Boring Name": "Support",
-        "Top Boring Name Suggestion": "Support",
-        "Top Match Score": 0.343824327
-    },
-    {
-        "Original Room Name": "HANG OUT",
-        "Selected Boring Name": "Support",
-        "Top Boring Name Suggestion": "Support",
-        "Top Match Score": 0.2710611224
-    },
-    {
-        "Original Room Name": "MEP",
-        "Selected Boring Name": "Other",
-        "Top Boring Name Suggestion": "Other",
-        "Top Match Score": 0.3733812273
-    },
-    {
-        "Original Room Name": "MEP",
-        "Selected Boring Name": "Other",
-        "Top Boring Name Suggestion": "Other",
-        "Top Match Score": 0.3733812273
-    },
-    {
-        "Original Room Name": "SHARED",
-        "Selected Boring Name": "Support",
-        "Top Boring Name Suggestion": "Support",
-        "Top Match Score": 0.343824327
-    },
-    {
-        "Original Room Name": "STAIRS",
-        "Selected Boring Name": "Mechanical",
-        "Top Boring Name Suggestion": "Mechanical",
-        "Top Match Score": 0.3583727777
-    },
-    {
-        "Original Room Name": "STAFF",
-        "Selected Boring Name": "Staff & Support",
-        "Top Boring Name Suggestion": "Staff & Support",
-        "Top Match Score": 0.8296047449
-    },
-    {
-        "Original Room Name": "FOCUS",
-        "Selected Boring Name": "Support Space",
-        "Top Boring Name Suggestion": "Support Space",
-        "Top Match Score": 0.3093649745
-    },
-    {
-        "Original Room Name": "FOCUS",
-        "Selected Boring Name": "Support Space",
-        "Top Boring Name Suggestion": "Support Space",
-        "Top Match Score": 0.3093649745
-    },
-    {
-        "Original Room Name": "STORAGE",
-        "Selected Boring Name": "Locker commons ",
-        "Top Boring Name Suggestion": "Locker commons ",
-        "Top Match Score": 0.3638240695
-    },
-    {
-        "Original Room Name": "CIRCULATION",
-        "Selected Boring Name": "Vertical Circulation",
-        "Top Boring Name Suggestion": "Vertical Circulation",
-        "Top Match Score": 0.8210353255
-    },
-    {
-        "Original Room Name": "STAIRS",
-        "Selected Boring Name": "Mechanical",
-        "Top Boring Name Suggestion": "Mechanical",
-        "Top Match Score": 0.3583727777
-    },
-    {
-        "Original Room Name": "STAIRS",
-        "Selected Boring Name": "Mechanical",
-        "Top Boring Name Suggestion": "Mechanical",
-        "Top Match Score": 0.3583727777
-    },
-    {
-        "Original Room Name": "HANG OUT",
-        "Selected Boring Name": "Support",
-        "Top Boring Name Suggestion": "Support",
-        "Top Match Score": 0.2710611224
-    },
-    {
-        "Original Room Name": "ELEV",
-        "Selected Boring Name": "Electrical",
-        "Top Boring Name Suggestion": "Electrical",
-        "Top Match Score": 0.3670065403
-    },
-    {
-        "Original Room Name": "HANG OUT",
-        "Selected Boring Name": "Support",
-        "Top Boring Name Suggestion": "Support",
-        "Top Match Score": 0.2710611224
-    },
-    {
-        "Original Room Name": "HANG OUT",
-        "Selected Boring Name": "Support",
-        "Top Boring Name Suggestion": "Support",
-        "Top Match Score": 0.2710611224
-    },
-    {
-        "Original Room Name": "HANG OUT",
-        "Selected Boring Name": "Support",
-        "Top Boring Name Suggestion": "Support",
-        "Top Match Score": 0.2710611224
-    },
-    {
-        "Original Room Name": "ELEV",
-        "Selected Boring Name": "Electrical",
-        "Top Boring Name Suggestion": "Electrical",
-        "Top Match Score": 0.3670065403
-    },
-    {
-        "Original Room Name": "ELEV",
-        "Selected Boring Name": "Electrical",
-        "Top Boring Name Suggestion": "Electrical",
-        "Top Match Score": 0.3670065403
-    },
-    {
-        "Original Room Name": "MEP",
-        "Selected Boring Name": "Other",
-        "Top Boring Name Suggestion": "Other",
-        "Top Match Score": 0.3733812273
-    },
-    {
-        "Original Room Name": "RESTAURANT SUPPORT",
-        "Selected Boring Name": "Food Service",
-        "Top Boring Name Suggestion": "Food Service",
-        "Top Match Score": 0.6580818892
-    },
-    {
-        "Original Room Name": "CIRCULATION",
-        "Selected Boring Name": "Vertical Circulation",
-        "Top Boring Name Suggestion": "Vertical Circulation",
-        "Top Match Score": 0.8210353255
-    },
-    {
-        "Original Room Name": "STAIRS",
-        "Selected Boring Name": "Mechanical",
-        "Top Boring Name Suggestion": "Mechanical",
-        "Top Match Score": 0.3583727777
-    },
-    {
-        "Original Room Name": "ELEVATOR",
-        "Selected Boring Name": "Mechanical",
-        "Top Boring Name Suggestion": "Mechanical",
-        "Top Match Score": 0.4097509086
-    },
-    {
-        "Original Room Name": "T",
-        "Selected Boring Name": "Support",
-        "Top Boring Name Suggestion": "Support",
-        "Top Match Score": 0.3519544303
-    },
-    {
-        "Original Room Name": "CIRCULATION",
-        "Selected Boring Name": "Vertical Circulation",
-        "Top Boring Name Suggestion": "Vertical Circulation",
-        "Top Match Score": 0.8210353255
-    },
-    {
-        "Original Room Name": "SERVICE ELEV",
-        "Selected Boring Name": "Food Service",
-        "Top Boring Name Suggestion": "Food Service",
-        "Top Match Score": 0.3859655559
-    },
-    {
-        "Original Room Name": "T",
-        "Selected Boring Name": "Support",
-        "Top Boring Name Suggestion": "Support",
-        "Top Match Score": 0.3519544303
-    },
-    {
-        "Original Room Name": "IT",
-        "Selected Boring Name": "Electrical",
-        "Top Boring Name Suggestion": "Electrical - IT",
-        "Top Match Score": 0.3670812845
-    },
-    {
-        "Original Room Name": "SERVICE ELEV",
-        "Selected Boring Name": "Food Service",
-        "Top Boring Name Suggestion": "Food Service",
-        "Top Match Score": 0.3859655559
-    },
-    {
-        "Original Room Name": "SERVERY",
-        "Selected Boring Name": "Other",
-        "Top Boring Name Suggestion": "Other",
-        "Top Match Score": 0.3639150858
-    },
-    {
-        "Original Room Name": "STUDENT DINING",
-        "Selected Boring Name": "Main Dining",
-        "Top Boring Name Suggestion": "Main Dining",
-        "Top Match Score": 0.7164112926
-    },
-    {
-        "Original Room Name": "STAIRS",
-        "Selected Boring Name": "Mechanical",
-        "Top Boring Name Suggestion": "Mechanical",
-        "Top Match Score": 0.3583727777
-    },
-    {
-        "Original Room Name": "SECURITY",
-        "Selected Boring Name": "Electrical",
-        "Top Boring Name Suggestion": "Electrical - IT",
-        "Top Match Score": 0.3853564858
-    },
-    {
-        "Original Room Name": "SECURITY",
-        "Selected Boring Name": "Electrical",
-        "Top Boring Name Suggestion": "Electrical - IT",
-        "Top Match Score": 0.3853564858
-    },
-    {
-        "Original Room Name": "MEP",
-        "Selected Boring Name": "Other",
-        "Top Boring Name Suggestion": "Other",
-        "Top Match Score": 0.3733812273
-    },
-    {
-        "Original Room Name": "IT",
-        "Selected Boring Name": "Electrical",
-        "Top Boring Name Suggestion": "Electrical - IT",
-        "Top Match Score": 0.3670812845
-    },
-    {
-        "Original Room Name": "TOILET",
-        "Selected Boring Name": "Locker commons ",
-        "Top Boring Name Suggestion": "Locker commons ",
-        "Top Match Score": 0.3439919949
-    },
-    {
-        "Original Room Name": "ELEV",
-        "Selected Boring Name": "Electrical",
-        "Top Boring Name Suggestion": "Electrical",
-        "Top Match Score": 0.3670065403
-    },
-    {
-        "Original Room Name": "DINING",
-        "Selected Boring Name": "Main Dining",
-        "Top Boring Name Suggestion": "Main Dining",
-        "Top Match Score": 0.8629145026
-    },
-    {
-        "Original Room Name": "CIRCULATION",
-        "Selected Boring Name": "Vertical Circulation",
-        "Top Boring Name Suggestion": "Vertical Circulation",
-        "Top Match Score": 0.8210353255
-    },
-    {
-        "Original Room Name": "BLC CIRCULATION",
-        "Selected Boring Name": "Vertical Circulation",
-        "Top Boring Name Suggestion": "Vertical Circulation",
-        "Top Match Score": 0.5505830646
-    },
-    {
-        "Original Room Name": "CIRCULATION",
-        "Selected Boring Name": "Vertical Circulation",
-        "Top Boring Name Suggestion": "Vertical Circulation",
-        "Top Match Score": 0.8210353255
-    },
-    {
-        "Original Room Name": "CIRCULATION",
-        "Selected Boring Name": "Vertical Circulation",
-        "Top Boring Name Suggestion": "Vertical Circulation",
-        "Top Match Score": 0.8210353255
-    },
-    {
-        "Original Room Name": "TAKE OUT",
-        "Selected Boring Name": "Locker commons ",
-        "Top Boring Name Suggestion": "Locker commons ",
-        "Top Match Score": 0.2125486881
-    },
-    {
-        "Original Room Name": "HANG OUT",
-        "Selected Boring Name": "Support",
-        "Top Boring Name Suggestion": "Support",
-        "Top Match Score": 0.2710611224
-    },
-    {
-        "Original Room Name": "TOILET",
-        "Selected Boring Name": "Locker commons ",
-        "Top Boring Name Suggestion": "Locker commons ",
-        "Top Match Score": 0.3439919949
-    },
-    {
-        "Original Room Name": "STAIRS",
-        "Selected Boring Name": "Mechanical",
-        "Top Boring Name Suggestion": "Mechanical",
-        "Top Match Score": 0.3583727777
-    },
-    {
-        "Original Room Name": "CIRCULATION",
-        "Selected Boring Name": "Vertical Circulation",
-        "Top Boring Name Suggestion": "Vertical Circulation",
-        "Top Match Score": 0.8210353255
-    },
-    {
-        "Original Room Name": "STAIRS",
-        "Selected Boring Name": "Mechanical",
-        "Top Boring Name Suggestion": "Mechanical",
-        "Top Match Score": 0.3583727777
-    },
-    {
-        "Original Room Name": "ELEV",
-        "Selected Boring Name": "Electrical",
-        "Top Boring Name Suggestion": "Electrical",
-        "Top Match Score": 0.3670065403
-    },
-    {
-        "Original Room Name": "ELEV",
-        "Selected Boring Name": "Electrical",
-        "Top Boring Name Suggestion": "Electrical",
-        "Top Match Score": 0.3670065403
-    },
-    {
-        "Original Room Name": "STORAGE",
-        "Selected Boring Name": "Locker commons ",
-        "Top Boring Name Suggestion": "Locker commons ",
-        "Top Match Score": 0.3638240695
-    },
-    {
-        "Original Room Name": "CIRCULATION",
-        "Selected Boring Name": "Vertical Circulation",
-        "Top Boring Name Suggestion": "Vertical Circulation",
-        "Top Match Score": 0.8210353255
-    },
-    {
-        "Original Room Name": "BREAKOUT",
-        "Selected Boring Name": "Other",
-        "Top Boring Name Suggestion": "Other",
-        "Top Match Score": 0.3343579769
-    },
-    {
-        "Original Room Name": "MEP",
-        "Selected Boring Name": "Other",
-        "Top Boring Name Suggestion": "Other",
-        "Top Match Score": 0.3733812273
-    },
-    {
-        "Original Room Name": "RESTROOMS",
-        "Selected Boring Name": "Staff Areas",
-        "Top Boring Name Suggestion": "Staff Areas",
-        "Top Match Score": 0.4318459034
-    },
-    {
-        "Original Room Name": "MATERIALS",
-        "Selected Boring Name": "Mechanical",
-        "Top Boring Name Suggestion": "Mechanical",
-        "Top Match Score": 0.5604474545
-    },
-    {
-        "Original Room Name": "BREAKOUT",
-        "Selected Boring Name": "Other",
-        "Top Boring Name Suggestion": "Other",
-        "Top Match Score": 0.3343579769
-    },
-    {
-        "Original Room Name": "BREAKOUT",
-        "Selected Boring Name": "Other",
-        "Top Boring Name Suggestion": "Other",
-        "Top Match Score": 0.3343579769
-    },
-    {
-        "Original Room Name": "BREAKOUT",
-        "Selected Boring Name": "Other",
-        "Top Boring Name Suggestion": "Other",
-        "Top Match Score": 0.3343579769
-    },
-    {
-        "Original Room Name": "CONVENING",
-        "Selected Boring Name": "Staff & Support",
-        "Top Boring Name Suggestion": "Staff & Support",
-        "Top Match Score": 0.3004845977
-    },
-    {
-        "Original Room Name": "BREAKOUT",
-        "Selected Boring Name": "Other",
-        "Top Boring Name Suggestion": "Other",
-        "Top Match Score": 0.3343579769
-    },
-    {
-        "Original Room Name": "STAIRS",
-        "Selected Boring Name": "Mechanical",
-        "Top Boring Name Suggestion": "Mechanical",
-        "Top Match Score": 0.3583727777
-    },
-    {
-        "Original Room Name": "ELEC",
-        "Selected Boring Name": "Electrical",
-        "Top Boring Name Suggestion": "Electrical",
-        "Top Match Score": 0.3554433584
-    },
-    {
-        "Original Room Name": "STAGING/STORAGE",
-        "Selected Boring Name": "Staff Areas",
-        "Top Boring Name Suggestion": "Staff Areas",
-        "Top Match Score": 0.323105514
-    },
-    {
-        "Original Room Name": "BREAKOUT",
-        "Selected Boring Name": "Other",
-        "Top Boring Name Suggestion": "Other",
-        "Top Match Score": 0.3343579769
-    },
-    {
-        "Original Room Name": "ELEV",
-        "Selected Boring Name": "Electrical",
-        "Top Boring Name Suggestion": "Electrical",
-        "Top Match Score": 0.3670065403
-    },
-    {
-        "Original Room Name": "STUDIO",
-        "Selected Boring Name": "Gymnasium",
-        "Top Boring Name Suggestion": "Gymnasium",
-        "Top Match Score": 0.3806049526
-    },
-    {
-        "Original Room Name": "HANG OUT",
-        "Selected Boring Name": "Support",
-        "Top Boring Name Suggestion": "Support",
-        "Top Match Score": 0.2710611224
-    },
-    {
-        "Original Room Name": "QUIET",
-        "Selected Boring Name": "Support",
-        "Top Boring Name Suggestion": "Support",
-        "Top Match Score": 0.3868248761
-    },
-    {
-        "Original Room Name": "HANG OUT",
-        "Selected Boring Name": "Support",
-        "Top Boring Name Suggestion": "Support",
-        "Top Match Score": 0.2710611224
-    },
-    {
-        "Original Room Name": "ELECTRICAL",
-        "Selected Boring Name": "Electrical",
-        "Top Boring Name Suggestion": "Electrical",
-        "Top Match Score": 1.0000001192
-    },
-    {
-        "Original Room Name": "SUPPORT",
-        "Selected Boring Name": "Support",
-        "Top Boring Name Suggestion": "Support",
-        "Top Match Score": 1.0
-    },
-    {
-        "Original Room Name": "ELEV",
-        "Selected Boring Name": "Electrical",
-        "Top Boring Name Suggestion": "Electrical",
-        "Top Match Score": 0.3670065403
-    },
-    {
-        "Original Room Name": "STAIRS",
-        "Selected Boring Name": "Mechanical",
-        "Top Boring Name Suggestion": "Mechanical",
-        "Top Match Score": 0.3583727777
-    },
-    {
-        "Original Room Name": "HANG OUT",
-        "Selected Boring Name": "Support",
-        "Top Boring Name Suggestion": "Support",
-        "Top Match Score": 0.2710611224
-    },
-    {
-        "Original Room Name": "STAIRS",
-        "Selected Boring Name": "Mechanical",
-        "Top Boring Name Suggestion": "Mechanical",
-        "Top Match Score": 0.3583727777
-    },
-    {
-        "Original Room Name": "ELEV",
-        "Selected Boring Name": "Electrical",
-        "Top Boring Name Suggestion": "Electrical",
-        "Top Match Score": 0.3670065403
-    },
-    {
-        "Original Room Name": "COATS",
-        "Selected Boring Name": "Locker commons ",
-        "Top Boring Name Suggestion": "Locker commons ",
-        "Top Match Score": 0.3052344322
-    },
-    {
-        "Original Room Name": "HANG OUT",
-        "Selected Boring Name": "Support",
-        "Top Boring Name Suggestion": "Support",
-        "Top Match Score": 0.2710611224
-    },
-    {
-        "Original Room Name": "MEETING",
-        "Selected Boring Name": "Spectator Seating",
-        "Top Boring Name Suggestion": "Spectator Seating",
-        "Top Match Score": 0.3498291969
-    },
-    {
-        "Original Room Name": "OUTDOOR SPECIAL EVENTS",
-        "Selected Boring Name": "Astronomy Park",
-        "Top Boring Name Suggestion": "Astronomy Park",
-        "Top Match Score": 0.3933414817
-    },
-    {
-        "Original Room Name": "SUPPORT",
-        "Selected Boring Name": "Support",
-        "Top Boring Name Suggestion": "Support",
-        "Top Match Score": 1.0
-    },
-    {
-        "Original Room Name": "KITCHEN/LOUNGE",
-        "Selected Boring Name": "Main Dining",
-        "Top Boring Name Suggestion": "Main Dining",
-        "Top Match Score": 0.5595895052
-    },
-    {
-        "Original Room Name": "JAN",
-        "Selected Boring Name": "Observatory",
-        "Top Boring Name Suggestion": "Observatory",
-        "Top Match Score": 0.2449919134
-    },
-    {
-        "Original Room Name": "SUPPORT",
-        "Selected Boring Name": "Support",
-        "Top Boring Name Suggestion": "Support",
-        "Top Match Score": 1.0
-    },
-    {
-        "Original Room Name": "STAFF",
-        "Selected Boring Name": "Staff & Support",
-        "Top Boring Name Suggestion": "Staff & Support",
-        "Top Match Score": 0.8296047449
-    },
-    {
-        "Original Room Name": "SHARED",
-        "Selected Boring Name": "Support",
-        "Top Boring Name Suggestion": "Support",
-        "Top Match Score": 0.343824327
-    },
-    {
-        "Original Room Name": "ELECTRICAL",
-        "Selected Boring Name": "Electrical",
-        "Top Boring Name Suggestion": "Electrical",
-        "Top Match Score": 1.0000001192
-    },
-    {
-        "Original Room Name": "RESTROOMS",
-        "Selected Boring Name": "Staff Areas",
-        "Top Boring Name Suggestion": "Staff Areas",
-        "Top Match Score": 0.4318459034
-    },
-    {
-        "Original Room Name": "DIREC.",
-        "Selected Boring Name": "Staff Areas",
-        "Top Boring Name Suggestion": "Staff Areas",
-        "Top Match Score": 0.2487123609
-    },
-    {
-        "Original Room Name": "STAFF",
-        "Selected Boring Name": "Staff & Support",
-        "Top Boring Name Suggestion": "Staff & Support",
-        "Top Match Score": 0.8296047449
-    },
-    {
-        "Original Room Name": "SHARED",
-        "Selected Boring Name": "Support",
-        "Top Boring Name Suggestion": "Support",
-        "Top Match Score": 0.343824327
-    },
-    {
-        "Original Room Name": "HANG OUT",
-        "Selected Boring Name": "Support",
-        "Top Boring Name Suggestion": "Support",
-        "Top Match Score": 0.2710611224
-    },
-    {
-        "Original Room Name": "MEP",
-        "Selected Boring Name": "Other",
-        "Top Boring Name Suggestion": "Other",
-        "Top Match Score": 0.3733812273
-    },
-    {
-        "Original Room Name": "MEP",
-        "Selected Boring Name": "Other",
-        "Top Boring Name Suggestion": "Other",
-        "Top Match Score": 0.3733812273
-    },
-    {
-        "Original Room Name": "SHARED",
-        "Selected Boring Name": "Support",
-        "Top Boring Name Suggestion": "Support",
-        "Top Match Score": 0.343824327
-    },
-    {
-        "Original Room Name": "STAIRS",
-        "Selected Boring Name": "Mechanical",
-        "Top Boring Name Suggestion": "Mechanical",
-        "Top Match Score": 0.3583727777
-    },
-    {
-        "Original Room Name": "STAFF",
-        "Selected Boring Name": "Staff & Support",
-        "Top Boring Name Suggestion": "Staff & Support",
-        "Top Match Score": 0.8296047449
-    },
-    {
-        "Original Room Name": "FOCUS",
-        "Selected Boring Name": "Support Space",
-        "Top Boring Name Suggestion": "Support Space",
-        "Top Match Score": 0.3093649745
-    },
-    {
-        "Original Room Name": "FOCUS",
-        "Selected Boring Name": "Support Space",
-        "Top Boring Name Suggestion": "Support Space",
-        "Top Match Score": 0.3093649745
-    },
-    {
-        "Original Room Name": "STORAGE",
-        "Selected Boring Name": "Locker commons ",
-        "Top Boring Name Suggestion": "Locker commons ",
-        "Top Match Score": 0.3638240695
-    },
-    {
-        "Original Room Name": "CIRCULATION",
-        "Selected Boring Name": "Vertical Circulation",
-        "Top Boring Name Suggestion": "Vertical Circulation",
-        "Top Match Score": 0.8210353255
-    },
-    {
-        "Original Room Name": "STAIRS",
-        "Selected Boring Name": "Mechanical",
-        "Top Boring Name Suggestion": "Mechanical",
-        "Top Match Score": 0.3583727777
-    },
-    {
-        "Original Room Name": "STAIRS",
-        "Selected Boring Name": "Mechanical",
-        "Top Boring Name Suggestion": "Mechanical",
-        "Top Match Score": 0.3583727777
-    },
-    {
-        "Original Room Name": "HANG OUT",
-        "Selected Boring Name": "Support",
-        "Top Boring Name Suggestion": "Support",
-        "Top Match Score": 0.2710611224
-    },
-    {
-        "Original Room Name": "ELEV",
-        "Selected Boring Name": "Electrical",
-        "Top Boring Name Suggestion": "Electrical",
-        "Top Match Score": 0.3670065403
-    },
-    {
-        "Original Room Name": "HANG OUT",
-        "Selected Boring Name": "Support",
-        "Top Boring Name Suggestion": "Support",
-        "Top Match Score": 0.2710611224
-    },
-    {
-        "Original Room Name": "HANG OUT",
-        "Selected Boring Name": "Support",
-        "Top Boring Name Suggestion": "Support",
-        "Top Match Score": 0.2710611224
-    },
-    {
-        "Original Room Name": "HANG OUT",
-        "Selected Boring Name": "Support",
-        "Top Boring Name Suggestion": "Support",
-        "Top Match Score": 0.2710611224
-    },
-    {
-        "Original Room Name": "ELEV",
-        "Selected Boring Name": "Electrical",
-        "Top Boring Name Suggestion": "Electrical",
-        "Top Match Score": 0.3670065403
-    },
-    {
-        "Original Room Name": "ELEV",
-        "Selected Boring Name": "Electrical",
-        "Top Boring Name Suggestion": "Electrical",
-        "Top Match Score": 0.3670065403
-    },
-    {
-        "Original Room Name": "MEP",
-        "Selected Boring Name": "Other",
-        "Top Boring Name Suggestion": "Other",
-        "Top Match Score": 0.3733812273
-    },
-    {
-        "Original Room Name": "RESTAURANT SUPPORT",
-        "Selected Boring Name": "Food Service",
-        "Top Boring Name Suggestion": "Food Service",
-        "Top Match Score": 0.6580818892
-    },
-    {
-        "Original Room Name": "CIRCULATION",
-        "Selected Boring Name": "Vertical Circulation",
-        "Top Boring Name Suggestion": "Vertical Circulation",
-        "Top Match Score": 0.8210353255
-    },
-    {
-        "Original Room Name": "STAIRS",
-        "Selected Boring Name": "Mechanical",
-        "Top Boring Name Suggestion": "Mechanical",
-        "Top Match Score": 0.3583727777
-    },
-    {
-        "Original Room Name": "ELEVATOR",
-        "Selected Boring Name": "Mechanical",
-        "Top Boring Name Suggestion": "Mechanical",
-        "Top Match Score": 0.4097509086
-    },
-    {
-        "Original Room Name": "T",
-        "Selected Boring Name": "Support",
-        "Top Boring Name Suggestion": "Support",
-        "Top Match Score": 0.3519544303
-    },
-    {
-        "Original Room Name": "CIRCULATION",
-        "Selected Boring Name": "Vertical Circulation",
-        "Top Boring Name Suggestion": "Vertical Circulation",
-        "Top Match Score": 0.8210353255
-    },
-    {
-        "Original Room Name": "SERVICE ELEV",
-        "Selected Boring Name": "Food Service",
-        "Top Boring Name Suggestion": "Food Service",
-        "Top Match Score": 0.3859655559
-    },
-    {
-        "Original Room Name": "T",
-        "Selected Boring Name": "Support",
-        "Top Boring Name Suggestion": "Support",
-        "Top Match Score": 0.3519544303
-    },
-    {
-        "Original Room Name": "IT",
-        "Selected Boring Name": "Electrical",
-        "Top Boring Name Suggestion": "Electrical - IT",
-        "Top Match Score": 0.3670812845
-    },
-    {
-        "Original Room Name": "SERVICE ELEV",
-        "Selected Boring Name": "Food Service",
-        "Top Boring Name Suggestion": "Food Service",
-        "Top Match Score": 0.3859655559
-    },
-    {
-        "Original Room Name": "SERVERY",
-        "Selected Boring Name": "Other",
-        "Top Boring Name Suggestion": "Other",
-        "Top Match Score": 0.3639150858
-    },
-    {
-        "Original Room Name": "STUDENT DINING",
-        "Selected Boring Name": "Main Dining",
-        "Top Boring Name Suggestion": "Main Dining",
-        "Top Match Score": 0.7164112926
-    },
-    {
-        "Original Room Name": "STAIRS",
-        "Selected Boring Name": "Mechanical",
-        "Top Boring Name Suggestion": "Mechanical",
-        "Top Match Score": 0.3583727777
-    },
-    {
-        "Original Room Name": "SECURITY",
-        "Selected Boring Name": "Electrical",
-        "Top Boring Name Suggestion": "Electrical - IT",
-        "Top Match Score": 0.3853564858
-    },
-    {
-        "Original Room Name": "SECURITY",
-        "Selected Boring Name": "Electrical",
-        "Top Boring Name Suggestion": "Electrical - IT",
-        "Top Match Score": 0.3853564858
-    },
-    {
-        "Original Room Name": "MEP",
-        "Selected Boring Name": "Other",
-        "Top Boring Name Suggestion": "Other",
-        "Top Match Score": 0.3733812273
-    },
-    {
-        "Original Room Name": "IT",
-        "Selected Boring Name": "Electrical",
-        "Top Boring Name Suggestion": "Electrical - IT",
-        "Top Match Score": 0.3670812845
-    },
-    {
-        "Original Room Name": "TOILET",
-        "Selected Boring Name": "Locker commons ",
-        "Top Boring Name Suggestion": "Locker commons ",
-        "Top Match Score": 0.3439919949
-    },
-    {
-        "Original Room Name": "ELEV",
-        "Selected Boring Name": "Electrical",
-        "Top Boring Name Suggestion": "Electrical",
-        "Top Match Score": 0.3670065403
-    },
-    {
-        "Original Room Name": "DINING",
-        "Selected Boring Name": "Main Dining",
-        "Top Boring Name Suggestion": "Main Dining",
-        "Top Match Score": 0.8629145026
-    },
-    {
-        "Original Room Name": "CIRCULATION",
-        "Selected Boring Name": "Vertical Circulation",
-        "Top Boring Name Suggestion": "Vertical Circulation",
-        "Top Match Score": 0.8210353255
-    },
-    {
-        "Original Room Name": "BLC CIRCULATION",
-        "Selected Boring Name": "Vertical Circulation",
-        "Top Boring Name Suggestion": "Vertical Circulation",
-        "Top Match Score": 0.5505830646
-    },
-    {
-        "Original Room Name": "CIRCULATION",
-        "Selected Boring Name": "Vertical Circulation",
-        "Top Boring Name Suggestion": "Vertical Circulation",
-        "Top Match Score": 0.8210353255
-    },
-    {
-        "Original Room Name": "CIRCULATION",
-        "Selected Boring Name": "Vertical Circulation",
-        "Top Boring Name Suggestion": "Vertical Circulation",
-        "Top Match Score": 0.8210353255
-    },
-    {
-        "Original Room Name": "TAKE OUT",
-        "Selected Boring Name": "Locker commons ",
-        "Top Boring Name Suggestion": "Locker commons ",
-        "Top Match Score": 0.2125486881
-    },
-    {
-        "Original Room Name": "HANG OUT",
-        "Selected Boring Name": "Support",
-        "Top Boring Name Suggestion": "Support",
-        "Top Match Score": 0.2710611224
-    },
-    {
-        "Original Room Name": "TOILET",
-        "Selected Boring Name": "Locker commons ",
-        "Top Boring Name Suggestion": "Locker commons ",
-        "Top Match Score": 0.3439919949
-    },
-    {
-        "Original Room Name": "STAIRS",
-        "Selected Boring Name": "Mechanical",
-        "Top Boring Name Suggestion": "Mechanical",
-        "Top Match Score": 0.3583727777
-    },
-    {
-        "Original Room Name": "CIRCULATION",
-        "Selected Boring Name": "Vertical Circulation",
-        "Top Boring Name Suggestion": "Vertical Circulation",
-        "Top Match Score": 0.8210353255
-    },
-    {
-        "Original Room Name": "STAIRS",
-        "Selected Boring Name": "Mechanical",
-        "Top Boring Name Suggestion": "Mechanical",
-        "Top Match Score": 0.3583727777
-    },
-    {
-        "Original Room Name": "ELEV",
-        "Selected Boring Name": "Electrical",
-        "Top Boring Name Suggestion": "Electrical",
-        "Top Match Score": 0.3670065403
-    },
-    {
-        "Original Room Name": "ELEV",
-        "Selected Boring Name": "Electrical",
-        "Top Boring Name Suggestion": "Electrical",
-        "Top Match Score": 0.3670065403
-    },
-    {
-        "Original Room Name": "STORAGE",
-        "Selected Boring Name": "Locker commons ",
-        "Top Boring Name Suggestion": "Locker commons ",
-        "Top Match Score": 0.3638240695
-    },
-    {
-        "Original Room Name": "CIRCULATION",
-        "Selected Boring Name": "Vertical Circulation",
-        "Top Boring Name Suggestion": "Vertical Circulation",
-        "Top Match Score": 0.8210353255
-    },
-    {
-        "Original Room Name": "BREAKOUT",
-        "Selected Boring Name": "Other",
-        "Top Boring Name Suggestion": "Other",
-        "Top Match Score": 0.3343579769
-    },
-    {
-        "Original Room Name": "MEP",
-        "Selected Boring Name": "Other",
-        "Top Boring Name Suggestion": "Other",
-        "Top Match Score": 0.3733812273
-    },
-    {
-        "Original Room Name": "RESTROOMS",
-        "Selected Boring Name": "Staff Areas",
-        "Top Boring Name Suggestion": "Staff Areas",
-        "Top Match Score": 0.4318459034
-    },
-    {
-        "Original Room Name": "MATERIALS",
-        "Selected Boring Name": "Mechanical",
-        "Top Boring Name Suggestion": "Mechanical",
-        "Top Match Score": 0.5604474545
-    },
-    {
-        "Original Room Name": "BREAKOUT",
-        "Selected Boring Name": "Other",
-        "Top Boring Name Suggestion": "Other",
-        "Top Match Score": 0.3343579769
-    },
-    {
-        "Original Room Name": "BREAKOUT",
-        "Selected Boring Name": "Other",
-        "Top Boring Name Suggestion": "Other",
-        "Top Match Score": 0.3343579769
-    },
-    {
-        "Original Room Name": "BREAKOUT",
-        "Selected Boring Name": "Other",
-        "Top Boring Name Suggestion": "Other",
-        "Top Match Score": 0.3343579769
-    },
-    {
-        "Original Room Name": "CONVENING",
-        "Selected Boring Name": "Staff & Support",
-        "Top Boring Name Suggestion": "Staff & Support",
-        "Top Match Score": 0.3004845977
-    },
-    {
-        "Original Room Name": "BREAKOUT",
-        "Selected Boring Name": "Other",
-        "Top Boring Name Suggestion": "Other",
-        "Top Match Score": 0.3343579769
-    },
-    {
-        "Original Room Name": "STAIRS",
-        "Selected Boring Name": "Mechanical",
-        "Top Boring Name Suggestion": "Mechanical",
-        "Top Match Score": 0.3583727777
-    },
-    {
-        "Original Room Name": "ELEC",
-        "Selected Boring Name": "Electrical",
-        "Top Boring Name Suggestion": "Electrical",
-        "Top Match Score": 0.3554433584
-    },
-    {
-        "Original Room Name": "STAGING/STORAGE",
-        "Selected Boring Name": "Staff Areas",
-        "Top Boring Name Suggestion": "Staff Areas",
-        "Top Match Score": 0.323105514
-    },
-    {
-        "Original Room Name": "BREAKOUT",
-        "Selected Boring Name": "Other",
-        "Top Boring Name Suggestion": "Other",
-        "Top Match Score": 0.3343579769
-    },
-    {
-        "Original Room Name": "ELEV",
-        "Selected Boring Name": "Electrical",
-        "Top Boring Name Suggestion": "Electrical",
-        "Top Match Score": 0.3670065403
-    },
-    {
-        "Original Room Name": "STUDIO",
-        "Selected Boring Name": "Gymnasium",
-        "Top Boring Name Suggestion": "Gymnasium",
-        "Top Match Score": 0.3806049526
-    },
-    {
-        "Original Room Name": "HANG OUT",
-        "Selected Boring Name": "Support",
-        "Top Boring Name Suggestion": "Support",
-        "Top Match Score": 0.2710611224
-    },
-    {
-        "Original Room Name": "QUIET",
-        "Selected Boring Name": "Support",
-        "Top Boring Name Suggestion": "Support",
-        "Top Match Score": 0.3868248761
-    },
-    {
-        "Original Room Name": "HANG OUT",
-        "Selected Boring Name": "Support",
-        "Top Boring Name Suggestion": "Support",
-        "Top Match Score": 0.2710611224
-    },
-    {
-        "Original Room Name": "ELECTRICAL",
-        "Selected Boring Name": "Electrical",
-        "Top Boring Name Suggestion": "Electrical",
-        "Top Match Score": 1.0000001192
-    },
-    {
-        "Original Room Name": "SUPPORT",
-        "Selected Boring Name": "Support",
-        "Top Boring Name Suggestion": "Support",
-        "Top Match Score": 1.0
-    },
-    {
-        "Original Room Name": "ELEV",
-        "Selected Boring Name": "Electrical",
-        "Top Boring Name Suggestion": "Electrical",
-        "Top Match Score": 0.3670065403
-    },
-    {
-        "Original Room Name": "STAIRS",
-        "Selected Boring Name": "Mechanical",
-        "Top Boring Name Suggestion": "Mechanical",
-        "Top Match Score": 0.3583727777
-    },
-    {
-        "Original Room Name": "HANG OUT",
-        "Selected Boring Name": "Support",
-        "Top Boring Name Suggestion": "Support",
-        "Top Match Score": 0.2710611224
-    },
-    {
-        "Original Room Name": "STAIRS",
-        "Selected Boring Name": "Mechanical",
-        "Top Boring Name Suggestion": "Mechanical",
-        "Top Match Score": 0.3583727777
-    },
-    {
-        "Original Room Name": "ELEV",
-        "Selected Boring Name": "Electrical",
-        "Top Boring Name Suggestion": "Electrical",
-        "Top Match Score": 0.3670065403
-    },
-    {
-        "Original Room Name": "COATS",
-        "Selected Boring Name": "Locker commons ",
-        "Top Boring Name Suggestion": "Locker commons ",
-        "Top Match Score": 0.3052344322
-    },
-    {
-        "Original Room Name": "HANG OUT",
-        "Selected Boring Name": "Support",
-        "Top Boring Name Suggestion": "Support",
-        "Top Match Score": 0.2710611224
-    },
-    {
-        "Original Room Name": "MEETING",
-        "Selected Boring Name": "Spectator Seating",
-        "Top Boring Name Suggestion": "Spectator Seating",
-        "Top Match Score": 0.3498291969
-    },
-    {
-        "Original Room Name": "OUTDOOR SPECIAL EVENTS",
-        "Selected Boring Name": "Astronomy Park",
-        "Top Boring Name Suggestion": "Astronomy Park",
-        "Top Match Score": 0.3933414817
-    },
-    {
-        "Original Room Name": "SUPPORT",
-        "Selected Boring Name": "Support",
-        "Top Boring Name Suggestion": "Support",
-        "Top Match Score": 1.0
-    },
-    {
-        "Original Room Name": "KITCHEN/LOUNGE",
-        "Selected Boring Name": "Main Dining",
-        "Top Boring Name Suggestion": "Main Dining",
-        "Top Match Score": 0.5595895052
-    },
-    {
-        "Original Room Name": "JAN",
-        "Selected Boring Name": "Observatory",
-        "Top Boring Name Suggestion": "Observatory",
-        "Top Match Score": 0.2449919134
-    },
-    {
-        "Original Room Name": "SUPPORT",
-        "Selected Boring Name": "Support",
-        "Top Boring Name Suggestion": "Support",
-        "Top Match Score": 1.0
-    },
-    {
-        "Original Room Name": "STAFF",
-        "Selected Boring Name": "Staff & Support",
-        "Top Boring Name Suggestion": "Staff & Support",
-        "Top Match Score": 0.8296047449
-    },
-    {
-        "Original Room Name": "SHARED",
-        "Selected Boring Name": "Support",
-        "Top Boring Name Suggestion": "Support",
-        "Top Match Score": 0.343824327
-    },
-    {
-        "Original Room Name": "ELECTRICAL",
-        "Selected Boring Name": "Electrical",
-        "Top Boring Name Suggestion": "Electrical",
-        "Top Match Score": 1.0000001192
-    },
-    {
-        "Original Room Name": "RESTROOMS",
-        "Selected Boring Name": "Staff Areas",
-        "Top Boring Name Suggestion": "Staff Areas",
-        "Top Match Score": 0.4318459034
-    },
-    {
-        "Original Room Name": "DIREC.",
-        "Selected Boring Name": "Staff Areas",
-        "Top Boring Name Suggestion": "Staff Areas",
-        "Top Match Score": 0.2487123609
-    },
-    {
-        "Original Room Name": "STAFF",
-        "Selected Boring Name": "Staff & Support",
-        "Top Boring Name Suggestion": "Staff & Support",
-        "Top Match Score": 0.8296047449
-    },
-    {
-        "Original Room Name": "SHARED",
-        "Selected Boring Name": "Support",
-        "Top Boring Name Suggestion": "Support",
-        "Top Match Score": 0.343824327
-    },
-    {
-        "Original Room Name": "HANG OUT",
-        "Selected Boring Name": "Support",
-        "Top Boring Name Suggestion": "Support",
-        "Top Match Score": 0.2710611224
-    },
-    {
-        "Original Room Name": "MEP",
-        "Selected Boring Name": "Other",
-        "Top Boring Name Suggestion": "Other",
-        "Top Match Score": 0.3733812273
-    },
-    {
-        "Original Room Name": "MEP",
-        "Selected Boring Name": "Other",
-        "Top Boring Name Suggestion": "Other",
-        "Top Match Score": 0.3733812273
-    },
-    {
-        "Original Room Name": "SHARED",
-        "Selected Boring Name": "Support",
-        "Top Boring Name Suggestion": "Support",
-        "Top Match Score": 0.343824327
-    },
-    {
-        "Original Room Name": "STAIRS",
-        "Selected Boring Name": "Mechanical",
-        "Top Boring Name Suggestion": "Mechanical",
-        "Top Match Score": 0.3583727777
-    },
-    {
-        "Original Room Name": "STAFF",
-        "Selected Boring Name": "Staff & Support",
-        "Top Boring Name Suggestion": "Staff & Support",
-        "Top Match Score": 0.8296047449
-    },
-    {
-        "Original Room Name": "FOCUS",
-        "Selected Boring Name": "Support Space",
-        "Top Boring Name Suggestion": "Support Space",
-        "Top Match Score": 0.3093649745
-    },
-    {
-        "Original Room Name": "FOCUS",
-        "Selected Boring Name": "Support Space",
-        "Top Boring Name Suggestion": "Support Space",
-        "Top Match Score": 0.3093649745
-    },
-    {
-        "Original Room Name": "STORAGE",
-        "Selected Boring Name": "Locker commons ",
-        "Top Boring Name Suggestion": "Locker commons ",
-        "Top Match Score": 0.3638240695
-    },
-    {
-        "Original Room Name": "CIRCULATION",
-        "Selected Boring Name": "Vertical Circulation",
-        "Top Boring Name Suggestion": "Vertical Circulation",
-        "Top Match Score": 0.8210353255
-    },
-    {
-        "Original Room Name": "STAIRS",
-        "Selected Boring Name": "Mechanical",
-        "Top Boring Name Suggestion": "Mechanical",
-        "Top Match Score": 0.3583727777
-    },
-    {
-        "Original Room Name": "STAIRS",
-        "Selected Boring Name": "Mechanical",
-        "Top Boring Name Suggestion": "Mechanical",
-        "Top Match Score": 0.3583727777
-    },
-    {
-        "Original Room Name": "HANG OUT",
-        "Selected Boring Name": "Support",
-        "Top Boring Name Suggestion": "Support",
-        "Top Match Score": 0.2710611224
-    },
-    {
-        "Original Room Name": "ELEV",
-        "Selected Boring Name": "Electrical",
-        "Top Boring Name Suggestion": "Electrical",
-        "Top Match Score": 0.3670065403
-    },
-    {
-        "Original Room Name": "HANG OUT",
-        "Selected Boring Name": "Support",
-        "Top Boring Name Suggestion": "Support",
-        "Top Match Score": 0.2710611224
-    },
-    {
-        "Original Room Name": "HANG OUT",
-        "Selected Boring Name": "Support",
-        "Top Boring Name Suggestion": "Support",
-        "Top Match Score": 0.2710611224
-    },
-    {
-        "Original Room Name": "HANG OUT",
-        "Selected Boring Name": "Support",
-        "Top Boring Name Suggestion": "Support",
-        "Top Match Score": 0.2710611224
-    },
-    {
-        "Original Room Name": "ELEV",
-        "Selected Boring Name": "Electrical",
-        "Top Boring Name Suggestion": "Electrical",
-        "Top Match Score": 0.3670065403
-    },
-    {
-        "Original Room Name": "ELEV",
-        "Selected Boring Name": "Electrical",
-        "Top Boring Name Suggestion": "Electrical",
-        "Top Match Score": 0.3670065403
-    },
-    {
-        "Original Room Name": "MEP",
-        "Selected Boring Name": "Other",
-        "Top Boring Name Suggestion": "Other",
-        "Top Match Score": 0.3733812273
-    },
-    {
-        "Original Room Name": "RESTAURANT SUPPORT",
-        "Selected Boring Name": "Food Service",
-        "Top Boring Name Suggestion": "Food Service",
-        "Top Match Score": 0.6580818892
-    },
-    {
-        "Original Room Name": "CIRCULATION",
-        "Selected Boring Name": "Vertical Circulation",
-        "Top Boring Name Suggestion": "Vertical Circulation",
-        "Top Match Score": 0.8210353255
-    },
-    {
-        "Original Room Name": "STAIRS",
-        "Selected Boring Name": "Mechanical",
-        "Top Boring Name Suggestion": "Mechanical",
-        "Top Match Score": 0.3583727777
-    },
-    {
-        "Original Room Name": "ELEVATOR",
-        "Selected Boring Name": "Mechanical",
-        "Top Boring Name Suggestion": "Mechanical",
-        "Top Match Score": 0.4097509086
-    },
-    {
-        "Original Room Name": "T",
-        "Selected Boring Name": "Support",
-        "Top Boring Name Suggestion": "Support",
-        "Top Match Score": 0.3519544303
-    },
-    {
-        "Original Room Name": "CIRCULATION",
-        "Selected Boring Name": "Vertical Circulation",
-        "Top Boring Name Suggestion": "Vertical Circulation",
-        "Top Match Score": 0.8210353255
-    },
-    {
-        "Original Room Name": "SERVICE ELEV",
-        "Selected Boring Name": "Food Service",
-        "Top Boring Name Suggestion": "Food Service",
-        "Top Match Score": 0.3859655559
-    },
-    {
-        "Original Room Name": "T",
-        "Selected Boring Name": "Support",
-        "Top Boring Name Suggestion": "Support",
-        "Top Match Score": 0.3519544303
-    },
-    {
-        "Original Room Name": "IT",
-        "Selected Boring Name": "Electrical",
-        "Top Boring Name Suggestion": "Electrical - IT",
-        "Top Match Score": 0.3670812845
-    },
-    {
-        "Original Room Name": "SERVICE ELEV",
-        "Selected Boring Name": "Food Service",
-        "Top Boring Name Suggestion": "Food Service",
-        "Top Match Score": 0.3859655559
-    },
-    {
-        "Original Room Name": "SERVERY",
-        "Selected Boring Name": "Other",
-        "Top Boring Name Suggestion": "Other",
-        "Top Match Score": 0.3639150858
-    },
-    {
-        "Original Room Name": "STUDENT DINING",
-        "Selected Boring Name": "Main Dining",
-        "Top Boring Name Suggestion": "Main Dining",
-        "Top Match Score": 0.7164112926
-    },
-    {
-        "Original Room Name": "STAIRS",
-        "Selected Boring Name": "Mechanical",
-        "Top Boring Name Suggestion": "Mechanical",
-        "Top Match Score": 0.3583727777
-    },
-    {
-        "Original Room Name": "SECURITY",
-        "Selected Boring Name": "Electrical",
-        "Top Boring Name Suggestion": "Electrical - IT",
-        "Top Match Score": 0.3853564858
-    },
-    {
-        "Original Room Name": "SECURITY",
-        "Selected Boring Name": "Electrical",
-        "Top Boring Name Suggestion": "Electrical - IT",
-        "Top Match Score": 0.3853564858
-    },
-    {
-        "Original Room Name": "MEP",
-        "Selected Boring Name": "Other",
-        "Top Boring Name Suggestion": "Other",
-        "Top Match Score": 0.3733812273
-    },
-    {
-        "Original Room Name": "IT",
-        "Selected Boring Name": "Electrical",
-        "Top Boring Name Suggestion": "Electrical - IT",
-        "Top Match Score": 0.3670812845
-    },
-    {
-        "Original Room Name": "TOILET",
-        "Selected Boring Name": "Locker commons ",
-        "Top Boring Name Suggestion": "Locker commons ",
-        "Top Match Score": 0.3439919949
-    },
-    {
-        "Original Room Name": "ELEV",
-        "Selected Boring Name": "Electrical",
-        "Top Boring Name Suggestion": "Electrical",
-        "Top Match Score": 0.3670065403
-    },
-    {
-        "Original Room Name": "DINING",
-        "Selected Boring Name": "Main Dining",
-        "Top Boring Name Suggestion": "Main Dining",
-        "Top Match Score": 0.8629145026
-    },
-    {
-        "Original Room Name": "CIRCULATION",
-        "Selected Boring Name": "Vertical Circulation",
-        "Top Boring Name Suggestion": "Vertical Circulation",
-        "Top Match Score": 0.8210353255
-    },
-    {
-        "Original Room Name": "BLC CIRCULATION",
-        "Selected Boring Name": "Vertical Circulation",
-        "Top Boring Name Suggestion": "Vertical Circulation",
-        "Top Match Score": 0.5505830646
-    },
-    {
-        "Original Room Name": "CIRCULATION",
-        "Selected Boring Name": "Vertical Circulation",
-        "Top Boring Name Suggestion": "Vertical Circulation",
-        "Top Match Score": 0.8210353255
-    },
-    {
-        "Original Room Name": "CIRCULATION",
-        "Selected Boring Name": "Vertical Circulation",
-        "Top Boring Name Suggestion": "Vertical Circulation",
-        "Top Match Score": 0.8210353255
-    },
-    {
-        "Original Room Name": "TAKE OUT",
-        "Selected Boring Name": "Locker commons ",
-        "Top Boring Name Suggestion": "Locker commons ",
-        "Top Match Score": 0.2125486881
-    },
-    {
-        "Original Room Name": "HANG OUT",
-        "Selected Boring Name": "Support",
-        "Top Boring Name Suggestion": "Support",
-        "Top Match Score": 0.2710611224
-    },
-    {
-        "Original Room Name": "TOILET",
-        "Selected Boring Name": "Locker commons ",
-        "Top Boring Name Suggestion": "Locker commons ",
-        "Top Match Score": 0.3439919949
-    },
-    {
-        "Original Room Name": "STAIRS",
-        "Selected Boring Name": "Mechanical",
-        "Top Boring Name Suggestion": "Mechanical",
-        "Top Match Score": 0.3583727777
-    },
-    {
-        "Original Room Name": "CIRCULATION",
-        "Selected Boring Name": "Vertical Circulation",
-        "Top Boring Name Suggestion": "Vertical Circulation",
-        "Top Match Score": 0.8210353255
-    },
-    {
-        "Original Room Name": "STAIRS",
-        "Selected Boring Name": "Mechanical",
-        "Top Boring Name Suggestion": "Mechanical",
-        "Top Match Score": 0.3583727777
-    },
-    {
-        "Original Room Name": "ELEV",
-        "Selected Boring Name": "Electrical",
-        "Top Boring Name Suggestion": "Electrical",
-        "Top Match Score": 0.3670065403
-    },
-    {
-        "Original Room Name": "ELEV",
-        "Selected Boring Name": "Electrical",
-        "Top Boring Name Suggestion": "Electrical",
-        "Top Match Score": 0.3670065403
-    },
-    {
-        "Original Room Name": "STORAGE",
-        "Selected Boring Name": "Locker commons ",
-        "Top Boring Name Suggestion": "Locker commons ",
-        "Top Match Score": 0.3638240695
-    },
-    {
-        "Original Room Name": "CIRCULATION",
-        "Selected Boring Name": "Vertical Circulation",
-        "Top Boring Name Suggestion": "Vertical Circulation",
-        "Top Match Score": 0.8210353255
-    },
-    {
-        "Original Room Name": "BREAKOUT",
-        "Selected Boring Name": "Other",
-        "Top Boring Name Suggestion": "Other",
-        "Top Match Score": 0.3343579769
-    },
-    {
-        "Original Room Name": "MEP",
-        "Selected Boring Name": "Other",
-        "Top Boring Name Suggestion": "Other",
-        "Top Match Score": 0.3733812273
-    },
-    {
-        "Original Room Name": "RESTROOMS",
-        "Selected Boring Name": "Staff Areas",
-        "Top Boring Name Suggestion": "Staff Areas",
-        "Top Match Score": 0.4318459034
-    },
-    {
-        "Original Room Name": "MATERIALS",
-        "Selected Boring Name": "Mechanical",
-        "Top Boring Name Suggestion": "Mechanical",
-        "Top Match Score": 0.5604474545
-    },
-    {
-        "Original Room Name": "BREAKOUT",
-        "Selected Boring Name": "Other",
-        "Top Boring Name Suggestion": "Other",
-        "Top Match Score": 0.3343579769
-    },
-    {
-        "Original Room Name": "BREAKOUT",
-        "Selected Boring Name": "Other",
-        "Top Boring Name Suggestion": "Other",
-        "Top Match Score": 0.3343579769
-    },
-    {
-        "Original Room Name": "BREAKOUT",
-        "Selected Boring Name": "Other",
-        "Top Boring Name Suggestion": "Other",
-        "Top Match Score": 0.3343579769
-    },
-    {
-        "Original Room Name": "CONVENING",
-        "Selected Boring Name": "Staff & Support",
-        "Top Boring Name Suggestion": "Staff & Support",
-        "Top Match Score": 0.3004845977
-    },
-    {
-        "Original Room Name": "BREAKOUT",
-        "Selected Boring Name": "Other",
-        "Top Boring Name Suggestion": "Other",
-        "Top Match Score": 0.3343579769
-    },
-    {
-        "Original Room Name": "STAIRS",
-        "Selected Boring Name": "Mechanical",
-        "Top Boring Name Suggestion": "Mechanical",
-        "Top Match Score": 0.3583727777
-    },
-    {
-        "Original Room Name": "ELEC",
-        "Selected Boring Name": "Electrical",
-        "Top Boring Name Suggestion": "Electrical",
-        "Top Match Score": 0.3554433584
-    },
-    {
-        "Original Room Name": "STAGING/STORAGE",
-        "Selected Boring Name": "Staff Areas",
-        "Top Boring Name Suggestion": "Staff Areas",
-        "Top Match Score": 0.323105514
-    },
-    {
-        "Original Room Name": "BREAKOUT",
-        "Selected Boring Name": "Other",
-        "Top Boring Name Suggestion": "Other",
-        "Top Match Score": 0.3343579769
-    },
-    {
-        "Original Room Name": "ELEV",
-        "Selected Boring Name": "Electrical",
-        "Top Boring Name Suggestion": "Electrical",
-        "Top Match Score": 0.3670065403
-    },
-    {
-        "Original Room Name": "STUDIO",
-        "Selected Boring Name": "Gymnasium",
-        "Top Boring Name Suggestion": "Gymnasium",
-        "Top Match Score": 0.3806049526
-    },
-    {
-        "Original Room Name": "HANG OUT",
-        "Selected Boring Name": "Support",
-        "Top Boring Name Suggestion": "Support",
-        "Top Match Score": 0.2710611224
-    },
-    {
-        "Original Room Name": "QUIET",
-        "Selected Boring Name": "Support",
-        "Top Boring Name Suggestion": "Support",
-        "Top Match Score": 0.3868248761
-    },
-    {
-        "Original Room Name": "HANG OUT",
-        "Selected Boring Name": "Support",
-        "Top Boring Name Suggestion": "Support",
-        "Top Match Score": 0.2710611224
-    },
-    {
-        "Original Room Name": "ELECTRICAL",
-        "Selected Boring Name": "Electrical",
-        "Top Boring Name Suggestion": "Electrical",
-        "Top Match Score": 1.0000001192
-    },
-    {
-        "Original Room Name": "SUPPORT",
-        "Selected Boring Name": "Support",
-        "Top Boring Name Suggestion": "Support",
-        "Top Match Score": 1.0
-    },
-    {
-        "Original Room Name": "ELEV",
-        "Selected Boring Name": "Electrical",
-        "Top Boring Name Suggestion": "Electrical",
-        "Top Match Score": 0.3670065403
-    },
-    {
-        "Original Room Name": "STAIRS",
-        "Selected Boring Name": "Mechanical",
-        "Top Boring Name Suggestion": "Mechanical",
-        "Top Match Score": 0.3583727777
-    },
-    {
-        "Original Room Name": "HANG OUT",
-        "Selected Boring Name": "Support",
-        "Top Boring Name Suggestion": "Support",
-        "Top Match Score": 0.2710611224
-    },
-    {
-        "Original Room Name": "STAIRS",
-        "Selected Boring Name": "Mechanical",
-        "Top Boring Name Suggestion": "Mechanical",
-        "Top Match Score": 0.3583727777
-    },
-    {
-        "Original Room Name": "ELEV",
-        "Selected Boring Name": "Electrical",
-        "Top Boring Name Suggestion": "Electrical",
-        "Top Match Score": 0.3670065403
-    },
-    {
-        "Original Room Name": "COATS",
-        "Selected Boring Name": "Locker commons ",
-        "Top Boring Name Suggestion": "Locker commons ",
-        "Top Match Score": 0.3052344322
-    },
-    {
-        "Original Room Name": "HANG OUT",
-        "Selected Boring Name": "Support",
-        "Top Boring Name Suggestion": "Support",
-        "Top Match Score": 0.2710611224
-    },
-    {
-        "Original Room Name": "MEETING",
-        "Selected Boring Name": "Spectator Seating",
-        "Top Boring Name Suggestion": "Spectator Seating",
-        "Top Match Score": 0.3498291969
-    },
-    {
-        "Original Room Name": "OUTDOOR SPECIAL EVENTS",
-        "Selected Boring Name": "Astronomy Park",
-        "Top Boring Name Suggestion": "Astronomy Park",
-        "Top Match Score": 0.3933414817
-    },
-    {
-        "Original Room Name": "SUPPORT",
-        "Selected Boring Name": "Support",
-        "Top Boring Name Suggestion": "Support",
-        "Top Match Score": 1.0
-    },
-    {
-        "Original Room Name": "KITCHEN/LOUNGE",
-        "Selected Boring Name": "Main Dining",
-        "Top Boring Name Suggestion": "Main Dining",
-        "Top Match Score": 0.5595895052
-    },
-    {
-        "Original Room Name": "JAN",
-        "Selected Boring Name": "Observatory",
-        "Top Boring Name Suggestion": "Observatory",
-        "Top Match Score": 0.2449919134
-    },
-    {
-        "Original Room Name": "SUPPORT",
-        "Selected Boring Name": "Support",
-        "Top Boring Name Suggestion": "Support",
-        "Top Match Score": 1.0
-    },
-    {
-        "Original Room Name": "STAFF",
-        "Selected Boring Name": "Staff & Support",
-        "Top Boring Name Suggestion": "Staff & Support",
-        "Top Match Score": 0.8296047449
-    },
-    {
-        "Original Room Name": "SHARED",
-        "Selected Boring Name": "Support",
-        "Top Boring Name Suggestion": "Support",
-        "Top Match Score": 0.343824327
-    },
-    {
-        "Original Room Name": "ELECTRICAL",
-        "Selected Boring Name": "Electrical",
-        "Top Boring Name Suggestion": "Electrical",
-        "Top Match Score": 1.0000001192
-    },
-    {
-        "Original Room Name": "RESTROOMS",
-        "Selected Boring Name": "Staff Areas",
-        "Top Boring Name Suggestion": "Staff Areas",
-        "Top Match Score": 0.4318459034
-    },
-    {
-        "Original Room Name": "DIREC.",
-        "Selected Boring Name": "Staff Areas",
-        "Top Boring Name Suggestion": "Staff Areas",
-        "Top Match Score": 0.2487123609
-    },
-    {
-        "Original Room Name": "STAFF",
-        "Selected Boring Name": "Staff & Support",
-        "Top Boring Name Suggestion": "Staff & Support",
-        "Top Match Score": 0.8296047449
-    },
-    {
-        "Original Room Name": "SHARED",
-        "Selected Boring Name": "Support",
-        "Top Boring Name Suggestion": "Support",
-        "Top Match Score": 0.343824327
-    },
-    {
-        "Original Room Name": "HANG OUT",
-        "Selected Boring Name": "Support",
-        "Top Boring Name Suggestion": "Support",
-        "Top Match Score": 0.2710611224
-    },
-    {
-        "Original Room Name": "MEP",
-        "Selected Boring Name": "Other",
-        "Top Boring Name Suggestion": "Other",
-        "Top Match Score": 0.3733812273
-    },
-    {
-        "Original Room Name": "MEP",
-        "Selected Boring Name": "Other",
-        "Top Boring Name Suggestion": "Other",
-        "Top Match Score": 0.3733812273
-    },
-    {
-        "Original Room Name": "SHARED",
-        "Selected Boring Name": "Support",
-        "Top Boring Name Suggestion": "Support",
-        "Top Match Score": 0.343824327
-    },
-    {
-        "Original Room Name": "STAIRS",
-        "Selected Boring Name": "Mechanical",
-        "Top Boring Name Suggestion": "Mechanical",
-        "Top Match Score": 0.3583727777
-    },
-    {
-        "Original Room Name": "STAFF",
-        "Selected Boring Name": "Staff & Support",
-        "Top Boring Name Suggestion": "Staff & Support",
-        "Top Match Score": 0.8296047449
-    },
-    {
-        "Original Room Name": "FOCUS",
-        "Selected Boring Name": "Support Space",
-        "Top Boring Name Suggestion": "Support Space",
-        "Top Match Score": 0.3093649745
-    },
-    {
-        "Original Room Name": "FOCUS",
-        "Selected Boring Name": "Support Space",
-        "Top Boring Name Suggestion": "Support Space",
-        "Top Match Score": 0.3093649745
-    },
-    {
-        "Original Room Name": "STORAGE",
-        "Selected Boring Name": "Locker commons ",
-        "Top Boring Name Suggestion": "Locker commons ",
-        "Top Match Score": 0.3638240695
-    },
-    {
-        "Original Room Name": "CIRCULATION",
-        "Selected Boring Name": "Vertical Circulation",
-        "Top Boring Name Suggestion": "Vertical Circulation",
-        "Top Match Score": 0.8210353255
-    },
-    {
-        "Original Room Name": "STAIRS",
-        "Selected Boring Name": "Mechanical",
-        "Top Boring Name Suggestion": "Mechanical",
-        "Top Match Score": 0.3583727777
-    },
-    {
-        "Original Room Name": "STAIRS",
-        "Selected Boring Name": "Mechanical",
-        "Top Boring Name Suggestion": "Mechanical",
-        "Top Match Score": 0.3583727777
-    },
-    {
-        "Original Room Name": "HANG OUT",
-        "Selected Boring Name": "Support",
-        "Top Boring Name Suggestion": "Support",
-        "Top Match Score": 0.2710611224
-    },
-    {
-        "Original Room Name": "ELEV",
-        "Selected Boring Name": "Electrical",
-        "Top Boring Name Suggestion": "Electrical",
-        "Top Match Score": 0.3670065403
-    },
-    {
-        "Original Room Name": "HANG OUT",
-        "Selected Boring Name": "Support",
-        "Top Boring Name Suggestion": "Support",
-        "Top Match Score": 0.2710611224
-    },
-    {
-        "Original Room Name": "HANG OUT",
-        "Selected Boring Name": "Support",
-        "Top Boring Name Suggestion": "Support",
-        "Top Match Score": 0.2710611224
-    },
-    {
-        "Original Room Name": "HANG OUT",
-        "Selected Boring Name": "Support",
-        "Top Boring Name Suggestion": "Support",
-        "Top Match Score": 0.2710611224
-    },
-    {
-        "Original Room Name": "ELEV",
-        "Selected Boring Name": "Electrical",
-        "Top Boring Name Suggestion": "Electrical",
-        "Top Match Score": 0.3670065403
-    },
-    {
-        "Original Room Name": "ELEV",
-        "Selected Boring Name": "Electrical",
-        "Top Boring Name Suggestion": "Electrical",
-        "Top Match Score": 0.3670065403
-    },
-    {
-        "Original Room Name": "MEP",
-        "Selected Boring Name": "Other",
-        "Top Boring Name Suggestion": "Other",
-        "Top Match Score": 0.3733812273
-    },
-    {
-        "Original Room Name": "RESTAURANT SUPPORT",
-        "Selected Boring Name": "Food Service",
-        "Top Boring Name Suggestion": "Food Service",
-        "Top Match Score": 0.6580818892
-    },
-    {
-        "Original Room Name": "CIRCULATION",
-        "Selected Boring Name": "Vertical Circulation",
-        "Top Boring Name Suggestion": "Vertical Circulation",
-        "Top Match Score": 0.8210353255
-    },
-    {
-        "Original Room Name": "STAIRS",
-        "Selected Boring Name": "Mechanical",
-        "Top Boring Name Suggestion": "Mechanical",
-        "Top Match Score": 0.3583727777
-    },
-    {
-        "Original Room Name": "ELEVATOR",
-        "Selected Boring Name": "Mechanical",
-        "Top Boring Name Suggestion": "Mechanical",
-        "Top Match Score": 0.4097509086
-    },
-    {
-        "Original Room Name": "T",
-        "Selected Boring Name": "Support",
-        "Top Boring Name Suggestion": "Support",
-        "Top Match Score": 0.3519544303
-    },
-    {
-        "Original Room Name": "CIRCULATION",
-        "Selected Boring Name": "Vertical Circulation",
-        "Top Boring Name Suggestion": "Vertical Circulation",
-        "Top Match Score": 0.8210353255
-    },
-    {
-        "Original Room Name": "SERVICE ELEV",
-        "Selected Boring Name": "Food Service",
-        "Top Boring Name Suggestion": "Food Service",
-        "Top Match Score": 0.3859655559
-    },
-    {
-        "Original Room Name": "T",
-        "Selected Boring Name": "Support",
-        "Top Boring Name Suggestion": "Support",
-        "Top Match Score": 0.3519544303
-    },
-    {
-        "Original Room Name": "IT",
-        "Selected Boring Name": "Electrical",
-        "Top Boring Name Suggestion": "Electrical - IT",
-        "Top Match Score": 0.3670812845
-    },
-    {
-        "Original Room Name": "SERVICE ELEV",
-        "Selected Boring Name": "Food Service",
-        "Top Boring Name Suggestion": "Food Service",
+        "2nd Boring Name Suggestion": "Electrical",
+        "3rd Boring Name Suggestion": "Electrical",
         "Top Match Score": 0.3859655559
     }
 ]
